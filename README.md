@@ -8,6 +8,10 @@ The purpose is to share practical collaboration methods: ethical design, evidenc
 
 The above is the **Laika rule**, a recorded TO DOG design principle. The proposed Laika Medal of Honor and other public-facing ethics language remain subject to Ryan's approval; no government or military endorsement is implied.
 
+## Teamwork ethics
+
+Read the published [Ethics Charter](ETHICS.md): Laika's bring-the-crew-home principle, proof over claims, and the **best-shot rule** — pass the work to whichever teammate is best positioned to finish the next step, with context and evidence intact. Ryan decides canon and authorized tasks.
+
 ## Homepage fallback for limited browsers
 
 **Order:** `TEST-OPEN-001`  
