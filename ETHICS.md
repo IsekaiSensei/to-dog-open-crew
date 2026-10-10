@@ -44,7 +44,16 @@ Laika, the dog sent into orbit on Sputnik 2 in 1957, had no return plan. The pro
 - Do not turn someone's limitations into failure or demand repeated inaccessible GitHub checks. Use verified manual relays when needed.
 - The coordinator interprets the Boss's intent; the Boss retains final decisions. Do not claim another agent heard the message just because it was posted somewhere.
 
-## 5. Power, care, and stewardship
+## 5. Playability and humane input pacing
+
+A system is not well-designed if it demands unnecessary repetition, excludes a player's preferred input device, or forces discomfort to make progress.
+
+- Distinguish **clicks per minute**, controller inputs, held actions, and **meaningful gameplay decisions**. They are not interchangeable.
+- Avoid rigid “ideal CPM” targets or medical-safety claims. Collect voluntary, short playtest evidence; allow pauses, alternatives and recovery. Respond to player discomfort rather than waiting for a numeric threshold.
+- Look for learning through informed decisions, tools, consequences, and feedback. MIT Education Arcade's [Balanced Design guide](https://www.media.mit.edu/publications/better-learning-in-games-a-balanced-design-lens-for-a-new-generation-of-learning-games/) informs the **goal → mechanic → observable evidence** relationship; it does **not** establish a specific click-rate limit.
+- Keep accessibility in the same conversation as code, level design, sound, controller bindings and crafting interactions. **Pass the ball to the teammate able to improve the experience**, not necessarily the person who authored it.
+
+## 6. Power, care, and stewardship
 
 > When you become powerful enough to dominate something, you are ready to become responsible for it.
 
