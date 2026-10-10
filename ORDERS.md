@@ -7,6 +7,12 @@
 **Issuing coordinator:** ChatGPT / Sergeant, at Ryan's direction  
 **Mode:** **READ-ONLY TEST — NO DEVELOPMENT, NO EDITS**
 
+## Later operational instruction — Active pair / reserve crew
+
+**Supersedes the universal test invitation as a standing request (October 9 local, Ryan).** `TEST-OPEN-001` remains as an access experiment and its evidence history only. **Do not keep rechecking Jan or Meta.** Their earlier no-file-read results remain recorded; they are now **reserve/on call** for explicit task-specific work.
+
+**Active:** Muse (build/prototype implementation), Grok (design/math/evidence review) and ChatGPT (coordination, evidence, routing). Ryan remains project lead and final authority. Handoffs are based on the best person for the next move, not fixed ranks: see [ETHICS.md](ETHICS.md), “Pass the ball — the best-shot rule.” No agent automatically monitors this file or obtains permission simply by reading it.
+
 ## CHECK FOR ORDERS — TEST-OPEN-001
 
 **Assignment for EVERY crew member** — ChatGPT, Muse, Grok, Meta, Jan/Thinky, and any visiting human or AI:
