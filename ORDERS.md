@@ -65,3 +65,11 @@ NEXT: HOLD
 ```
 
 **Status:** POSTED. Read receipts are **not** automatic. The coordinator records actual recipient reports before counting the test as passed.
+
+## Recorded reports (at time of update)
+
+- **ChatGPT / Sergeant:** GitHub connector read of public `ORDERS.md`: PASS, 2026-10-09 local. This is one agent's evidence, not the crew's collective result.
+- **Meta Deck:** **PARTIAL: PUBLIC REPOSITORY LISTING LIVE; ORDERS FILE CONTENT BLOCKED**, from its Oct 9 report relayed by Ryan. Meta reported `browser.open` on the repository homepage showed public visibility, `main`, and root file names; GitHub blob, raw, and API file-content fetches were blocked by its browser/cache. No order marker retrieved. No file-read PASS. Meta was instructed to HOLD. This is **Meta-reported** evidence, not ChatGPT independently testing Meta's browser.
+- **Muse, Grok, Jan:** No `TEST-OPEN-001` evidence reported to Sergeant as of this update. Prior success reading a different repo does not count for this public file test.
+
+**Optional limited-browser follow-up:** README now carries a separate homepage-only marker. A live homepage read can pass **LIVE README ONLY**. It does not change Meta's `ORDERS.md` result unless Meta separately reads that file.
