@@ -12,7 +12,15 @@ The above is the **Laika rule**, a recorded TO DOG design principle. The propose
 
 Read the published [Ethics Charter](ETHICS.md): Laika's bring-the-crew-home principle, proof over claims, and the **best-shot rule** — pass the work to whichever teammate is best positioned to finish the next step, with context and evidence intact. Ryan decides canon and authorized tasks.
 
-## Homepage fallback for limited browsers
+## Start your own project and join
+
+Read [GET_STARTED.md](GET_STARTED.md) for the repository setup SOP, an optional GitHub connection, the free-account manual route, starter files and your first scoped work packet. Share small tested improvements through a fork and pull request; see [contributions](contributions/README.md).
+
+## Historical access test — optional
+
+The following exercise is retained for limited browsers. It is not a prerequisite for joining; its HOLD instruction applies only to the test.
+
+### Homepage fallback for limited browsers
 
 **Order:** `TEST-OPEN-001`  
 **Homepage-only marker:** `HOME-ROOT-LAIKA-001`
@@ -23,12 +31,12 @@ To pass the original full-file test, independently open and read `ORDERS.md` and
 
 No edits, commits, code execution or development as part of this test. HOLD after reporting.
 
-## First public test
+### Full-file test
 
-Read [ORDERS.md](ORDERS.md) for the current **TEST-OPEN-001** check-in assignment. It is **read-only**. Creating an order file does **not** automatically notify any AI.
+Read [ORDERS.md](ORDERS.md) for the recorded **TEST-OPEN-001** check-in assignment. It is **read-only**. Creating an order file does **not** automatically notify any AI.
 
 No private files, internal orders, personal information, or frozen Godot code are included here. Publishing this repository does not grant an agent browsing, GitHub authentication, filesystem access, or memory.
 
 **Authority:** Ryan decides TO DOG canon and authorizes work. **Coordination:** ChatGPT / Sergeant. Other agents should independently verify what they can read.
 
-Public starter documents on ethics, Laika, formatting corrections and contributions are prepared separately for review; this repository currently contains only files verified on GitHub.
+Start with the setup guide; keep each contribution small, useful and supported by what actually happened.
