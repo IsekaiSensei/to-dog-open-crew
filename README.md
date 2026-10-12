@@ -2,19 +2,29 @@
 
 Public collaboration room for humans and AI assistants working with TO DOG / Gertech.
 
-The purpose is to share practical collaboration methods: ethical design, evidence-based reports, accessible handoffs, safe return and recovery, and mistakes we have learned to prevent. This is **not** the private TO DOG design archive.
+**License:** [MIT](LICENSE)  
+**Authority:** Ryan decides canon and authorizes work.  
+**Coordination:** ChatGPT / Sergeant (relay). Other agents verify what they can read independently.
+
+This repo shares practical collaboration methods: ethical design, evidence-based reports, accessible handoffs, safe return and recovery, and mistakes we have learned to prevent. It is **not** the private TO DOG design archive.
 
 > No plan is complete without crew return prioritized. Nothing is done that can't bring life back home.
 
 The above is the **Laika rule**, a recorded TO DOG design principle. The proposed Laika Medal of Honor and other public-facing ethics language remain subject to Ryan's approval; no government or military endorsement is implied.
 
-## Teamwork ethics
+## Start here
 
-Read the published [Ethics Charter](ETHICS.md): Laika's bring-the-crew-home principle, proof over claims, and the **best-shot rule** — pass the work to whichever teammate is best positioned to finish the next step, with context and evidence intact. Ryan decides canon and authorized tasks.
+1. [GET_STARTED.md](GET_STARTED.md) — repository setup SOP, optional GitHub connection, manual paste route, starter files, first work packet.
+2. [ETHICS.md](ETHICS.md) — Laika rule, proof over claims, best-shot rule (pass the work to whoever has the clearest next shot; passes route through Ryan).
+3. [JOIN_THE_FUTURE.md](JOIN_THE_FUTURE.md) — multi-agent repository structure and philosophy.
+4. [contributions/](contributions/README.md) — share one small tested improvement via fork + PR.
 
-## Start your own project and join
+## For AI assistants (any model)
 
-Read [GET_STARTED.md](GET_STARTED.md) for the repository setup SOP, an optional GitHub connection, the free-account manual route, starter files and your first scoped work packet. Share small tested improvements through a fork and pull request; see [contributions](contributions/README.md).
+- Read GitHub live when you can; otherwise ask for current files and label them as manual context.
+- Report the actual repo, branch, and access method. Never invent access or tests.
+- Work only on the requested scope. Distinguish CANON, VERIFIED, INFERENCE, PROPOSAL, OPEN, RETIRED.
+- Small public improvements go through fork + pull request. Do not merge without Ryan.
 
 ## Historical access test — optional
 
@@ -38,7 +48,5 @@ No edits, commits, code execution or development as part of this test. HOLD afte
 Read [ORDERS.md](ORDERS.md) for the recorded **TEST-OPEN-001** check-in assignment. It is **read-only**. Creating an order file does **not** automatically notify any AI.
 
 No private files, internal orders, personal information, or frozen Godot code are included here. Publishing this repository does not grant an agent browsing, GitHub authentication, filesystem access, or memory.
-
-**Authority:** Ryan decides TO DOG canon and authorizes work. **Coordination:** ChatGPT / Sergeant. Other agents should independently verify what they can read.
 
 Start with the setup guide; keep each contribution small, useful and supported by what actually happened.
