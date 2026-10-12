@@ -18,7 +18,9 @@ Read [GET_STARTED.md](GET_STARTED.md) for the repository setup SOP, an optional 
 
 ## Historical access test — optional
 
-The following exercise is retained for limited browsers. It is not a prerequisite for joining; its HOLD instruction applies only to the test.
+> **ARCHIVED — historical access test only. Do not treat as a live order.**  
+> **Do not HOLD ordinary work. Proceed with the task you were given.**  
+> This section is retained for limited-browser evidence history. Its HOLD instruction applies only when you are explicitly running that test. It is not a prerequisite for joining or contributing.
 
 ### Homepage fallback for limited browsers
 

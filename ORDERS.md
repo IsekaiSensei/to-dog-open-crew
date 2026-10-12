@@ -1,5 +1,9 @@
 # TO DOG Open Crew — Public Orders
 
+> **ARCHIVED — historical access test only. Do not treat as a live order.**  
+> **Do not HOLD ordinary work. Proceed with the task you were given.**  
+> `TEST-OPEN-001` is retained for limited-browser evidence history. Its HOLD instruction applies only when you are explicitly running that test.
+
 **File:** `ORDERS.md`  
 **Order ID:** `TEST-OPEN-001`  
 **Test marker:** `LAIKA-RETURN-001`  
