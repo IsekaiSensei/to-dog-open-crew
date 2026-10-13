@@ -97,6 +97,19 @@ Share methods and appropriately cleared examples. Keep private chats, personal d
 
 The older TEST-OPEN-001 access exercise is historical and optional. Its read-only/HOLD directions apply to that test, not to ordinary onboarding or an explicitly requested contribution.
 
+## Art contributions — new format, gradual migration
+
+**Use this format for all new or revised TO DOG / Gertech art records, briefs and visual handoffs.** Older material may be converted when edited or when straightforward. Preserve other originals and mark FORMAT MIGRATION PENDING; no wholesale migration is required.
+
+- **Medium:** Pixel / Cartoon / CGI / Realistic / Real Photo. Record OPEN if the source pixels have not been inspected; requested style and observed style are different evidence.
+- **World filter:** Gertech Fantasy / Gertech Science / Else. Unqualified Gertech defaults to Gertech Fantasy / FantasyTech. Else preserves off-world or rejected work, without automatically authorizing its generation, publication or sale.
+- **Framing:** object focus = 2px border, `data-frame="object" data-world="object-focus"`; immersive scene = 4px border, `data-frame="scene" data-world="seen-world"`. Hybrid uses `data-world="object-seen"` with its explicitly chosen object/scene frame and border.
+- **Extraction:** actual `<img>` elements, stable unique IDs and `data-extractable="true"`; do not use CSS backgrounds as the sole recoverable image. Approved canon images use `id="canon-..."` and `data-type="canon-image"`. Unapproved references use neutral IDs and honest status.
+- **Bottom JSON manifest:** match IDs, source, medium, world filter, subject class, frame/view, border, rights, creator, approval/QC, and actual dimensions/hash when available. `data-world` names the viewing context; keep the world classification in a separate field such as `data-world-filter`.
+- **Preserve evidence:** source bytes, paths, required native files, original quotations and independent approval/test records remain intact. Metadata-only filing does not deliver an image. A poster does not deliver its video master. This format applies to project art; unrelated personal/external originals retain their own source formats.
+
+For text-only method contributions, use the existing note template above. For art records, add the applicable art fields and actual asset/source evidence; do not invent missing tags, canon approval or delivery.
+
 ## Done means
 You own a repository with the four starter files; your assistant has demonstrated live access or is honestly using supplied files; you have completed one scoped packet; and, when ready, a small public contribution is submitted for review. A submitted PR is not a merged change.
 
