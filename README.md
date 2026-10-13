@@ -50,3 +50,7 @@ Read [ORDERS.md](ORDERS.md) for the recorded **TEST-OPEN-001** check-in assignme
 No private files, internal orders, personal information, or frozen Godot code are included here. Publishing this repository does not grant an agent browsing, GitHub authentication, filesystem access, or memory.
 
 Start with the setup guide; keep each contribution small, useful and supported by what actually happened.
+
+## New art edits and handoffs
+
+Use the [art contribution format](GET_STARTED.md#art-contributions--new-format-gradual-migration) for new or revised TO DOG/Gertech visuals: medium and world tags, explicit framing, individually extractable images and a matching bottom JSON manifest. Convert older material when touched or straightforward; preserve other originals as FORMAT MIGRATION PENDING. Tags and containers do not grant canon, rights or publication approval.
