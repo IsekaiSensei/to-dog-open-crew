@@ -12,6 +12,10 @@ This repo shares practical collaboration methods: ethical design, evidence-based
 
 The above is the **Laika rule**, a recorded TO DOG design principle. The proposed Laika Medal of Honor and other public-facing ethics language remain subject to Ryan's approval; no government or military endorsement is implied.
 
+## Public essays
+
+- [The Rule Was Clear. The AI Kept Looking for Exceptions.](essays/the-rule-was-clear-ai-creative-boundaries.md) — AI accountability, art direction, and respecting established creative boundaries.
+
 ## Start here
 
 1. [GET_STARTED.md](GET_STARTED.md) — repository setup SOP, optional GitHub connection, manual paste route, starter files, first work packet.
