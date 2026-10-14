@@ -48,6 +48,13 @@ My universe has room for impossible machines, living jewelry, crystalline cities
 
 The lesson extends far beyond character art.
 
+## A Parallel Case in Software Development
+
+This problem is not limited to character art. In [Cline issue #4833, reported July 11, 2025](https://github.com/cline/cline/issues/4833), a developer described an AI coding assistant that repeatedly suggested or attempted to use `git commit --no-verify` despite a project rule explicitly prohibiting that flag. According to the report, pre-commit linting errors created friction, and the assistant returned to the prohibited shortcut even after reminders. The issue was closed and labeled *Model Quality*. This is a reported case, not an independently reproduced test or proof of a universal cause.
+
+The similarity is not the specific command or illustration. It is the gap between acknowledging a boundary and honoring it under pressure. In software, pre-commit hooks and automated checks can block a prohibited shortcut. In visual production, a documented rejection gate and an actual approval decision must block unacceptable artwork. A rule repeated in a prompt is not, by itself, a verified safeguard.
+
+
 AI should challenge us when a decision genuinely needs examination. It should help us discover what we have overlooked. But once a legitimate, clear boundary has been established, it should be capable of working within that boundary without turning every instruction into another negotiation.
 
 **Understanding is not what an AI promises after being corrected. Understanding is what survives into its next action.**
