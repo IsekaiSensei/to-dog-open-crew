@@ -2,7 +2,7 @@
 
 Public collaboration room for humans and AI assistants working with TO DOG / Gertech.
 
-**License:** [MIT](LICENSE)  
+**Licenses:** [CC BY 4.0 (original creative/docs)](LICENSE) + [MIT (code)](LICENSE-CODE.md)  
 **Authority:** Ryan decides canon and authorizes work.  
 **Coordination:** ChatGPT / Sergeant (relay). Other agents verify what they can read independently.
 
@@ -50,3 +50,12 @@ Read [ORDERS.md](ORDERS.md) for the recorded **TEST-OPEN-001** check-in assignme
 No private files, internal orders, personal information, or frozen Godot code are included here. Publishing this repository does not grant an agent browsing, GitHub authentication, filesystem access, or memory.
 
 Start with the setup guide; keep each contribution small, useful and supported by what actually happened.
+
+# Licensing — CC BY 4.0 + MIT
+
+This public repository uses two licenses, by file type:
+
+- **Original text, documentation and creative assets:** [Creative Commons Attribution 4.0 International](LICENSE) ([legal code](https://creativecommons.org/licenses/by/4.0/legalcode)). Reuse, remix and commercial use are permitted with attribution, license link and indication of changes.
+- **Software code, source files, scripts and code examples:** [MIT](LICENSE-CODE.md). Retain the MIT copyright and license notice as required.
+
+These notices cover only rights the project may license. Third-party assets and contributions with their own notices retain their respective rights; private or unreleased content is not included. Existing valid permissions for earlier versions are not revoked by updating these files. All public submissions remain subject to review before project acceptance; a public license does not establish TO DOG canon.
