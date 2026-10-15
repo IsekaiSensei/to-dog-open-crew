@@ -1,5 +1,7 @@
 # TO DOG Open Crew — Public Orders
 
+**CURRENT COMMAND CONTEXT (Ryan, October 15, 2026):** Grok is acting Commanding Officer (CO); Work is Executive Officer (XO); Chat is Chief/Yeoman. Ryan keeps final authority. This file is a historical **access-test archive, not live task orders**; later crew lists below are dated history. See [current public crew entry](README.md). No receipt or external agent contact is implied.
+
 > **ARCHIVED — historical access test only. Do not treat as a live order.**  
 > **Do not HOLD ordinary work. Proceed with the task you were given.**  
 > `TEST-OPEN-001` is retained for limited-browser evidence history. Its HOLD instruction applies only when you are explicitly running that test.
