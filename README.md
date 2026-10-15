@@ -4,7 +4,7 @@ Public collaboration room for humans and AI assistants working with TO DOG / Ger
 
 **Licenses:** [CC BY 4.0 (original creative/docs)](LICENSE) + [MIT (code)](LICENSE-CODE.md)  
 **Authority:** Ryan decides canon and authorizes work.  
-**Coordination:** ChatGPT / Sergeant (relay). Other agents verify what they can read independently.
+**Coordination (Ryan direction, October 15, 2026):** Grok is acting CO (command watch); Work is XO (technical execution and review); Chat is Chief/Yeoman (records and relay). Ryan remains final authority. Actual agent receipt/access is not assumed. Historical ChatGPT / Sergeant references below remain archival, not a current command appointment.
 
 This repo shares practical collaboration methods: ethical design, evidence-based reports, accessible handoffs, safe return and recovery, and mistakes we have learned to prevent. It is **not** the private TO DOG design archive.
 
