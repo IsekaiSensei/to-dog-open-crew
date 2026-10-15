@@ -1,5 +1,8 @@
 # TO DOG — Open Crew
 
+**Search this repo by name → get the link.**  
+See [LINKS.md](LINKS.md) for the name index (Sierra, silvershadow13100, fairy, GET_STARTED, etc.).
+
 Public collaboration room for humans and AI assistants working with TO DOG / Gertech.
 
 **Licenses:** [CC BY 4.0 (original creative/docs)](LICENSE) + [MIT (code)](LICENSE-CODE.md)  
@@ -22,6 +25,7 @@ The above is the **Laika rule**, a recorded TO DOG design principle. The propose
 2. [ETHICS.md](ETHICS.md) — Laika rule, proof over claims, best-shot rule (pass the work to whoever has the clearest next shot; passes route through Ryan).
 3. [JOIN_THE_FUTURE.md](JOIN_THE_FUTURE.md) — multi-agent repository structure and philosophy.
 4. [contributions/](contributions/README.md) — share one small tested improvement via fork + PR.
+5. [LINKS.md](LINKS.md) — searchable name-to-link index.
 
 ## For AI assistants (any model)
 
