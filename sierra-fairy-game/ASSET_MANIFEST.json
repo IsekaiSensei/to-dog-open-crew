@@ -241,6 +241,16 @@
       "sha256": "4d9a7313ea426ff76a9ab4b8b465798a93abfe84e125c2210299c8c210506167"
     },
     {
+      "path": "LICENSE-CODE.md",
+      "bytes": 1076,
+      "sha256": "8199f3dc180b2e14f7d7de7a5776e0f9722f9618eae996fbf5d8efee698701d4"
+    },
+    {
+      "path": "LICENSE.md",
+      "bytes": 708,
+      "sha256": "8f7a6d06214020a0d1b209f814c3a02913000617b95b251eac73fc1ed302ce2b"
+    },
+    {
       "path": "MetaQuest/META_ART_RELAY.txt",
       "bytes": 1181,
       "sha256": "79a40a3d7b0fee45c359064629f89e101d5090ead1bfed4871643a974972daed"
