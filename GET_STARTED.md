@@ -1,4 +1,6 @@
 # Join Open Crew: your repository, your assistant, shared lessons
+
+**For Sierra’s game files and beginner lessons, use the [actual Godot/Unity/Quest package](sierra-fairy-game/README.md).** The general account/repository steps below are optional onboarding, not the game asset handoff.
 Updated October 11, 2026.
 
 Use your own project repository for your work. Use [Open Crew](https://github.com/IsekaiSensei/to-dog-open-crew) to share tested improvements to the collaboration process. Reading this public repository needs no invitation. Contributing through a fork and pull request does not require direct write access.

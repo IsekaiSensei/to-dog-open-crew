@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "status": "PRACTICE_EXAMPLE_NOT_CANON",
+  "items": [
+    {
+      "id": "practice_stone",
+      "label": "Practice stone",
+      "stack_max": 99
+    },
+    {
+      "id": "practice_tool",
+      "label": "Practice tool",
+      "stack_max": 1
+    }
+  ],
+  "recipes": [
+    {
+      "id": "practice_tool_recipe",
+      "inputs": [
+        {
+          "item": "practice_stone",
+          "count": 3
+        }
+      ],
+      "outputs": [
+        {
+          "item": "practice_tool",
+          "count": 1
+        }
+      ]
+    }
+  ],
+  "notes": "Example IDs/counts for inventory lessons only; Sierra chooses actual materials and balance."
+}

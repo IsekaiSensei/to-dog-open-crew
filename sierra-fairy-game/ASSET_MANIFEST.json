@@ -1,0 +1,409 @@
+{
+  "package_version": "1.0",
+  "owner": "Isekai Sensei",
+  "intended_builder": "Sierra",
+  "purpose": "Own Godot 2.5D fairy game; both-engine source/asset handoff",
+  "assets": [
+    {
+      "id": "tree-001",
+      "creator": "Muse",
+      "status": "EXISTING_PROTOTYPE_NOT_CANON_APPROVAL",
+      "source_revision": "3e33b3227e9b12a4fe6764f2b11f9f1973518d9d",
+      "source_path": "props/crystal_metal_tree/crystal_metal_tree_001.tscn",
+      "source_blob": "d8d35f44c98fa16edd5ab77b0c326fd9d7d962c8",
+      "location": "Shared/Models/crystal_metal_tree_001.tscn",
+      "changes": "none to .tscn; Work exported meshes to OBJ/MTL and GLB",
+      "world_filter": "Gertech Fantasy",
+      "medium": "native 3D scene",
+      "for": "Sierra handoff",
+      "licenses": {
+        "source": "owner-scoped handoff permission; retain source credit",
+        "public_code": "MIT under repository source-code license"
+      },
+      "dimensions_pivot": "base pivot; verify actual bounds",
+      "collision": "none on detailed tree; hidden Proxy is visual only"
+    },
+    {
+      "id": "world-seeder",
+      "creator": "Work; original seeder/detector source credits retained",
+      "location": "Godot/Examples/world_seeder_play",
+      "source": "Existing JanPocket / Godot PR #26 source snapshot",
+      "changes": "personal-device note removed; README updated; runtime code retained",
+      "status": "HISTORICAL_SEPARATE_PROTOTYPE",
+      "licenses": {
+        "public_code": "MIT"
+      }
+    },
+    {
+      "id": "spark-first-path",
+      "creator": "Chat / OpenAI source as supplied in original archive",
+      "location": "Godot/Examples/spark_first_path",
+      "source": "Existing spark_first_path_godot4.zip",
+      "changes": "source retained",
+      "status": "OPTIONAL_GEOMETRY_PROTOTYPE_NOT_SIERRA_GAME",
+      "licenses": {
+        "public_code": "MIT"
+      }
+    },
+    {
+      "id": "practice-items",
+      "creator": "Work",
+      "location": "Shared/Data/practice_items.json",
+      "status": "PRACTICE_EXAMPLE_NOT_CANON",
+      "changes": "new teaching schema and example values"
+    }
+  ],
+  "missing_production_assets": [
+    "Sierra-approved fairy art/rig and animation frames",
+    "Terrain atlas in Sierra\u2019s chosen grid/style",
+    "Production audio and effects"
+  ],
+  "excluded": [
+    "private Books and dialogue archives",
+    "personal Jan data and model weights",
+    "uncleared concept art and third-party characters",
+    "retired fuse-room tutorial"
+  ],
+  "files": [
+    {
+      "path": "AGENTS.md",
+      "bytes": 1039,
+      "sha256": "4fc0314149b0985bdcf860fd3c18dbecbeffeb7858fcf8f8143b0da7400ae688"
+    },
+    {
+      "path": "Godot/Examples/spark_first_path/README.md",
+      "bytes": 1331,
+      "sha256": "94623de801197f81e3c39c55347e1786c7e3c2993f7ff5ef619bd8eb98a62341"
+    },
+    {
+      "path": "Godot/Examples/spark_first_path/main.gd",
+      "bytes": 7118,
+      "sha256": "37dad74bdeddf34b9eacc069cf22f1baf7664ad2c9cf164e2459540f424ddd4e"
+    },
+    {
+      "path": "Godot/Examples/spark_first_path/main.tscn",
+      "bytes": 161,
+      "sha256": "3973029638c2f7eaae21e34535958b43ad27b42fe7c1e42b72df70a3f9ac31d7"
+    },
+    {
+      "path": "Godot/Examples/spark_first_path/project.godot",
+      "bytes": 373,
+      "sha256": "90872ba35e9827a191f45503e6f916cb30898118a8ef148a033d7261e6b9df87"
+    },
+    {
+      "path": "Godot/Examples/world_seeder_play/.gitignore",
+      "bytes": 9,
+      "sha256": "ea8b6c4c09c90f3621f1fd5c0489008d7c8784ba0ea331df8aad8609aea4fbef"
+    },
+    {
+      "path": "Godot/Examples/world_seeder_play/README.md",
+      "bytes": 600,
+      "sha256": "de09a199345e3b8e38c5f58eeb8930f9b33134d1ff17bca735ee3d2e63799777"
+    },
+    {
+      "path": "Godot/Examples/world_seeder_play/adapters/godot/load_content.gd",
+      "bytes": 1060,
+      "sha256": "0a983bf819138c9c40097eaec7eaf0115da748133e18d89b9979d7a743f3a5b8"
+    },
+    {
+      "path": "Godot/Examples/world_seeder_play/adapters/godot/play_main.gd",
+      "bytes": 4598,
+      "sha256": "0ad12306baa42b4fa49cd4fe6a9749cf782855e323a39c3691de464a1f534955"
+    },
+    {
+      "path": "Godot/Examples/world_seeder_play/adapters/godot/play_scene.tscn",
+      "bytes": 290,
+      "sha256": "dc3f7d8e4a6c449050d3ea69231cd64e013bb3ea1aa1fa178d998dca587cc273"
+    },
+    {
+      "path": "Godot/Examples/world_seeder_play/project.godot",
+      "bytes": 354,
+      "sha256": "58354a86bbbaaf03b4bab1f9e63e1f83dada45f7c180d67510f72552611a8386"
+    },
+    {
+      "path": "Godot/Examples/world_seeder_play/runtime/gdscript/session.gd",
+      "bytes": 1435,
+      "sha256": "96382c935e98d3f2b5ec9dc6dcc80167bf1d5841c9123d0378a5a929b2a28638"
+    },
+    {
+      "path": "Godot/Examples/world_seeder_play/runtime/gdscript/symbol_rules.gd",
+      "bytes": 8704,
+      "sha256": "cff29218f8dce3d6911c7b939237ab505a5edcba1db787e0971991464e413d64"
+    },
+    {
+      "path": "Godot/Examples/world_seeder_play/runtime/gdscript/world_rules.gd",
+      "bytes": 4219,
+      "sha256": "bc16792c7f92698d5c78240c4d482c726cda7f6a24e31e4b470411541074dfa2"
+    },
+    {
+      "path": "Godot/Examples/world_seeder_play/shared/README.md",
+      "bytes": 1287,
+      "sha256": "8882ed566347b5ffa374c2a24d2f99d52877ae0fbe6befeb794bff639675c56d"
+    },
+    {
+      "path": "Godot/Examples/world_seeder_play/shared/fixtures.json",
+      "bytes": 5389,
+      "sha256": "db5970d7f8ca46804c56e5f9bf7799c876b9812eb42d7e3f9021eaa59968c3f1"
+    },
+    {
+      "path": "Godot/Examples/world_seeder_play/shared/rules.json",
+      "bytes": 1338,
+      "sha256": "21ae3d33533dbba1f34aff7cdb58a81e14a330d4cba9bab29925f3b30debcbca"
+    },
+    {
+      "path": "Godot/Examples/world_seeder_play/shared/world_seed.json",
+      "bytes": 972,
+      "sha256": "c937507433c301e5e5ee2ead21bf41e2e8681773d8a52100e8b03cc99c25b80d"
+    },
+    {
+      "path": "Godot/Examples/world_seeder_play/tests/test_foundation.gd",
+      "bytes": 9657,
+      "sha256": "81bbbd6183bdc5e3278d1e06a2da038a5e3722b013097991f13debe2087969d0"
+    },
+    {
+      "path": "Godot/Examples/world_seeder_play/tests/test_ui.gd",
+      "bytes": 1170,
+      "sha256": "3c710c59ec5f7ad43d3423fbed6484999261f523e5eb173c80042329a16b998c"
+    },
+    {
+      "path": "Godot/README.md",
+      "bytes": 292,
+      "sha256": "618702002e8314ba8d0bb67ff93ea31e4a90df847e9ebe47fe69e660de841883"
+    },
+    {
+      "path": "Godot/SierraWorkshop/.gitignore",
+      "bytes": 48,
+      "sha256": "57d369c701ed54a8848c2f057931967672dfdbf159d1586c95d8a72b64ce20aa"
+    },
+    {
+      "path": "Godot/SierraWorkshop/Assets/Models/crystal_metal_tree_001.tscn",
+      "bytes": 8149,
+      "sha256": "6a2120913aa53cdc809a879058fbcf846001e993f79e4b476a9bb1f19d9b4e92"
+    },
+    {
+      "path": "Godot/SierraWorkshop/Data/practice_items.json",
+      "bytes": 659,
+      "sha256": "b9b1dbdb3c2491bed63a9b4b3135fe53280ccfe9978e09bf89b3191b93ba0cd8"
+    },
+    {
+      "path": "Godot/SierraWorkshop/Data/world_direction.json",
+      "bytes": 985,
+      "sha256": "4de0a40702a4cd0d4060b8b57c54c32a76bfb90525fdfa9102c293dd6207db29"
+    },
+    {
+      "path": "Godot/SierraWorkshop/README.md",
+      "bytes": 346,
+      "sha256": "9fc5059948994ff2faaa4934ee6b1767cf08f23879c0685bb07ea5ba673d2628"
+    },
+    {
+      "path": "Godot/SierraWorkshop/Scenes/AssetBench3D.tscn",
+      "bytes": 1192,
+      "sha256": "472c3611ad6fd121d1c19dac992147f448eeb6635aa130bd8a0c897ec21c6b2c"
+    },
+    {
+      "path": "Godot/SierraWorkshop/Scenes/SideView2D.tscn",
+      "bytes": 791,
+      "sha256": "08f56bbe95302ce912e35891b79b5e82d40b4ea35cb5931fcba5e2ddbd332814"
+    },
+    {
+      "path": "Godot/SierraWorkshop/Scenes/Start.tscn",
+      "bytes": 804,
+      "sha256": "9b7b1d4944859396bc3804af1572a5a2d381f39268747ff32e8ee2b1c2753741"
+    },
+    {
+      "path": "Godot/SierraWorkshop/project.godot",
+      "bytes": 387,
+      "sha256": "edb345d3cdc369aea5d8e44c154a5a011e02cc2bb2cec1ed88cb1d2f6d4abe27"
+    },
+    {
+      "path": "Guides/ART_AND_IMPORT.md",
+      "bytes": 1821,
+      "sha256": "7140fd5c0e408c24352b7e93090a2ca6dae7912f53df8a4dd1dd04ebf86e2944"
+    },
+    {
+      "path": "Guides/BUILD_ROADMAP.md",
+      "bytes": 2988,
+      "sha256": "4942b0a717df3978f4e7e9a00cdf3ac358445cff2f3e8b68b95f1b0099738de2"
+    },
+    {
+      "path": "Guides/SD_CARD.md",
+      "bytes": 1788,
+      "sha256": "c3f1c31299112740da7264520cd256941ac1a5f7505b2dea9719e047afc2b5bd"
+    },
+    {
+      "path": "Guides/TROUBLESHOOTING.md",
+      "bytes": 1495,
+      "sha256": "0d38d46f869b1b1ef6951077b1e7d55a338f60a9ec932d9d579320bb007450ab"
+    },
+    {
+      "path": "LESSONS.md",
+      "bytes": 5111,
+      "sha256": "4d9a7313ea426ff76a9ab4b8b465798a93abfe84e125c2210299c8c210506167"
+    },
+    {
+      "path": "MetaQuest/META_ART_RELAY.txt",
+      "bytes": 1181,
+      "sha256": "79a40a3d7b0fee45c359064629f89e101d5090ead1bfed4871643a974972daed"
+    },
+    {
+      "path": "MetaQuest/README.md",
+      "bytes": 2853,
+      "sha256": "a4b2fcf248d3a8bc718184998e0275f2ed30b6b27f72c3244f9b4f8edf3c16fb"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2685,
+      "sha256": "7c7b3b55105a05bec4f070932e799ac75edecc62cea30201cfc0c079e7807c2d"
+    },
+    {
+      "path": "SHARED_WORLD.md",
+      "bytes": 1917,
+      "sha256": "ee45aa1735a9e920ccfcb5c36e13bd130abb2d8f26893c9ae6c7f1548b54fc0f"
+    },
+    {
+      "path": "START_HERE.html",
+      "bytes": 5014,
+      "sha256": "ceeeadabc47fe617c0cc6678250712c67081c04ffea2765d7594d847bf02e1fd"
+    },
+    {
+      "path": "STATE.md",
+      "bytes": 642,
+      "sha256": "5b0e40f231292307cb10aee84495e65de67a751c8a80daf1f92f0d69e8a69416"
+    },
+    {
+      "path": "Shared/Data/practice_items.json",
+      "bytes": 659,
+      "sha256": "b9b1dbdb3c2491bed63a9b4b3135fe53280ccfe9978e09bf89b3191b93ba0cd8"
+    },
+    {
+      "path": "Shared/Data/world_direction.json",
+      "bytes": 985,
+      "sha256": "4de0a40702a4cd0d4060b8b57c54c32a76bfb90525fdfa9102c293dd6207db29"
+    },
+    {
+      "path": "Shared/Models/SOURCE.md",
+      "bytes": 850,
+      "sha256": "ab376d9674acab49fd171a6b5a8dee3e6fccccbfd750bb99b046da7f6023ae51"
+    },
+    {
+      "path": "Shared/Models/crystal_metal_tree_001.glb",
+      "bytes": 26940,
+      "sha256": "165d61b6a4258f5c71af48991f8596a2ebd4228d17d750069d827ef7738b9b5f"
+    },
+    {
+      "path": "Shared/Models/crystal_metal_tree_001.mtl",
+      "bytes": 267,
+      "sha256": "81346820453ebb5e7e1c62ea882863b37e55efc045da879c82634132a2bec890"
+    },
+    {
+      "path": "Shared/Models/crystal_metal_tree_001.obj",
+      "bytes": 137181,
+      "sha256": "7b76a88bd0c9d83476c6f565a9c5cc35eaf148bc02f21d59b7b1335ae6102058"
+    },
+    {
+      "path": "Shared/Models/crystal_metal_tree_001.tscn",
+      "bytes": 8149,
+      "sha256": "6a2120913aa53cdc809a879058fbcf846001e993f79e4b476a9bb1f19d9b4e92"
+    },
+    {
+      "path": "Shared/README.md",
+      "bytes": 309,
+      "sha256": "a9ffcaf70500c33b5d2e189893f4aa80a452c8d41c8c6175b9bdc4c253175f84"
+    },
+    {
+      "path": "Unity/GertechSharedAssets.unitypackage",
+      "bytes": 26910,
+      "sha256": "cb9fc1cb41d1ec4d307b73d00573e35c44a2437f5e3a7978ed06aa6419c56c45"
+    },
+    {
+      "path": "Unity/README.md",
+      "bytes": 2042,
+      "sha256": "32a7bdfc0c510086a25aa40703d88b878df8ad49ecb7ee458836856362fde611"
+    },
+    {
+      "path": "Unity/SierraWorkshop/.gitignore",
+      "bytes": 84,
+      "sha256": "d71e116dd885c6d7426456d8ba1edb0856fb01e346403a3f8680ad7cf48ce197"
+    },
+    {
+      "path": "Unity/SierraWorkshop/Assets/Gertech/Data/practice_items.json",
+      "bytes": 659,
+      "sha256": "b9b1dbdb3c2491bed63a9b4b3135fe53280ccfe9978e09bf89b3191b93ba0cd8"
+    },
+    {
+      "path": "Unity/SierraWorkshop/Assets/Gertech/Data/practice_items.json.meta",
+      "bytes": 60,
+      "sha256": "a539501a2744bfc2c5ba77153901b9a7dd172c05310f081af6fb3e1093b0a2d4"
+    },
+    {
+      "path": "Unity/SierraWorkshop/Assets/Gertech/Data/world_direction.json",
+      "bytes": 985,
+      "sha256": "4de0a40702a4cd0d4060b8b57c54c32a76bfb90525fdfa9102c293dd6207db29"
+    },
+    {
+      "path": "Unity/SierraWorkshop/Assets/Gertech/Data/world_direction.json.meta",
+      "bytes": 60,
+      "sha256": "e575b7b14fdf2c506b17e99063aa98a933edcc77a9581980224bee2908fe8933"
+    },
+    {
+      "path": "Unity/SierraWorkshop/Assets/Gertech/Editor/CreateWorkspace.cs",
+      "bytes": 1699,
+      "sha256": "027d5c096f933e0d6c92fd7cfdb19beeabb6df70545d3064be28eb3018b48899"
+    },
+    {
+      "path": "Unity/SierraWorkshop/Assets/Gertech/Editor/CreateWorkspace.cs.meta",
+      "bytes": 60,
+      "sha256": "3c03cefa09a52c57f84ea0d55a20f26abcfd664134b80d10aaf2049a2fe16d56"
+    },
+    {
+      "path": "Unity/SierraWorkshop/Assets/Gertech/Models/crystal_metal_tree_001.mtl",
+      "bytes": 267,
+      "sha256": "81346820453ebb5e7e1c62ea882863b37e55efc045da879c82634132a2bec890"
+    },
+    {
+      "path": "Unity/SierraWorkshop/Assets/Gertech/Models/crystal_metal_tree_001.mtl.meta",
+      "bytes": 60,
+      "sha256": "4b2e9e031f68fee648cde02e1f4cea6203d3c2b3f0607b88c0bd4c715b8cf59f"
+    },
+    {
+      "path": "Unity/SierraWorkshop/Assets/Gertech/Models/crystal_metal_tree_001.obj",
+      "bytes": 137181,
+      "sha256": "7b76a88bd0c9d83476c6f565a9c5cc35eaf148bc02f21d59b7b1335ae6102058"
+    },
+    {
+      "path": "Unity/SierraWorkshop/Assets/Gertech/Models/crystal_metal_tree_001.obj.meta",
+      "bytes": 60,
+      "sha256": "5034074df5136b147c6d78ffa33c2e4fb6096371c1bb749d97dbf7c356da8ae0"
+    },
+    {
+      "path": "Unity/SierraWorkshop/Assets/Gertech/README.txt",
+      "bytes": 111,
+      "sha256": "1946946a5d8d0db827386dcf4211128337614769bc33170081855e261de56b2d"
+    },
+    {
+      "path": "Unity/SierraWorkshop/Assets/Gertech/README.txt.meta",
+      "bytes": 60,
+      "sha256": "020715cf4acd6c04ac198b4a258b2bd7da4e0bc7c85c061ce38e9cac56823009"
+    },
+    {
+      "path": "Unity/SierraWorkshop/Packages/manifest.json",
+      "bytes": 238,
+      "sha256": "f41ff82518edab15eb2ed3b710534cb1b873a53a4899b26c5ca540ee8d6ff967"
+    },
+    {
+      "path": "Unity/SierraWorkshop/ProjectSettings/ProjectVersion.txt",
+      "bytes": 29,
+      "sha256": "61e4fb53b6a6f2f01d8d94ea96d272d5fdce1a1d82f078797d92bb08a596eaec"
+    },
+    {
+      "path": "VERIFICATION.md",
+      "bytes": 2089,
+      "sha256": "1a000a4ddf0a6886a61d57b5bc0f1e13aa0344338a50ffd420918fa103c3167a"
+    },
+    {
+      "path": "WORK.md",
+      "bytes": 281,
+      "sha256": "179c704e24c9461bdd8fe1c5d4cd5d61d5eec3fd66085001c3feb0bc34ebcd31"
+    }
+  ]
+}

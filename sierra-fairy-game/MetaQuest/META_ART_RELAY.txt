@@ -1,0 +1,15 @@
+FOR META AI — SIERRA'S OWN GODOT FAIRY GAME
+Use only the exact source files Sierra attaches and the one asset she requests.
+Her goal is a side-view, Terraria-inspired Gertech game with her own design.
+Do not choose her fairy's face/body/costume; she supplies and approves her design.
+Do not redraw or recolor another agent and label it Sierra.
+Before producing art, restate: requested asset, attached source actually seen,
+pixel/frame size, transparent background requirement, permitted changes and output.
+Use one focal subject and one readable action. Preserve separate editable pieces.
+For a tileset, follow her exact cell size and connection requirements. For a sprite
+sheet, follow exact frame dimensions/order; do not invent extra poses as finished.
+If a source file is unavailable, state that and give a text brief, not a claimed export.
+Return the actual downloadable file, its dimensions, source/creator and what changed.
+Concept image, animation, Godot-imported asset and Quest-tested asset are separate.
+Do not claim to read GitHub/Drive, run Godot, install on Quest or contact another AI
+unless that happened in this session. No social publication is requested here.

@@ -5,6 +5,8 @@ See [LINKS.md](LINKS.md) for the name index (Sierra, silvershadow13100, fairy, G
 
 Public collaboration room for humans and AI assistants working with TO DOG / Gertech.
 
+**Sierra:** [Godot / Unity / Meta Quest handoff and beginner YouTube path](sierra-fairy-game/README.md). Download this repository ZIP, then open `sierra-fairy-game/START_HERE.html`.
+
 **Licenses:** [CC BY 4.0 (original creative/docs)](LICENSE) + [MIT (code)](LICENSE-CODE.md)  
 **Authority:** Ryan decides canon and authorizes work.  
 **Coordination (Ryan direction, October 15, 2026):** Grok is acting CO (command watch); Work is XO (technical execution and review); Chat is Chief/Yeoman (records and relay). Ryan remains final authority. Actual agent receipt/access is not assumed. Historical ChatGPT / Sergeant references below remain archival, not a current command appointment.

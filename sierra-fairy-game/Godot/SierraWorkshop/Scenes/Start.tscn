@@ -1,0 +1,27 @@
+[gd_scene format=3]
+
+[node name="SierraWorkshop" type="Node2D"]
+
+[node name="Title" type="Label" parent="."]
+offset_left = 48.0
+offset_top = 40.0
+offset_right = 1100.0
+offset_bottom = 100.0
+theme_override_font_sizes/font_size = 34
+text = "Sierra's Gertech workshop"
+
+[node name="Directions" type="Label" parent="."]
+offset_left = 48.0
+offset_top = 130.0
+offset_right = 1080.0
+offset_bottom = 620.0
+theme_override_font_sizes/font_size = 22
+text = "Your game. Your fairy. Your first room.
+
+Begin with LESSONS.md outside this project.
+
+Scenes/SideView2D.tscn is your empty side-view workspace.
+Scenes/AssetBench3D.tscn shows the existing tree with an orthographic camera.
+
+Examples live beside this project, so their rules stay separate.
+Make your own character design and choose one small thing to build."

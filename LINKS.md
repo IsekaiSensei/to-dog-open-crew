@@ -35,3 +35,8 @@ Anyone can search the public repository. No private access needed.
 Private material stays private. This index only points to public files.
 
 Updated: 2026-10-15
+
+
+## Sierra — current game resource package
+
+[Godot / Unity / Meta Quest source package and beginner lessons](sierra-fairy-game/README.md) · [YouTube learning order](sierra-fairy-game/LESSONS.md) · [portable SD card instructions](sierra-fairy-game/Guides/SD_CARD.md). Public download requires no private Hub access.
