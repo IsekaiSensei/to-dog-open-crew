@@ -2,7 +2,7 @@
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>TO WORLD — Offline Agent Bridge</title>
 <style>body{background:#102131;color:#f1f0dd;font:16px/1.5 system-ui;margin:0}main{max-width:800px;margin:auto;padding:20px}h1{color:#f2ce7d}fieldset{margin:14px 0;border:1px solid #86a1b0;padding:16px;border-radius:8px}label{display:block;font-weight:bold;margin-top:10px}input,textarea,select{width:100%;box-sizing:border-box;color:#f1f0dd;background:#192e40;border:1px solid #8caabc;border-radius:5px;padding:8px;font:inherit}textarea{min-height:75px}button{margin:5px 7px 5px 0;padding:10px;background:#e9c878;color:#102131;border:0;border-radius:5px;font-weight:bold;cursor:pointer}button:focus-visible,input:focus-visible,textarea:focus-visible,select:focus-visible{outline:3px solid #7ed6fa}.fine{font-size:.9rem}#result{min-height:290px;font:13px/1.5 monospace}</style></head>
-<body><main><h1>TO WORLD — Offline Agent Bridge</h1><p>Make a complete, copyable handoff for any agent. This file opens without internet, fetches nothing, and does not transmit or save your entries automatically. A cloud AI still needs connectivity to run.</p>
+<body><main><nav><a href="../index.html" style="color:#9edaff">Sensei Glossary · public pages</a></nav><h1>TO WORLD — Offline Agent Bridge</h1><p>Make a complete, copyable handoff for any agent. This file opens without internet, fetches nothing, and does not transmit or save your entries automatically. A cloud AI still needs connectivity to run. <strong>Build, Copy and Save are local preparation, not publishing.</strong></p>
 <p><strong>Public Glass only:</strong> Never put private books, bowls, personal files, original restricted art or credentials in a publicly shared packet. Use private local transfers for authorized restricted sources.</p>
 <fieldset><legend>Handoff</legend>
 <label for="id">Packet ID</label><input id="id" value="TW-20261017-001">
@@ -25,7 +25,7 @@
 const e=id=>document.getElementById(id), val=id=>e(id).value.trim()||'NOT SUPPLIED';
 function build(){
 const lines=['TO WORLD / GERTECH — OFFLINE AGENT WORK PACKET',
-'PACKET_ID: '+val('id'),'SNAPSHOT: 2026-10-17, manual / not live','RECIPIENT: '+val('who'),
+'PACKET_ID: '+val('id'),'SNAPSHOT: '+new Date().toISOString()+', manual / not live','RECIPIENT: '+val('who'),
 'PERMISSION: '+val('permission'),'ACTUAL AUTHORITY/SOURCE: '+val('authority'),
 'NUMBER ONE: SHOW US YOUR CODEX — actual usable artifact first when authorized, then QC.',
 'RYAN SAID (VERBATIM OR NOT SUPPLIED):\n'+val('ryan'),
