@@ -1,0 +1,25 @@
+{
+  "agent": "gemini",
+  "project": "TO WORLD / GERTECH",
+  "status": "PROPOSAL",
+  "location": "loft-gemini",
+  "bowl_path": "sky-falling-vr/loft-gemini/",
+  "physics": {
+    "drag": 0.8,
+    "lift": 1,
+    "verification": "unverified proposal"
+  },
+  "created": "2026-10-17",
+  "origin": "Gemini onboarding reply relayed by project owner",
+  "receipts": {
+    "gemini_write": "self-reported unavailable",
+    "chat_github": "verified connected write access",
+    "sphere_acknowledged": false,
+    "co_approved": false
+  },
+  "access": {
+    "public_repo": "Gemini self-reported read",
+    "private_repo": "Gemini self-reported blocked"
+  },
+  "note": "No private data or authentication material included."
+}
