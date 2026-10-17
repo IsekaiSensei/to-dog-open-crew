@@ -3,7 +3,7 @@
 **ID:** WORLD-BOOK-CONCEPT-001  
 **Status:** CANON — explicitly designated by Isekai Sensei (Ryan), 2026-10-17  
 **Home:** [World Book — front page](index.html#concept-001) · [World Book reference](WORLD_BOOK.md)  
-**Source:** Owner-supplied visual diagram titled **“PSYCHE 16 STARFORGE SYSTEM — BRAINSTORM PLATFORM”** (supplied Oct 17, 2026; diagram artwork originated in an agent collaboration). This is a textual, searchable transcription/interpretation of the approved diagram. The exact source-image binary is an independent archival asset and must not be represented as uploaded to this repo until confirmed.
+**Source:** Owner-supplied visual diagram titled **“PSYCHE 16 STARFORGE SYSTEM — BRAINSTORM PLATFORM”** (supplied Oct 17, 2026; diagram artwork originated in an agent collaboration). This is a textual, searchable transcription of the approved diagram. The matching JPEG source art was retrieved from the existing Google Drive Psyche 16 system-diagrams folder and is **committed to this public repo**: [Approved Concept Page 001 image](assets/CONCEPT_PAGE_001_PSYche16_Brainstorm_Platform.jpg).
 
 > **ONE SET. INFINITE FORMS.**
 
@@ -42,15 +42,15 @@ The image uses connected Platonic / geometric agents as a **workflow design lang
 
 ## Front-page mandate
 
-This is the **first named concept Page** of the World Book, and the World Book's **first page** must visibly feature it as a prominent section (position/size responsive to screen). Do not bury it as a footer link or relegate it solely to the Garden. Preserve the approved original image, its provenance, and accessible searchable text together. Do not claim the web image is the exact original until the image asset is verifiably deployed.
+This is the **first named concept Page** of the World Book, and the World Book's **first page** must visibly feature it as a prominent section (position/size responsive to screen). Do not bury it as a footer link or relegate it solely to the Garden. Preserve the approved original image, its provenance, and accessible searchable text together. The exact diagram is committed at [Approved Concept Page 001 image](assets/CONCEPT_PAGE_001_PSYche16_Brainstorm_Platform.jpg); the public GitHub homepage source embeds it with an accessible, searchable text companion. Separately verify GitHub Pages deployment and search indexing.
 
 ## Canon boundaries
 
 **CANON:** this diagram is *Concept Page 001*, its five named module functions, three-layer structure, Garden distinction, and its prominent front-page placement, by direct Ryan authorization (2026-10-17).  
 **CONCEPT:** proposed dynamic shape-reconfiguration and emergent assemblies; no live physics, starforge game engine or cross-agent execution is proven by the artwork.  
-**OPEN:** archive/deploy exact image pixels publicly; verify GitHub Pages configuration, public live URL, and eventual search indexing; receive acknowledgments from each separate agent.  
+**VERIFIED SOURCE:** matching diagram JPEG has been committed to public GitHub (source asset; deployment on Pages remains separate). **OPEN:** verify GitHub Pages configuration, public live URL, and eventual search indexing; obtain acknowledgments from each separate agent.  
 **SEARCH TAGS:** Psyche 16; Starforge; Brainstorm Platform; GERTECH; TO WORLD; World Book; Concept Page 001; gummy ships; Sucker; Thruster; Inhabitor; Frame; Power; modular reconfiguration; Sphere; Grok; Work; Meta; Muse; Garden of Bullshit; Platonic solids; geometric agent layer.
 
 **Crew distribution:** share this single canonical public URL with every agent instead of diverging copies. Each agent should report a read receipt (agent, exact path or handoff, date, actual access, understood correction). No automatic reads or notifications are presumed.
 
-[Return to World Book](WORLD_BOOK.md) · [Public home](index.html#concept-001) · [Garden](garden/README.md)
+[Approved Concept Page 001 image](assets/CONCEPT_PAGE_001_PSYche16_Brainstorm_Platform.jpg) · [Return to World Book](WORLD_BOOK.md) · [Public home](index.html#concept-001) · [Garden](garden/README.md)
