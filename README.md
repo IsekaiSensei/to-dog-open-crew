@@ -23,7 +23,7 @@ The above is the **Laika rule**, a recorded TO DOG design principle. The propose
 
 ## World Book — front-page canon (owner GO, Oct 17 2026)
 
-**CONCEPT PAGE 001** — [Psyche 16 Starforge System / Brainstorm Platform](CONCEPT_PAGE_001.md), the first named canonical concept of the World Book. The [website first page](index.html#concept-001) features its accessible three-layer diagram above the glossary. Five module types — **Sucker, Thruster, Inhabitor, Frame, Power** — plus a geometric agent network and the data/Garden/output path. Read the [crew-wide relay and receipt instructions](CREW_HANDOFF_CONCEPT_001.md). The exact approved source-image asset is awaiting a verified binary upload; the conceptual web rendering is not the original art. Public source publication does not prove GitHub Pages deployment or receipt by other agents.
+**CONCEPT PAGE 001** — [Psyche 16 Starforge System / Brainstorm Platform](CONCEPT_PAGE_001.md), the first named canonical concept of the World Book. The [website first page](index.html#concept-001) features its accessible three-layer diagram above the glossary. Five module types — **Sucker, Thruster, Inhabitor, Frame, Power** — plus a geometric agent network and the data/Garden/output path. Read the [crew-wide relay and receipt instructions](CREW_HANDOFF_CONCEPT_001.md). The [original matching source image](assets/CONCEPT_PAGE_001_PSYche16_Brainstorm_Platform.jpg) is publicly committed, and the homepage HTML displays it above the searchable diagram. Publishing source does not prove GitHub Pages deployment or receipt by other agents.
 
 ## Public Pages
 
