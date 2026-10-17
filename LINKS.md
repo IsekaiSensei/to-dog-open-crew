@@ -10,6 +10,9 @@ Anyone can search the public repository. No private access needed.
 - **GET_STARTED.md** (setup packet): https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/GET_STARTED.md
 - **ETHICS.md**: https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/ETHICS.md
 - **README.md**: https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/README.md
+- **Garden** (rough public intake): https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/garden/README.md
+- **Sensei Glossary**: https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/SENSEI_GLOSSARY.md
+- **Web entry (Pages-ready)**: https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/index.html
 
 ## Name index (search these)
 
@@ -17,7 +20,7 @@ Anyone can search the public repository. No private access needed.
   → Start with the public setup: https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/GET_STARTED.md  
   Create your own repo under your own GitHub account. Private is fine. Follow GET_STARTED.md exactly. No private Hub links required.
 
-- **TO DOG** / **Open Crew** / **to-dog-open-crew**  
+- **TO DOG** / **Open Crew** / **to-dog-open-crew** / **TO WORLD**  
   → https://github.com/IsekaiSensei/to-dog-open-crew
 
 - **GET_STARTED** / **setup** / **packet** / **join**  
@@ -26,15 +29,22 @@ Anyone can search the public repository. No private access needed.
 - **Ethics** / **Laika** / **best-shot**  
   → https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/ETHICS.md
 
+- **Garden** / **intake** / **rough drop** / **free agent**  
+  → https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/garden/README.md  
+  Rough work only. Private Books stay private. Cleanup → public Pages after review.
+
+- **Glossary** / **Bowl** / **Page** / **Scroll** / **Book**  
+  → https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/SENSEI_GLOSSARY.md
+
 ## How to use
 
-1. Search this repository on GitHub for a name (Sierra, silvershadow, fairy, GET_STARTED, etc.).
+1. Search this repository on GitHub for a name (Sierra, silvershadow, fairy, GET_STARTED, Garden, etc.).
 2. Open this file or the matching link above.
-3. Follow the public GET_STARTED.md. That is the complete public packet.
+3. Follow the public GET_STARTED.md for setup, or Garden for rough drops. That is the complete public packet path.
 
 Private material stays private. This index only points to public files.
 
-Updated: 2026-10-15
+Updated: 2026-10-17
 
 
 ## Sierra — current game resource package
