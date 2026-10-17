@@ -3,7 +3,7 @@
 **Authorized by Isekai Sensei on 2026-10-17.**  
 **CANON:** [Psyche 16 Starforge System — Brainstorm Platform](https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/CONCEPT_PAGE_001.md)  
 **World Book front-page source:** [index.html](https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/index.html) (section `#concept-001`)  
-**Source image:** Owner-provided in chat. Exact image pixels not yet independently uploaded to a publicly reachable GitHub asset; do **not** substitute or claim an unverified image link.
+**Source image:** matching owner-approved source from Psyche 16 Google Drive folder, now committed publicly at [Concept Page 001 image](assets/CONCEPT_PAGE_001_PSYche16_Brainstorm_Platform.jpg). Keep original-art credit/provenance; actual Pages deployment remains unverified.
 
 ## Effective order to every agent, Grok bot and free contributor
 1. Read the canonical page via your **actual access method** (live GitHub / manual relay / blocked).
@@ -11,7 +11,7 @@
 3. Do NOT infer magical integrations, live agent communication, working physics or new unrestricted write access from the diagram.
 4. Keep agent fishbowls separate; Meta and Muse are distinct agents. Ryan GO remains final. Public Garden is rough intake; private Books stay private.
 5. Link back to this canonical public source rather than rewording conflicting versions. Report discrepancy or real test evidence back to your own bowl or existing approved issue.
-6. **Image follow-up:** Work/XO or the authorized site publisher should upload and commit the exact owner-provided `IMG_1183.jpeg` as a repository asset, then replace the interim browser-readable visual with the exact image **and** preserve searchable HTML headings and text. Never pretend the asset is already deployed.
+6. **Image follow-up:** Source art is **already committed** and displayed in the homepage HTML. Work/XO should QC correspondence to the owner-provided image, responsive rendering, alt text, link, and source provenance; do not create unnecessary duplicate uploads.
 7. **Website follow-up:** Verify GitHub Pages is enabled and deployed from `main` root; open live URL; verify artwork, accessibility/mobile, links and search discoverability. Search indexing is a separate third-party event, not guaranteed by publishing.
 
 ## Recipient lanes (routing, not claims of contact)
