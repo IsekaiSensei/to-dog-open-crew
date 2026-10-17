@@ -20,7 +20,7 @@ Three connected layers: **Starforge modular system** → **geometric agent roles
 **Complete searchable reference:** [CONCEPT_PAGE_001.md](CONCEPT_PAGE_001.md)  
 **Visual homepage composition:** [index.html#concept-001](index.html#concept-001)
 
-**Source-art status:** the owner-supplied original diagram is canonized. Its exact image binary still needs a separately verified public repository upload; this text and HTML diagram are not represented as a byte-for-byte copy.
+**Source-art status:** the owner-approved diagram has been verified as a matching JPEG in the existing Psyche 16 system-diagrams Drive folder and committed to the [public image asset](assets/CONCEPT_PAGE_001_PSYche16_Brainstorm_Platform.jpg). The front-page HTML displays this artwork and a searchable text equivalent; GitHub Pages deployment/indexing remains a separate check.
 
 ---
 
