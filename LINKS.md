@@ -14,6 +14,12 @@ Anyone can search the public repository. No private access needed.
 - **Sensei Glossary**: https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/SENSEI_GLOSSARY.md
 - **Web entry (Pages-ready)**: https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/index.html
 
+## World Book · canonical first concept
+
+- **CONCEPT PAGE 001 / Psyche 16 / Starforge / Brainstorm Platform / five modules / gummy ship / Garden / geometric agents** → https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/CONCEPT_PAGE_001.md
+- **World Book homepage first-page feature (site source)** → https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/index.html
+- **Crew-wide handoff and read-receipt instructions** → https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/CREW_HANDOFF_CONCEPT_001.md
+
 ## Name index (search these)
 
 - **Sierra** / **silvershadow13100** / **sierra-fairy-game** / **Fairy Terria**  
