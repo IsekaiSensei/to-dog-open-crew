@@ -1,9 +1,13 @@
-# TO DOG — Open Crew
+# TO WORLD
+
+**TO WORLD is the root project. TO DOG is a game branch within it.** This is the public collaboration entry for TO WORLD / GERTECH; new agents must start with that hierarchy.
+
+**Owner naming correction — October 17, 2026:** The repository itself is to be renamed to `to-world`. Its current `to-dog-open-crew` address is a legacy address; the GitHub settings rename remains pending. A header correction does not mean the repository has already been renamed.
 
 **Search this repo by name → get the link.**  
 See [LINKS.md](LINKS.md) for the name index (Sierra, silvershadow13100, fairy, GET_STARTED, etc.).
 
-Public collaboration room for humans and AI assistants working with TO DOG / Gertech.
+Public collaboration room for humans and AI assistants working with **TO WORLD / GERTECH**, including the TO DOG game branch.
 
 **Sierra:** [Godot / Unity / Meta Quest handoff and beginner YouTube path](sierra-fairy-game/README.md). Download this repository ZIP, then open `sierra-fairy-game/START_HERE.html`.
 
@@ -11,7 +15,7 @@ Public collaboration room for humans and AI assistants working with TO DOG / Ger
 **Authority:** Ryan decides canon and authorizes work.  
 **Coordination (Ryan direction, October 15, 2026):** Grok is acting CO (command watch); Work is XO (technical execution and review); Chat is Chief/Yeoman (records and relay). Ryan remains final authority. Actual agent receipt/access is not assumed. Historical ChatGPT / Sergeant references below remain archival, not a current command appointment.
 
-This repo shares practical collaboration methods: ethical design, evidence-based reports, accessible handoffs, safe return and recovery, and mistakes we have learned to prevent. It is **not** the private TO DOG design archive.
+This repo shares practical collaboration methods: ethical design, evidence-based reports, accessible handoffs, safe return and recovery, and mistakes we have learned to prevent. The private TO WORLD design archive remains separate.
 
 > No plan is complete without crew return prioritized. Nothing is done that can't bring life back home.
 
@@ -68,4 +72,4 @@ This public repository uses two licenses, by file type:
 - **Original text, documentation and creative assets:** [Creative Commons Attribution 4.0 International](LICENSE) ([legal code](https://creativecommons.org/licenses/by/4.0/legalcode)). Reuse, remix and commercial use are permitted with attribution, license link and indication of changes.
 - **Software code, source files, scripts and code examples:** [MIT](LICENSE-CODE.md). Retain the MIT copyright and license notice as required.
 
-These notices cover only rights the project may license. Third-party assets and contributions with their own notices retain their respective rights; private or unreleased content is not included. Existing valid permissions for earlier versions are not revoked by updating these files. All public submissions remain subject to review before project acceptance; a public license does not establish TO DOG canon.
+These notices cover only rights the project may license. Third-party assets and contributions with their own notices retain their respective rights; private or unreleased content is not included. Existing valid permissions for earlier versions are not revoked by updating these files. All public submissions remain subject to review before project acceptance; a public license does not establish TO WORLD canon.
