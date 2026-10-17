@@ -1,0 +1,61 @@
+{
+  "version": "0.1",
+  "status": "PUBLIC REVIEW — Not canon replacement, not Pages deployed",
+  "project": "TO WORLD",
+  "source_root": "TO DOG historical source older, game branch still valid",
+  "name_policy": "Original source names do not change. OLD ROOTS marks names for Sensei review. Aliases/new roots require owner decision.",
+  "items": [
+    {
+      "id": "ROOT-001",
+      "type": "repo-slug",
+      "name": "to-dog-open-crew",
+      "old_roots": true,
+      "proposed_alias": "to-world",
+      "status": "OWNER REQUESTED — GITHUB SETTINGS RENAME NOT VERIFIED",
+      "public_url": "https://github.com/IsekaiSensei/to-dog-open-crew",
+      "source_verified": true
+    },
+    {
+      "id": "ROOT-002",
+      "type": "project-name",
+      "name": "TO DOG",
+      "old_roots": true,
+      "proposed_alias": "TO WORLD parent, TO DOG game branch",
+      "status": "HIERARCHY APPROVED; HISTORICAL NAME PRESERVED",
+      "source_verified": true
+    },
+    {
+      "id": "MC-001",
+      "type": "minecraft-bedrock-world",
+      "name": "Sensei's Realm 11/16/22 14:11:01 - Copy",
+      "old_roots": true,
+      "source_file": "Test Realm.mcworld",
+      "reported_archive_bytes": 514038789,
+      "reported_database_files": 251,
+      "report_source": "prior Test_Realm_inspection.json",
+      "archive_bytes_reexamined_this_session": false,
+      "geometry_verified": false,
+      "public_model_files": [],
+      "possible_outputs": [
+        "GLB/glTF",
+        "OBJ",
+        "JSON",
+        "CSV",
+        "PNG",
+        "SVG",
+        "local CRS route graph"
+      ],
+      "status": "NEEDS ACTUAL WORLD BYTES FOR EXTRACTION"
+    },
+    {
+      "id": "VID-20261017-01",
+      "type": "process-reference",
+      "name": "2026-10-17 07-27-13.mp4",
+      "old_roots": false,
+      "observed": "YouTube Blender to AI video tutorial recording, not Minecraft save or model",
+      "geometry_verified": false,
+      "public_media_url": null,
+      "status": "VISUAL PIPELINE REFERENCE; NOT MINECRAFT ARTIFACT"
+    }
+  ]
+}

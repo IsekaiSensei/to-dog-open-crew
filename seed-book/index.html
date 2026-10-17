@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="dark">
+<title>TO WORLD • Seed Book | Old Roots and Minecraft Source Atlas</title>
+<style>
+:root{font-family:Georgia,"Times New Roman",serif;background:#0d1724;color:#f2e8d2;--gold:#e4bd6c;--muted:#aab8c9;--line:#4e5264}
+*{box-sizing:border-box}body{margin:0;min-height:100vh;background:radial-gradient(circle at 70% -20%,#2b3752 0%,#0d1724 48%)}
+header{padding:clamp(25px,5vw,80px) max(24px,calc((100vw - 1100px)/2));border-bottom:1px solid var(--line)}
+nav{display:flex;flex-wrap:wrap;gap:14px;align-items:center;justify-content:space-between;font-family:system-ui,sans-serif;font-size:.9rem}
+nav a,a{color:var(--gold);text-underline-offset:4px}h1{font-size:clamp(3.4rem,10vw,7.6rem);margin:26px 0 0;letter-spacing:.045em;line-height:1}
+.kicker{letter-spacing:.22em;text-transform:uppercase;color:var(--gold);font:700 .78rem system-ui,sans-serif}
+.lead{max-width:760px;font-size:1.25rem;line-height:1.6;color:#e0dfdb}
+.notice{max-width:920px;color:#d8dfe8;font-family:system-ui,sans-serif;line-height:1.65;border-left:3px solid var(--gold);padding:8px 22px;background:#152033}
+main{max-width:1130px;margin:auto;padding:34px 24px 90px}
+h2{font-size:2rem;font-weight:normal;border-bottom:1px solid var(--line);padding-bottom:12px}h3{color:#ffe1a5;letter-spacing:.02em}
+.toolbar{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin:24px 0;font-family:system-ui,sans-serif}
+input,select{background:#1a2940;color:#fff;border:1px solid #8090aa;border-radius:5px;font:inherit;padding:12px;max-width:100%}
+input{flex:1;min-width:200px}select{max-width:100%}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(250px,1fr));gap:15px}
+article{background:#17243a;border:1px solid #5c6680;border-radius:9px;padding:20px;min-height:210px;box-shadow:0 5px 25px #0002}
+article p{font-family:system-ui,sans-serif;font-size:.92rem;line-height:1.65;color:#c3cee0}
+article small{font-family:system-ui,sans-serif;color:#aabbd3;display:block}
+.pill{font:bold .7rem system-ui,sans-serif;display:inline-block;border:1px solid var(--gold);border-radius:50px;padding:5px 9px;letter-spacing:.04em;color:var(--gold)}
+.pill.pending{border-color:#aabbd3;color:#e1e6ec}.tree{border:1px solid var(--line);background:#111f32;border-radius:10px;padding:22px;line-height:1.8}
+summary{cursor:pointer;color:#f6d498;font-size:1.1rem}details{margin:10px 0 10px 16px;border-left:1px solid #496387;padding-left:17px}
+.linklist{display:flex;gap:12px;flex-wrap:wrap;font-family:system-ui,sans-serif}
+.linklist a{display:inline-block;padding:12px 15px;border:1px solid #bb9960;border-radius:6px;text-decoration:none;background:#1c2b42}
+footer{border-top:1px solid var(--line);font: .9rem/1.7 system-ui,sans-serif;color:var(--muted);padding:36px 24px;text-align:center}
+.count{font: .85rem system-ui,sans-serif;color:#b3c5dc}.hidden{display:none}
+a:focus-visible,input:focus-visible,select:focus-visible,summary:focus-visible{outline:3px solid #eec875;outline-offset:3px}
+@media (prefers-reduced-motion:reduce){*{scroll-behavior:auto!important}}
+</style>
+</head>
+<body>
+<header>
+<nav><span class="kicker">TO WORLD / WORLD BOOK</span><div><a href="../README.md">Public Crew</a> &nbsp;·&nbsp; <a href="INFO_TREE.md">Info Tree</a> &nbsp;·&nbsp; <a href="NAME_FLOW.md">Names</a></div></nav>
+<p class="kicker" style="margin-top:65px">A public research folio • Review edition 01</p>
+<h1>SEED<br>BOOK</h1>
+<p class="lead">An atlas of recovered worlds, rooms, pathways, structures and the artifacts we can carry into the next world.</p>
+<div class="notice"><strong>OLD ROOTS stay put.</strong> If a source already has a name, preserve it. Ryan decides aliases and uprooting. This is a working public-access catalog; no Minecraft model or Pages deployment is claimed complete.</div>
+</header>
+<main>
+<section aria-labelledby="roots"><h2 id="roots">The preserved roots</h2>
+<p class="lead">Search known sources and extraction work. Distinct names remain distinct, and every card tells you whether its evidence exists.</p>
+<div class="toolbar"><label for="search">Search</label><input id="search" type="search" placeholder="World name, map, furniture, path, legacy root…"><label for="type">Show</label><select id="type"><option value="all">All entries</option><option value="root">OLD ROOTS</option><option value="minecraft">Minecraft</option><option value="format">Export targets</option></select><span class="count" id="count" role="status"></span></div>
+<div class="cards" id="cards">
+<article data-type="root" data-search="to dog open crew old roots repo world"><small>ROOT-001 • HISTORICAL NAME</small><h3>to-dog-open-crew</h3><span class="pill">OLD ROOTS</span><p>Existing public GitHub repository name. <em>to-world</em> is the requested future repo slug; settings rename has not been verified.</p><a href="NAME_FLOW.md">Name decision →</a></article>
+<article data-type="root" data-search="to dog game branch old roots"><small>ROOT-002 • HIERARCHY CORRECTION</small><h3>TO DOG</h3><span class="pill">OLD ROOTS</span><p>The historical root name is retained; TO WORLD is the parent and TO DOG remains a game branch.</p><a href="INFO_TREE.md">Place in tree →</a></article>
+<article data-type="minecraft" data-search="sensei realm minecraft maps paths furniture bedrock test realm"><small>MC-001 • BEDROCK SAVE</small><h3>Sensei's Realm</h3><span class="pill pending">SOURCE METADATA ONLY</span><p>Prior inspection reports a 514 MB Test Realm archive with 251 LevelDB files. Rooms, map geometry, furniture and routes have NOT been extracted.</p><a href="minecraft/README.md">Intake evidence →</a></article>
+<article data-type="format" data-search="3d glb gltf obj models geometry furniture buildings"><small>EXPORT FAMILY • 3D</small><h3>Reusable Models</h3><span class="pill pending">TARGET, NOT DELIVERED</span><p>Preserve source block palettes and export independent structures as GLB/glTF, with optional OBJ and native schematics after extraction/QC.</p><a href="FORMATS.md">Format ladder →</a></article>
+<article data-type="format" data-search="roads paths routing graph nodes edges rail bridges maps json csv svg"><small>EXPORT FAMILY • SPATIAL</small><h3>Maps & Pathing</h3><span class="pill pending">TARGET, NOT DELIVERED</span><p>Local-coordinate atlas PNG/SVG and route graph JSON/CSV. Never invent GPS coordinates or claim walkable connections without in-world checks.</p><a href="FORMATS.md">Format ladder →</a></article>
+<article data-type="format" data-search="cards folios models scenes rooms props videos html json png"><small>EXPORT FAMILY • BROWSE</small><h3>Artifact Cards</h3><span class="pill pending">CATALOG READY</span><p>Every exported structure receives origin, owner, original name, source hash, scale, visual preview and verified download links.</p><a href="seed-registry.json">Machine registry →</a></article>
+</div>
+</section>
+<section aria-labelledby="tree"><h2 id="tree">The information tree</h2><p>Expand a branch to see where each recovered artifact belongs. These are browse categories, not filesystem operations.</p>
+<div class="tree"><details open><summary>TO WORLD — root</summary><details open><summary>World Book → Seed Book</summary><details><summary>OLD ROOTS / names</summary><p>Historic names remain immutable pending <a href="NAME_FLOW.md">Ryan's decision flow</a>.</p></details><details open><summary>Minecraft Archaeology</summary><details><summary>Maps and terrain</summary><p>World-relative heightmaps, dimensions, biomes, annotated image tiles.</p></details><details><summary>Levels, rooms, buildings and furniture</summary><p>Native block structures, segmented reusable 3D meshes, prop cards.</p></details><details><summary>Pathing and systems</summary><p>Roads, bridges, railways, stairs, portals, redstone and mechanics.</p></details></details><details><summary>Portable assets</summary><p>GLB/glTF, OBJ, JSON, CSV, PNG, SVG, HTML; native source preserved.</p></details></details><details><summary>TO DOG — game branch</summary><p>A child project; not the whole world.</p></details></details></div>
+</section>
+<section aria-labelledby="handoff"><h2 id="handoff">For every visiting agent</h2><p class="lead">Read the public source, show what you can actually make, preserve the name, and return an artifact with a receipt. If private GitHub returns 404, report blocked access instead of declaring the files missing.</p>
+<div class="linklist"><a href="NAME_FLOW.md">Name decision chart</a><a href="INFO_TREE.md">Full info tree</a><a href="FORMATS.md">Extraction specs</a><a href="minecraft/README.md">First world intake</a><a href="seed-registry.json">Download catalog JSON</a></div>
+</section>
+</main>
+<footer>TO WORLD / GERTECH • Seed Book public review candidate • Original archives preserved • Isekai Sensei retains canon, names and release approval<br>Source read is not artifact extraction. GitHub code is not a deployed Pages website.</footer>
+<script>
+(function(){
+"use strict";
+var input=document.getElementById("search"),filter=document.getElementById("type"),cards=Array.prototype.slice.call(document.querySelectorAll("#cards article")),count=document.getElementById("count");
+function update(){var q=input.value.toLowerCase().trim(),k=filter.value,n=0;cards.forEach(function(card){var ok=(k==="all"||card.dataset.type===k)&&(card.textContent.toLowerCase()+" "+card.dataset.search).indexOf(q)>=0;card.classList.toggle("hidden",!ok);if(ok)n++;});count.textContent=n+" of "+cards.length+" records";}input.addEventListener("input",update);filter.addEventListener("change",update);update();
+})();
+</script>
+</body>
+</html>
