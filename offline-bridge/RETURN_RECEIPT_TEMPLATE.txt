@@ -1,0 +1,13 @@
+TO WORLD — OFFLINE PACKET RETURN RECEIPT
+PACKET_ID:
+ACTUAL AGENT/SESSION:
+RETURN_DATE/TIME/ZONE:
+DELIVERY CHANNEL: [manual pasted TXT/local ZIP/verified connector]
+STATE: [NOT READ/READ/BUILT/TESTED/ACCEPTED — evidence only]
+FOLLOWED: [exact source file, version or commit, lines if known, actual access method]
+EVIDENCE: [files actually opened; output paths, sizes/hashes; tests actually run and results]
+WRONG?: [exact suspected incorrect instruction, source statement and evidence; or NONE/UNKNOWN]
+MISSING: [absent required bytes, permissions, tools]
+OWNER PERMISSION/GO-HOLD AS OBSERVED:
+NEXT OWNER + ONE ACTION:
+Do not claim another bot's acknowledgment, source ownership, repository read, execution, test or approval without evidence.
