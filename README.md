@@ -21,6 +21,10 @@ This repo shares practical collaboration methods: ethical design, evidence-based
 
 The above is the **Laika rule**, a recorded TO DOG design principle. The proposed Laika Medal of Honor and other public-facing ethics language remain subject to Ryan's approval; no government or military endorsement is implied.
 
+## World Book — front-page canon (owner GO, Oct 17 2026)
+
+**CONCEPT PAGE 001** — [Psyche 16 Starforge System / Brainstorm Platform](CONCEPT_PAGE_001.md), the first named canonical concept of the World Book. The [website first page](index.html#concept-001) features its accessible three-layer diagram above the glossary. Five module types — **Sucker, Thruster, Inhabitor, Frame, Power** — plus a geometric agent network and the data/Garden/output path. Read the [crew-wide relay and receipt instructions](CREW_HANDOFF_CONCEPT_001.md). The exact approved source-image asset is awaiting a verified binary upload; the conceptual web rendering is not the original art. Public source publication does not prove GitHub Pages deployment or receipt by other agents.
+
 ## Public Pages
 
 - [Sensei Glossary — Bowl / Page / Scroll / Book](SENSEI_GLOSSARY.md) — public Pages across GitHub, Facebook, TikTok and Instagram.
