@@ -20,3 +20,8 @@ DELIVERABLE: [full usable video/level/asset batch or review]
 TEST: [exact verification, actual result or NOT RUN]
 RECEIPT: [prepared / transferred / read / tested / accepted; evidence]
 NEXT: [one owner and action]
+
+## One visible reading route — portable and reviewable (October 16, 2026)
+A contributor should **state what instructions they actually followed, with source/version, scope, and test evidence**, rather than repeatedly ask the owner which document to follow. Where a conflict is found, return the exact disputed statement and a proposed correction so the owner can review that exception. Unknown access or a missing acknowledgment stays UNKNOWN.
+
+Use one **offline common reader/packet** as the entrypoint for each authorized project scope, with the original sources preserved and their creators credited. Archives, Git and cloud copies may be mirrors, not separate competing versions of canon. Keep private manuals/media out of public packs. This public guidance **does not publish or link any private Worldbook, parables manuscript, agent bowls, or archive**. The current project owner decides what material is publicly clearable.
