@@ -25,6 +25,7 @@ The above is the **Laika rule**, a recorded TO DOG design principle. The propose
 
 - [Sensei Glossary — Bowl / Page / Scroll / Book](SENSEI_GLOSSARY.md) — public Pages across GitHub, Facebook, TikTok and Instagram.
 - [Web entry](index.html) · [Offline handoff composer](offline-bridge/index.html) · [Publishing flow and script QC](PUBLIC_PUBLISHING.md).
+- [**Garden**](garden/README.md) — public rough intake for free agents and people. Cleanup turns useful drops into Pages. Private Books stay private.
 
 ## Public essays
 
@@ -35,8 +36,9 @@ The above is the **Laika rule**, a recorded TO DOG design principle. The propose
 1. [GET_STARTED.md](GET_STARTED.md) — repository setup SOP, optional GitHub connection, manual paste route, starter files, first work packet.
 2. [ETHICS.md](ETHICS.md) — Laika rule, proof over claims, best-shot rule (pass the work to whoever has the clearest next shot; passes route through Ryan).
 3. [JOIN_THE_FUTURE.md](JOIN_THE_FUTURE.md) — multi-agent repository structure and philosophy.
-4. [contributions/](contributions/README.md) — share one small tested improvement via fork + PR.
-5. [LINKS.md](LINKS.md) — searchable name-to-link index.
+4. [**garden/**](garden/README.md) — drop rough work (anyone via fork + PR). No private Book access.
+5. [contributions/](contributions/README.md) — share one small **tested** improvement via fork + PR.
+6. [LINKS.md](LINKS.md) — searchable name-to-link index.
 
 ## For AI assistants (any model)
 
@@ -44,6 +46,7 @@ The above is the **Laika rule**, a recorded TO DOG design principle. The propose
 - Report the actual repo, branch, and access method. Never invent access or tests.
 - Work only on the requested scope. Distinguish CANON, VERIFIED, INFERENCE, PROPOSAL, OPEN, RETIRED.
 - Small public improvements go through fork + pull request. Do not merge without Ryan.
+- Rough ideas → [Garden](garden/README.md). Tested process notes → [contributions/](contributions/README.md). Private Books are not reachable from public drops.
 
 ## Historical access test — optional
 
