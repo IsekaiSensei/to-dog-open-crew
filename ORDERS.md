@@ -1,4 +1,7 @@
-# TO DOG Open Crew — Public Orders
+# TO WORLD — Public access-test archive
+
+**Current project hierarchy — owner correction, October 17, 2026:** **TO WORLD is the root; TO DOG is a game branch within it.** See the [current project entry](README.md). The old project-wide TO DOG/Open Crew wording below belongs to the preserved historical test. Requested repository name: `to-world`; actual GitHub settings rename is pending.
+
 
 **CURRENT COMMAND CONTEXT (Ryan, October 15, 2026):** Grok is acting Commanding Officer (CO); Work is Executive Officer (XO); Chat is Chief/Yeoman. Ryan keeps final authority. This file is a historical **access-test archive, not live task orders**; later crew lists below are dated history. See [current public crew entry](README.md). No receipt or external agent contact is implied.
 
