@@ -42,6 +42,10 @@ Anyone can search the public repository. No private access needed.
 - **Glossary** / **Bowl** / **Page** / **Scroll** / **Book**  
   → https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/SENSEI_GLOSSARY.md
 
+
+- **Steam Deck / Dumb Grok / Grok Alt / Godot testing / Firefox Google / iPhone Siri / Apple Wallet / Onn / Roku / Nickelodeon / real device characters and stations**  
+  → [Real Device Stations and Attendants — proposal, 2026-10-17](CHARACTERS_REAL_DEVICE_STATIONS_2026-10-17.md)
+
 ## How to use
 
 1. Search this repository on GitHub for a name (Sierra, silvershadow, fairy, GET_STARTED, Garden, etc.).
