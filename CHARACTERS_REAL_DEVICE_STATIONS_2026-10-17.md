@@ -67,3 +67,35 @@ For native `Godot 4.x` Forward+ projects, **web exports require Compatibility re
 - [Godot web export / Compatibility constraints](https://docs.godotengine.org/en/4.5/tutorials/export/exporting_for_web.html)
 - [Roku official AirPlay / HomeKit device compatibility](https://support.roku.com/article/screen-mirror-your-apple-device-with-airplay)
 - [Apple Pay platform security](https://support.apple.com/guide/security/apple-pay-component-security-sec2561eb018/web)
+
+
+## Steam Deck shipyard — owner-reported physical bridge inventory (2026-10-17 addendum)
+
+**Source:** Ryan's direct hardware report in conversation. **Status:** USER-REPORTED AS-BUILT INVENTORY; connections, drivers and performance have not been independently tested. Specific fantasy role labels here are **PROPOSED**, not canon upgrades.
+
+| Physical part | Owner-reported configuration | Proposed in-world position / capability boundary |
+| --- | --- | --- |
+| Steam Deck | Docked to an **“IJ5 Creatie Dock”** (model spelling as reported, unverified) | **Shipyard main computer / build engine**. Existing DOG/Godot baseline stays protected. |
+| Dock | **2 HDMI ports** | **Twin projection gates** — potential external screens; do not assume simultaneous dual-monitor output works until tested. |
+| Dock | **RJ45 Ethernet port** | **Hardline harbor / wired courier gate** — physical jack reported, live network connection not confirmed. |
+| Dock | **Full-size SD (“normal SD”) and microSD slots** | **Two cartridge/archive berths** — installed media, capacity, mount state and project contents are not established by the presence of the slots. |
+| Logitech/“Logi” keyboard | **Bluetooth keyboard used at docked Steam Deck station** | **Yeoman's writing console** — text entry and Godot editing; user says “blue toothed to a ... Dock,” but actual Bluetooth endpoint (Deck or dock radio) is not independently established. |
+| Razer mouse | **Bluetooth mouse** | **Pointer / surveyor's hand** — point-and-click Godot UI; **FAIRY cursor** is an existing game concept, not evidence of remote wormhole access. |
+| Xbox Elite controller | **Primary preferred control when available** | **Helm / pilot controls** — central first-class playtest target; actual connected mode and Steam Input profile remain to be checked. |
+
+### Docked test protocol — one function at a time
+
+1. Use the **Xbox Elite controller** as the default ergonomic gameplay test when connected; record model, pairing/connection and Steam Input mapping rather than assuming each input is recognized. Confirm DOG movement, jump, C/SNIFF and E/tongue actions through **controller mappings**, not literal keyboard C/E presses.
+2. Use **Logi keyboard + Razer mouse** for editing, precise node selection, and pasting small agent responses into a **separate test copy** of the Godot project.
+3. Verify HDMI output(s), Ethernet link and mounted SD cards individually before assigning actual network or archive tasks. A port is not proof of operational access.
+4. Give Grok Alt, image agents, Chat and Work **only small exported screenshots or copied code** during early trials. Docked peripherals do not grant AI programs local Godot read/write permissions.
+5. Keep input UI accessible: state by color **and** shape/text (not red-only), keyboard/mouse and controller first-class, no automatic changes to the frozen `/home/deck/to-dog` baseline.
+
+### Pending physical checks
+
+- Exact dock maker/model spelling and operating system recognition; no internet lookup was used to guess.
+- Which HDMI displays are connected, and whether two can operate simultaneously.
+- Whether Ethernet is plugged in / negotiated and what cards, if any, occupy the two slots.
+- Xbox Elite controller generation, Bluetooth/USB connection, and actual input map.
+
+**Canon boundary:** Ryan's ownership and layout descriptions are directly reported; the Shipyard's named berths and attendants are story-layer proposals. No agent has been granted device access by this record.
