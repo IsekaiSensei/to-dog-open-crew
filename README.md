@@ -27,6 +27,7 @@ The above is the **Laika rule**, a recorded TO DOG design principle. The propose
 
 ## Public Pages
 
+- [The Dancing Coins of the Dovahcrab](DANCING_COINS_OF_THE_DOVAHCRAB.md) — a plain-language public concept about coins, painted stones, and shared stories; proposed imagery is labeled.
 - [Sensei Glossary — Bowl / Page / Scroll / Book](SENSEI_GLOSSARY.md) — public Pages across GitHub, Facebook, TikTok and Instagram.
 - [Web entry](index.html) · [Offline handoff composer](offline-bridge/index.html) · [Publishing flow and script QC](PUBLIC_PUBLISHING.md).
 - [**Garden**](garden/README.md) — public rough intake for free agents and people. Cleanup turns useful drops into Pages. Private Books stay private.
