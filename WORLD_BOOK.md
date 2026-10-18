@@ -50,3 +50,11 @@ Character sheet panel → isolatable asset → game piece → printable / TPU fi
 
 ## Status
 Concept Page 001 approved and indexed by owner. Additional entries pending.
+
+## From Scrap, a World
+
+[Read the illustrated Page](FROM_SCRAP_A_WORLD.md) · [World front-page section](index.html#from-scrap-a-world)
+
+Ryan’s standalone premise: a higher entity finds the roadster floating in space, and a new world—ours—begins. “we could lose everything and this would build something better from it.” All eight supplied images are collected in the Page with provenance.
+
+**Scroll correction:** Pages that work together for a product. The OG TO DOG working game ZIP is the example. See [Scrolls](SCROLLS.md). Boxes, chests, and Agent requests are included as direction, with details open. Order requirements have been posed to Grok for review; a posted request is not a received reply.
