@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "packet_id": "META-WORLD-SEED-PRE-20261017",
+  "label": "GERTECH / TO WORLD pre-seed living pictures — Meta report",
+  "source": {
+    "agent": "Meta AI Drive buffer",
+    "evidence": "User-relayed Meta handoff packet dated 2026-10-17",
+    "source_repository": "IsekaiSensei/to-dog-open-crew",
+    "source_branch": "sky-falling-vr",
+    "source_path": "sky-falling-vr/loft-meta-deck/CANON_STATE.md"
+  },
+  "status": "PENDING_SOURCE_MEDIA",
+  "approval": "PROPOSAL_NOT_CANON",
+  "publication": "NOT_PUBLISHED",
+  "rights": "NOT_VERIFIED",
+  "note": "Metadata only. No media bytes are stored here. Asset existence, content, adult-character gate, rights, and image QC remain unverified. Preserve originals before producing derivative or public World Book pages.",
+  "tags": [
+    "world-seed-pre",
+    "living-picture",
+    "Bar-below",
+    "Cloud-above",
+    "Forrest",
+    "X-art",
+    "GERTECH-LAB",
+    "gummy-ship",
+    "wormhole"
+  ],
+  "media": [
+    {
+      "name": "image_20261017_175951.webp",
+      "reported_role": "Galaxy car inside botanical starship rendered composite",
+      "status": "AWAITING_ORIGINAL",
+      "source_names": [
+        "car_cutout.png",
+        "Visionary_Botanical_Starship_Command_Bridge.png"
+      ]
+    },
+    {
+      "name": "car_cutout.png",
+      "reported_role": "Input cutout for galaxy car composite",
+      "status": "AWAITING_ORIGINAL"
+    },
+    {
+      "name": "Visionary_Botanical_Starship_Command_Bridge.png",
+      "reported_role": "Input background for galaxy car composite",
+      "status": "AWAITING_ORIGINAL"
+    },
+    {
+      "name": "triangle_module_final.png",
+      "reported_role": "GERTECH module design",
+      "status": "AWAITING_ORIGINAL"
+    },
+    {
+      "name": "factory_cutout.png",
+      "reported_role": "GERTECH factory cutout",
+      "status": "AWAITING_ORIGINAL"
+    },
+    {
+      "name": "tiger_cutout.png",
+      "reported_role": "GERTECH tiger cutout",
+      "status": "AWAITING_ORIGINAL"
+    },
+    {
+      "name": "dragon_cutout.png",
+      "reported_role": "GERTECH dragon cutout",
+      "status": "AWAITING_ORIGINAL"
+    }
+  ],
+  "pending_review": [
+    "Confirm original media and SHA-256 per file",
+    "Verify attribution and public-use rights",
+    "Check adult character design and visual fidelity",
+    "Map approved art to World Book pages with source links",
+    "Request Sphere GO/HOLD and project owner publication approval"
+  ]
+}
