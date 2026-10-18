@@ -32,3 +32,7 @@ Original project text: CC BY 4.0; code: MIT. See repository license notices.
 ## October 17 clarification
 
 Ryan: “a Scroll are pages that work for a product. the OG Todog working Game in a Zip is scroll example.” This replaces the narrower handoff-only definition. Boxes, chests, and Agent requests are requested additions; their precise behavior is not yet defined. See [the World Page](FROM_SCRAP_A_WORLD.md).
+
+## Seed
+
+A good Book Page can be a seed. The goal is a Book of proven seeds: reusable starting points backed by working artifacts and recorded checks. A Scroll assembles Pages for the product that demonstrates the seed. The game-ad-to-real-game engine is the target capability, not yet proven.
