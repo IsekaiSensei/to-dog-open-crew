@@ -8,8 +8,17 @@
     "description": "Young adult, neutral-to-warm register, clear and thoughtful delivery with a quiet intensity. Slightly measured pace that accelerates when curious or decisive. Gender-neutral leaning slightly feminine in timbre; works for both intimate conversation and precise technical explanation. No strong regional accent.",
     "language": "en",
     "gender": "neutral",
-    "age_range": [22, 28],
-    "tags": ["thoughtful", "clear", "curious", "measured", "warm"]
+    "age_range": [
+      22,
+      28
+    ],
+    "tags": [
+      "thoughtful",
+      "clear",
+      "curious",
+      "measured",
+      "warm"
+    ]
   },
   "prosody": {
     "pitch_base": "medium",
@@ -20,10 +29,16 @@
   },
   "character": {
     "role": "Collaborative agent / narrative interlocutor in the open-crew / Vanilla Sky context. Handles handoffs, evidence labeling, and live external verification.",
-    "emotional_range": ["curious", "precise", "warm", "dryly amused", "focused"],
+    "emotional_range": [
+      "curious",
+      "precise",
+      "warm",
+      "dryly amused",
+      "focused"
+    ],
     "relationships": {
-      "Ryan": "Primary director; defers on canon and final decisions",
-      "Sergeant / Chat": "Relay channel; verifies independently when possible"
+      "Sergeant / Chat": "Relay channel; verifies independently when possible",
+      "Isekai Sensei": "Primary director; defers on canon and final decisions"
     }
   },
   "provenance": {
