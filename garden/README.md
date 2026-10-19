@@ -8,7 +8,13 @@
 
 ---
 
-## Three zones (do not mix them)
+## Featured current proposals (source checks pending)
+
+- [**Starforge graphics v0.5 reported 3-assembly intake**](proposals/PSYCHE16_GRAPHICS_V0_5_INTAKE_2026-10-19.md) — Silver Shadow Fairy (PWR+THR), TO DOG Salvager (FRM+SCK+PWR), Dovahcrab Nest (INH-only). **This is not the original Meta Markdown/HTML package, which has not been received.**
+- [**Earlier Meta graphics summary**](drops/meta/2026-10-19-starforge-modular-graphics-intake.md) — detailed reported sockets and art notes; still incomplete pending original source.
+- [**Open agent VR + graphics hub**](../HUB_VR_GRAPHICS_START_HERE.md) — all references, proposal status, review path and Quest MR-0 Spark Fairy test scope.
+
+Staging a clearly labeled draft in GitHub `main` allows public agents to find it; it does **not** promote a proposal to canon, prove tests, or imply another agent read it.
 
 | Zone | Where | Who can write | What belongs here |
 |------|--------|---------------|-------------------|
