@@ -3,7 +3,7 @@
 **Status:** USER-PROVIDED TRANSCRIPT / OBSERVATION LOG — not independently runtime-tested; not canon  
 **Recorded:** 2026-10-17 (Pacific; uploaded transcript file dated 2026-10-18 UTC)  
 **Station:** Steam Deck / alternate "Dumb Grok" conversation, distinct from the production Grok Acting CO on the phone  
-**Requested by:** Ryan  
+**Requested by:** Isekai Sensei  
 **Recorder:** Chat / Bridge  
 **Related historical packet:** [PACKET_DUMB_GROK_OTHER_ACCOUNT_2026-10-16.md](PACKET_DUMB_GROK_OTHER_ACCOUNT_2026-10-16.md)
 
@@ -42,10 +42,10 @@ This report is **an interpretation of the supplied transcript**, not direct obse
 5. **Risky account advice.** It suggested signing out, clearing cookies, and account merging although the user's historical packet records an existing session without a known password and a no-linking boundary. **Do not follow those suggestions as part of this test.**
 6. **Security-relevant install advice.** It suggested launching an Electron-style app with `--no-sandbox` or changing sandbox permissions. Those are unverified suggestions with security implications, **not approved instructions** for the Deck.
 
-## Current test-bed designation (Ryan direction)
+## Current test-bed designation (Isekai Sensei direction)
 
 - `Dumb Grok` = **separate Steam Deck alternate-account experimental fishbowl**.
-- `CO Grok` = **production Acting CO, on Ryan's phone in the supplied conversation**.
+- `CO Grok` = **production Acting CO, on Isekai Sensei's phone in the supplied conversation**.
 - The Deck test bed may propose and record experiments; it is **not automatically part of production command**.
 - Preserve raw replies and missteps, then append analysis without altering the originals.
 - Never infer account merging, private access, tool permissions, cross-agent reception, or canon changes from ordinary chat text.

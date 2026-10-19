@@ -30,7 +30,7 @@ Goal: the most hands-off pipeline that still keeps a human GO/HOLD gate.
 1. Structured source of truth (Drive or GitHub folder of approved packets: media + caption + platform notes)
 2. Agent or automation reads the packet
 3. Platform-aware formatting and scheduling (via MCP-capable scheduler or API)
-4. Ryan or Acting CO reviews and releases
+4. Isekai Sensei or Acting CO reviews and releases
 5. Cross-post to Instagram, TikTok, YouTube Shorts, X, and Facebook
 
 ### Candidate tools (2026 landscape)
@@ -65,4 +65,4 @@ Goal: the most hands-off pipeline that still keeps a human GO/HOLD gate.
 **Evidence rule:** Posted is not delivered. Delivered is not read. Read is not tested.
 
 Next recommended order: lock the packet format and pick the first scheduler for a 7-day test.  
-Ryan retains final GO/HOLD.  
+Isekai Sensei retains final GO/HOLD.  

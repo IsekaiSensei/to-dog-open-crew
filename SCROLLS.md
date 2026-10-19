@@ -1,10 +1,10 @@
 # Scrolls — Pages working for a product
 
-Updated October 17, 2026 · Ryan direct
+Updated October 17, 2026 · Isekai Sensei direct
 
 **A Scroll is Pages that work together for a product.**
 
-The **OG TO DOG working game in a ZIP** is Ryan’s example. Its source, scenes, scripts, assets, and instructions form a working game package. Portability is useful, but a loose bundle or handoff note alone does not demonstrate a functioning product.
+The **OG TO DOG working game in a ZIP** is Isekai Sensei’s example. Its source, scenes, scripts, assets, and instructions form a working game package. Portability is useful, but a loose bundle or handoff note alone does not demonstrate a functioning product.
 
 ## Product record
 
@@ -19,7 +19,7 @@ Product purpose; source Pages; files/assets; launch or use instructions; version
 
 ## Boxes, chests, Agent requests
 
-Ryan requested these alongside Pages and Scrolls. Their exact behavior remains open. Proposal: boxes organize work material; chests preserve collections; requests ask an agent for a concrete result. These roles require confirmation.
+Isekai Sensei requested these alongside Pages and Scrolls. Their exact behavior remains open. Proposal: boxes organize work material; chests preserve collections; requests ask an agent for a concrete result. These roles require confirmation.
 
 ## Order note for Grok
 
@@ -29,7 +29,7 @@ What do we need for an actionable order? Review proposed fields: result, product
 
 ## A Book of proven seeds
 
-Ryan, October 17, 2026: “a good book page can be seed. a book of proven seed are what were looking to build. image an engine that takes a crappy game ad. and makes it for real.”
+Isekai Sensei, October 17, 2026: “a good book page can be seed. a book of proven seed are what were looking to build. image an engine that takes a crappy game ad. and makes it for real.”
 
 **A good Book Page can be a seed. The goal is a Book of proven seeds.** A seed captures enough of an idea to build from. A Scroll brings Pages together for a product. A working result and its evidence can establish that seed as proven for the tested scope.
 

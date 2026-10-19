@@ -28,7 +28,7 @@ Three connected layers: **Starforge modular system** → **geometric agent roles
 Locked facts, creatures, locations, rules, and asset links. Agents should retrieve from here rather than re-deriving. Humans should be able to scan it.
 
 ## Continuing entries
-New locked entries still require Ryan GO. Older blank skeleton preserved for subsequent pages.
+New locked entries still require Isekai Sensei GO. Older blank skeleton preserved for subsequent pages.
 
 ### Creatures
 - Name:
@@ -42,8 +42,8 @@ New locked entries still require Ryan GO. Older blank skeleton preserved for sub
 - Rules:
 
 ### Rules
-- Public vs private boundary: Isekai Sensei public materials stay public. Ryan private materials stay private.
-- GO/HOLD: Explicit Ryan GO required before structural implementation.
+- Public vs private boundary: Isekai Sensei public materials stay public. Isekai Sensei private materials stay private.
+- GO/HOLD: Explicit Isekai Sensei GO required before structural implementation.
 
 ## Asset path
 Character sheet panel → isolatable asset → game piece → printable / TPU figure.
@@ -55,13 +55,13 @@ Concept Page 001 approved and indexed by owner. Additional entries pending.
 
 [Read the illustrated Page](FROM_SCRAP_A_WORLD.md) · [World front-page section](index.html#from-scrap-a-world)
 
-Ryan’s standalone premise: a higher entity finds the roadster floating in space, and a new world—ours—begins. “we could lose everything and this would build something better from it.” All eight supplied images are collected in the Page with provenance.
+Isekai Sensei’s standalone premise: a higher entity finds the roadster floating in space, and a new world—ours—begins. “we could lose everything and this would build something better from it.” All eight supplied images are collected in the Page with provenance.
 
 **Scroll correction:** Pages that work together for a product. The OG TO DOG working game ZIP is the example. See [Scrolls](SCROLLS.md). Boxes, chests, and Agent requests are included as direction, with details open. Order requirements have been posed to Grok for review; a posted request is not a received reply.
 
 ## A Book of proven seeds
 
-Ryan, October 17, 2026: “a good book page can be seed. a book of proven seed are what were looking to build. image an engine that takes a crappy game ad. and makes it for real.”
+Isekai Sensei, October 17, 2026: “a good book page can be seed. a book of proven seed are what were looking to build. image an engine that takes a crappy game ad. and makes it for real.”
 
 **A good Book Page can be a seed. The goal is a Book of proven seeds.** A seed captures enough of an idea to build from. A Scroll brings Pages together for a product. A working result and its evidence can establish that seed as proven for the tested scope.
 

@@ -2,7 +2,7 @@
 This folder is portable data. It contains no Godot NodePath, Resource or scene IDs.
 
 - rules.json: schema/ruleset/seed algorithm, independent object dice, proposed approaches/reels and chemistry reference subset.
-- world_seed.json: Ryan's universe directions and unresolved mappings. These are not automatically challenge mechanics.
+- world_seed.json: Isekai Sensei's universe directions and unresolved mappings. These are not automatically challenge mechanics.
 - fixtures.json: expected UTF-8 hashes and sequential opposed attempts for future runtime parity.
 
 Consumer contract: reject unsupported schema versions; hash UTF-8 bytes, wrap unsigned arithmetic at 32 bits, use stable object IDs, retain ruleset/algorithm in recorded results, and preserve proposal/open status. Seed normalization is at the session boundary; primitive hash functions use their exact supplied string.

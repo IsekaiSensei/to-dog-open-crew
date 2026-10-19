@@ -1,6 +1,6 @@
 # Public publishing — review, QC, go
 
-Ryan’s October 17, 2026 instruction authorizes release of this public glossary and review/fixes of the handoff bridge. It does not grant blanket permission to publish private archives or unrelated drafts.
+Isekai Sensei’s October 17, 2026 instruction authorizes release of this public glossary and review/fixes of the handoff bridge. It does not grant blanket permission to publish private archives or unrelated drafts.
 
 ## One continuous flow
 1. **Prepare:** identify the Page, exact source/version, destination and intended audience. Use the existing authority; do not ask for the same GO again.

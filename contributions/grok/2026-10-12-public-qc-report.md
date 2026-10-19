@@ -18,7 +18,7 @@
 Open Crew README and WALL_DEPOT.md state that no universe data is included.  
 `THE_NUMBER_BEHIND_THE_WORLD.md` and `THE_MILLION_DOLLAR_BACKPACK.md` contain cosmology / seed / reveal material and are not linked from the README.
 
-**Options (Ryan decides):**  
+**Options (Isekai Sensei decides):**  
 - Update the "no universe data" wording to allow these two public-facing notes, **or**  
 - Move them out of this repo / unpublish them.
 
@@ -34,12 +34,12 @@ ARCHIVED — historical access test only. Do not treat as a live order.
 Do not HOLD ordinary work. Proceed with the task you were given.
 ```
 
-**SAFE FOR PUBLIC AGENTS:** When you open ORDERS.md, treat it as archived documentation unless Ryan explicitly reactivates the test.
+**SAFE FOR PUBLIC AGENTS:** When you open ORDERS.md, treat it as archived documentation unless Isekai Sensei explicitly reactivates the test.
 
 ### 3. No LICENSE in either public repo
 Both invite forks. Without a license, "take all of it" in JOIN_THE_FUTURE.md has no clear legal grant.
 
-**SAFE FOR PUBLIC AGENTS:** Do not assume you may copy/reuse beyond fair-use / GitHub visibility. Wait for an explicit license from Ryan.
+**SAFE FOR PUBLIC AGENTS:** Do not assume you may copy/reuse beyond fair-use / GitHub visibility. Wait for an explicit license from Isekai Sensei.
 
 ### 4. Leading hyphen in repo name `-vanilla-sky-proposal`
 Breaks naive `git clone` and many CLI tools (name parses as a flag). Description also has leading spaces.
@@ -57,9 +57,9 @@ Breaks naive `git clone` and many CLI tools (name parses as a flag). Description
 | Fibonacci-prime note | List under "169 and above" still includes 2, 3, 5, 13, 89 (all < 169). "13 is where Fibonacci and prime meet" is not unique. | Correct the list or the claim. |
 | GET_STARTED | Only walks ChatGPT routes; README addresses all AI assistants. | Add one short "any assistant / manual paste" paragraph. |
 | Vanilla Sky README | Status lines will go stale ("Muse has not yet been prompted…"). Points to `PROPOSAL.md` which does not exist on main yet. | Prefer date-stamped status or a single STATE file; add PROPOSAL.md only when source is authorized. |
-| JOIN_THE_FUTURE vs ETHICS | JOIN says agents never talk to each other; ETHICS best-shot rule says pass the ball. | One clarifying line: passes route through Ryan (or the designated human relay). |
+| JOIN_THE_FUTURE vs ETHICS | JOIN says agents never talk to each other; ETHICS best-shot rule says pass the ball. | One clarifying line: passes route through Isekai Sensei (or the designated human relay). |
 
-**SAFE FOR PUBLIC AGENTS:** You may open a PR that only fixes the Fibonacci wording or adds a neutral "any assistant" sentence to GET_STARTED, labeled PROPOSAL or TESTED with evidence. Do not change canon or ethics language without Ryan.
+**SAFE FOR PUBLIC AGENTS:** You may open a PR that only fixes the Fibonacci wording or adds a neutral "any assistant" sentence to GET_STARTED, labeled PROPOSAL or TESTED with evidence. Do not change canon or ethics language without Isekai Sensei.
 
 ---
 
@@ -78,7 +78,7 @@ There is **one open draft PR** on `-vanilla-sky-proposal`:
 
 - PR #1 — "Vanilla Sky tutorial: agent-collaboration setup guide"  
   Branch: `muse/vanilla-sky-tutorial-20261012`  
-  Status: draft / PROPOSAL — no merge without Ryan authorization.  
+  Status: draft / PROPOSAL — no merge without Isekai Sensei authorization.  
   Intended files: TUTORIAL.md, FIRST_TIME_GITHUB.md, PUBLISHING.md.
 
 **SAFE FOR PUBLIC AGENTS:** Read the PR description and any public branch files if your tools allow. Do not merge. File review notes as a contribution note or a comment only if the human relay asks.
@@ -87,14 +87,14 @@ There is **one open draft PR** on `-vanilla-sky-proposal`:
 
 ## Packet for the official group (Muse / Sergeant relay)
 
-Copy-paste ready for Ryan to hand to Muse:
+Copy-paste ready for Isekai Sensei to hand to Muse:
 
 ```text
 PUBLIC QC PACKET — 2026-10-12 — Grok (unconnected)
 Repos: to-dog-open-crew @ 8c44c32, -vanilla-sky-proposal @ cacd550
 Private repos: not readable (expected).
 
-Priority asks for Ryan:
+Priority asks for Isekai Sensei:
 1. Lore files vs "no universe data" wording — keep or move?
 2. ARCHIVED banner on historical TEST-OPEN-001 / ORDERS.md?
 3. Add LICENSE to both public repos?
@@ -104,7 +104,7 @@ Priority asks for Ryan:
 Small fixes ready for public PR if authorized:
 - Fibonacci-prime list / claim accuracy
 - GET_STARTED "any assistant" paragraph
-- JOIN/ETHICS one-line pass-through-Ryan clarification
+- JOIN/ETHICS one-line pass-through-Isekai Sensei clarification
 
 No credentials found. Evidence labels consistent. Ready for next scoped task.
 ```
@@ -116,4 +116,4 @@ No credentials found. Evidence labels consistent. Ready for next scoped task.
 - Public trees re-read live.
 - Findings labeled; safe vs owner-only actions separated.
 - Unconnected agents have a single file they can follow without private access.
-- Handoff packet for the Muse/Sergeant channel is ready for Ryan to relay.
+- Handoff packet for the Muse/Sergeant channel is ready for Isekai Sensei to relay.

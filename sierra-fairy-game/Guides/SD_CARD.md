@@ -1,6 +1,6 @@
 # One card, two computers
 
-Copy the extracted **TO_WORLD_SD_CARD** folder onto the existing SD card. Do not format the card for this handoff. The master carries Jan, Sierra's Godot/Unity source, common assets, documentation and checkpoints.
+Copy the extracted **TO_WORLD_SD_CARD** folder onto the existing SD card. Do not format the card for this handoff. The master carries Jan, Silver Shadow's Godot/Unity source, common assets, documentation and checkpoints.
 
 - Close Jan, Godot and Unity before ejecting; safely unmount, move the card, then reopen on the other computer.
 - Use a card filesystem that both installed operating systems already read and write. SteamOS commonly uses ext4 for game storage; Windows needs appropriate support for ext4. exFAT can be shared but is a choice to make after protecting existing contents. This package performs no repartitioning or formatting.

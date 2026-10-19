@@ -1,4 +1,4 @@
-# A small Terraria-style game, in Sierra's order
+# A small Terraria-style game, in Silver Shadow's order
 
 For the first version, use **side-view 2D rules with layered art for depth**. This is a practical 2.5D starting route, not a restriction on her final presentation. The included orthographic 3D bench provides a second route for actual 3D props; she can keep movement on a plane when she chooses.
 
@@ -26,4 +26,4 @@ Her fairy/avatar reference; idle/move/air/interact animations; terrain atlas; ba
 
 Keyboard/mouse and controller should reach the same actions. Choose bindings in lowercase named actions; show text and shape with color. For a handheld, readable text, controller focus and a pause menu matter. For Quest, screen-space testing, stereo VR, hand tracking and Touch controls are separate features with separate tests.
 
-Sierra owns the creative work. This roadmap is a set of small construction tasks and checks; it does not pre-author her finished game.
+Silver Shadow owns the creative work. This roadmap is a set of small construction tasks and checks; it does not pre-author her finished game.

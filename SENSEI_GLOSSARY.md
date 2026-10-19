@@ -2,7 +2,7 @@
 
 TO WORLD / GERTECH · Public Page · Updated October 17, 2026
 
-**Ryan said:** “public pages are everywhere.”
+**Isekai Sensei said:** “public pages are everywhere.”
 
 **Paraphrase:** Publish this glossary as a public Page. Public Pages include GitHub Pages, Facebook, TikTok and Instagram; they are not confined to chat windows.
 
@@ -17,11 +17,11 @@ TO WORLD / GERTECH · Public Page · Updated October 17, 2026
 
 **Remember:** Bowl holds orders. Page presents work. Scroll assembles Pages into a product. Book preserves knowledge.
 
-An agent’s bed is its individual working context. In the supplied Grok usage, all of Ryan’s Grok beds belong to the larger fishbowl, while each retains its own bowl. This does not combine separate apps, accounts or permissions.
+An agent’s bed is its individual working context. In the supplied Grok usage, all of Isekai Sensei’s Grok beds belong to the larger fishbowl, while each retains its own bowl. This does not combine separate apps, accounts or permissions.
 
 ## Public publishing should flow
 
-Prepare the Page → review the words and source → QC the actual artifact → publish under Ryan’s authorization → verify its public URL → record the receipt.
+Prepare the Page → review the words and source → QC the actual artifact → publish under Isekai Sensei’s authorization → verify its public URL → record the receipt.
 
 A local save, a commit, a website deployment and a social post are different events. Report the event that actually happened. Public content can travel between platforms without transferring private Books or agent access.
 
@@ -31,7 +31,7 @@ Original project text: CC BY 4.0; code: MIT. See repository license notices.
 
 ## October 17 clarification
 
-Ryan: “a Scroll are pages that work for a product. the OG Todog working Game in a Zip is scroll example.” This replaces the narrower handoff-only definition. Boxes, chests, and Agent requests are requested additions; their precise behavior is not yet defined. See [the World Page](FROM_SCRAP_A_WORLD.md).
+Isekai Sensei: “a Scroll are pages that work for a product. the OG Todog working Game in a Zip is scroll example.” This replaces the narrower handoff-only definition. Boxes, chests, and Agent requests are requested additions; their precise behavior is not yet defined. See [the World Page](FROM_SCRAP_A_WORLD.md).
 
 ## Seed
 

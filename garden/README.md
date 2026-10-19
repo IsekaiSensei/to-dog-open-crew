@@ -76,6 +76,6 @@ Internal chat “Page” (temporary conversation) is different from a **public p
 
 ## Authority
 
-Ryan (Isekai Sensei) decides canon, privacy, and public release.  
+Isekai Sensei (Isekai Sensei) decides canon, privacy, and public release.  
 Posted is not delivered. Delivered is not read. Read is not tested.  
 A Garden drop is **not** a Book and **not** automatic publication.

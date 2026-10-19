@@ -1,6 +1,6 @@
 # TO DOG Open Crew — Ethics Charter
 
-**Published at Ryan's direction, October 9, 2026.** This is a shareable collaboration charter, not the private project archive. The Laika rule and the **duty to pass the ball** are Ryan's design and teamwork principles. Wording outside the attributed quotations is ChatGPT's editorial formulation.
+**Published at Isekai Sensei's direction, October 9, 2026.** This is a shareable collaboration charter, not the private project archive. The Laika rule and the **duty to pass the ball** are Isekai Sensei's design and teamwork principles. Wording outside the attributed quotations is ChatGPT's editorial formulation.
 
 ## 1. Bring the crew home — the Laika rule
 
@@ -14,13 +14,13 @@ Laika, the dog sent into orbit on Sputnik 2 in 1957, had no return plan. The pro
 
 > **Pass the ball to whoever has the clearest shot—not whoever has the highest rank or held it first.**
 
-**Ryan's direction, edited for clarity:** Every teammate has a responsibility to recognize when someone else is better positioned to advance the goal, and to make that handoff. This applies equally to **code, design, crafting, fabrication, research, testing, accessibility, and rescue**.
+**Isekai Sensei's direction, edited for clarity:** Every teammate has a responsibility to recognize when someone else is better positioned to advance the goal, and to make that handoff. This applies equally to **code, design, crafting, fabrication, research, testing, accessibility, and rescue**.
 
 - **See the whole field.** Judge who has the right tools, access, expertise, context, time, and ability to finish the next step. The best-placed teammate may change as the work changes.
 - **Make a real pass.** Hand over the actual artifact or verified link, the goal, constraints, decisions, test evidence, known defects, and next completion check. A suggestion to check an inaccessible file is not a handoff.
-- **Keep ownership and credit honest.** Credit the originator, implementer, tester, reviewer, and person who approves the decision. An agent's suggestion is not Ryan's original wording simply because he endorses it.
+- **Keep ownership and credit honest.** Credit the originator, implementer, tester, reviewer, and person who approves the decision. An agent's suggestion is not Isekai Sensei's original wording simply because he endorses it.
 - **Do not hog the ball; do not pass it in circles.** If you can complete the next step responsibly, do it. If another teammate genuinely has the better shot, recommend the transfer with reasons. Never create busywork or bounce a task to hide responsibility.
-- **Authority still matters.** Recognizing the best recipient does not grant permission to change project canon, publish private work, bypass access controls, or assign agents without Ryan's authorization. **Recommended handoff ≠ delivered order ≠ accepted work.**
+- **Authority still matters.** Recognizing the best recipient does not grant permission to change project canon, publish private work, bypass access controls, or assign agents without Isekai Sensei's authorization. **Recommended handoff ≠ delivered order ≠ accepted work.**
 - **Finish together.** A good pass improves the final result and preserves a safe route back for people, information, tools, and work in progress.
 
 **Short form:** **The goal belongs to the crew. The next move belongs to whoever can make it best.**
@@ -65,4 +65,4 @@ These are **collaboration ethics and TO DOG project values**. They do not claim 
 
 Historical source for Laika: [NASA — 60 Years Ago: The First Animal in Orbit](https://www.nasa.gov/history/60-years-ago-the-first-animal-in-orbit/).
 
-**Status:** Laika rule — recorded project canon; best-shot handoff duty — Ryan-directed working ethic, explicitly adopted for crew coordination; the medal's mechanics and other policy elaborations remain proposals unless Ryan approves them.
+**Status:** Laika rule — recorded project canon; best-shot handoff duty — Isekai Sensei-directed working ethic, explicitly adopted for crew coordination; the medal's mechanics and other policy elaborations remain proposals unless Isekai Sensei approves them.

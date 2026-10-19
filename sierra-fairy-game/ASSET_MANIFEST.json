@@ -1,7 +1,7 @@
 {
   "package_version": "1.0",
   "owner": "Isekai Sensei",
-  "intended_builder": "Sierra",
+  "intended_builder": "Silver Shadow",
   "purpose": "Own Godot 2.5D fairy game; both-engine source/asset handoff",
   "assets": [
     {
@@ -15,7 +15,7 @@
       "changes": "none to .tscn; Work exported meshes to OBJ/MTL and GLB",
       "world_filter": "Gertech Fantasy",
       "medium": "native 3D scene",
-      "for": "Sierra handoff",
+      "for": "Silver Shadow handoff",
       "licenses": {
         "source": "owner-scoped handoff permission; retain source credit",
         "public_code": "MIT under repository source-code license"
@@ -54,8 +54,8 @@
     }
   ],
   "missing_production_assets": [
-    "Sierra-approved fairy art/rig and animation frames",
-    "Terrain atlas in Sierra\u2019s chosen grid/style",
+    "Silver Shadow-approved fairy art/rig and animation frames",
+    "Terrain atlas in Silver Shadow\u2019s chosen grid/style",
     "Production audio and effects"
   ],
   "excluded": [

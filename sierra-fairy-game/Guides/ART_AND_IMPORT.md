@@ -12,6 +12,6 @@ The crystal-metal tree is an existing procedural Godot prop by Muse, recovered f
 
 For her own 2D art, keep each tile/frame the same grid size, use transparent PNG when needed, set the intended filter, define the TileSet atlas and collisions, and make animation names explicit. Keep editable originals. For 3D, verify pivot, scale, normals, material, bounds and collision; the tree's hidden Proxy is a visual box, not a physics collision shape.
 
-Do not extract someone else's likeness from a concept sheet and call it Sierra. She supplies her own fairy design. Keep each creator separate from the character depicted. An AI label such as 'canon' or 'free to remix' does not prove owner approval or third-party rights.
+Do not extract someone else's likeness from a concept sheet and call it Silver Shadow. She supplies her own fairy design. Keep each creator separate from the character depicted. An AI label such as 'canon' or 'free to remix' does not prove owner approval or third-party rights.
 
 The larger private art intake stays outside this public package. It contains references needing individual review, not a library of automatically cleared shipping assets. Add approved original files with creator, source, status, rights and a checksum. Use ASSET_MANIFEST.json as the model.

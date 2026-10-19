@@ -1,7 +1,7 @@
 # CONCEPT PAGE 001 — Psyche 16 Starforge System / Brainstorm Platform
 
 **ID:** WORLD-BOOK-CONCEPT-001  
-**Status:** CANON — explicitly designated by Isekai Sensei (Ryan), 2026-10-17  
+**Status:** CANON — explicitly designated by Isekai Sensei (Isekai Sensei), 2026-10-17  
 **Home:** [World Book — front page](index.html#concept-001) · [World Book reference](WORLD_BOOK.md)  
 **Source:** Owner-supplied visual diagram titled **“PSYCHE 16 STARFORGE SYSTEM — BRAINSTORM PLATFORM”** (supplied Oct 17, 2026; diagram artwork originated in an agent collaboration). This is a textual, searchable transcription of the approved diagram. The matching JPEG source art was retrieved from the existing Google Drive Psyche 16 system-diagrams folder and is **committed to this public repo**: [Approved Concept Page 001 image](assets/CONCEPT_PAGE_001_PSYche16_Brainstorm_Platform.jpg).
 
@@ -32,7 +32,7 @@ The image uses connected Platonic / geometric agents as a **workflow design lang
 - **Open-crew structure** — public collaboration and human contributions.
 - **Agent hub** — **orchestrates, prioritizes, routes**; not a magical cross-app sync.
 
-**Ownership and command:** Ryan approves canon; Grok acts as CO for coordination; Work as XO for artifact assembly/QC; Chat as Yeoman/bridge for records/relay; Sphere handles continuity. Labels in the picture represent duties and conceptual geometry; they do **not** imply every named app currently has GitHub authentication, write access or a live connection. A posted order is not a receipt.
+**Ownership and command:** Isekai Sensei approves canon; Grok acts as CO for coordination; Work as XO for artifact assembly/QC; Chat as Yeoman/bridge for records/relay; Sphere handles continuity. Labels in the picture represent duties and conceptual geometry; they do **not** imply every named app currently has GitHub authentication, write access or a live connection. A posted order is not a receipt.
 
 ## Layer 3 — Data, outputs and Garden
 
@@ -46,7 +46,7 @@ This is the **first named concept Page** of the World Book, and the World Book's
 
 ## Canon boundaries
 
-**CANON:** this diagram is *Concept Page 001*, its five named module functions, three-layer structure, Garden distinction, and its prominent front-page placement, by direct Ryan authorization (2026-10-17).  
+**CANON:** this diagram is *Concept Page 001*, its five named module functions, three-layer structure, Garden distinction, and its prominent front-page placement, by direct Isekai Sensei authorization (2026-10-17).  
 **CONCEPT:** proposed dynamic shape-reconfiguration and emergent assemblies; no live physics, starforge game engine or cross-agent execution is proven by the artwork.  
 **VERIFIED SOURCE:** matching diagram JPEG has been committed to public GitHub (source asset; deployment on Pages remains separate). **OPEN:** verify GitHub Pages configuration, public live URL, and eventual search indexing; obtain acknowledgments from each separate agent.  
 **SEARCH TAGS:** Psyche 16; Starforge; Brainstorm Platform; GERTECH; TO WORLD; World Book; Concept Page 001; gummy ships; Sucker; Thruster; Inhabitor; Frame; Power; modular reconfiguration; Sphere; Grok; Work; Meta; Muse; Garden of Bullshit; Platonic solids; geometric agent layer.

@@ -5,21 +5,21 @@
 **Owner naming correction — October 17, 2026:** The repository itself is to be renamed to `to-world`. Its current `to-dog-open-crew` address is a legacy address; the GitHub settings rename remains pending. A header correction does not mean the repository has already been renamed.
 
 **Search this repo by name → get the link.**  
-See [LINKS.md](LINKS.md) for the name index (Sierra, silvershadow13100, fairy, GET_STARTED, etc.).
+See [LINKS.md](LINKS.md) for the name index (Silver Shadow, silvershadow13100, fairy, GET_STARTED, etc.).
 
 Public collaboration room for humans and AI assistants working with **TO WORLD / GERTECH**, including the TO DOG game branch.
 
-**Sierra:** [Godot / Unity / Meta Quest handoff and beginner YouTube path](sierra-fairy-game/README.md). Download this repository ZIP, then open `sierra-fairy-game/START_HERE.html`.
+**Silver Shadow:** [Godot / Unity / Meta Quest handoff and beginner YouTube path](sierra-fairy-game/README.md). Download this repository ZIP, then open `sierra-fairy-game/START_HERE.html`.
 
 **Licenses:** [CC BY 4.0 (original creative/docs)](LICENSE) + [MIT (code)](LICENSE-CODE.md)  
-**Authority:** Ryan decides canon and authorizes work.  
-**Coordination (Ryan direction, October 15, 2026):** Grok is acting CO (command watch); Work is XO (technical execution and review); Chat is Chief/Yeoman (records and relay). Ryan remains final authority. Actual agent receipt/access is not assumed. Historical ChatGPT / Sergeant references below remain archival, not a current command appointment.
+**Authority:** Isekai Sensei decides canon and authorizes work.  
+**Coordination (Isekai Sensei direction, October 15, 2026):** Grok is acting CO (command watch); Work is XO (technical execution and review); Chat is Chief/Yeoman (records and relay). Isekai Sensei remains final authority. Actual agent receipt/access is not assumed. Historical ChatGPT / Sergeant references below remain archival, not a current command appointment.
 
 This repo shares practical collaboration methods: ethical design, evidence-based reports, accessible handoffs, safe return and recovery, and mistakes we have learned to prevent. The private TO WORLD design archive remains separate.
 
 > No plan is complete without crew return prioritized. Nothing is done that can't bring life back home.
 
-The above is the **Laika rule**, a recorded TO DOG design principle. The proposed Laika Medal of Honor and other public-facing ethics language remain subject to Ryan's approval; no government or military endorsement is implied.
+The above is the **Laika rule**, a recorded TO DOG design principle. The proposed Laika Medal of Honor and other public-facing ethics language remain subject to Isekai Sensei's approval; no government or military endorsement is implied.
 
 ## World Book — front-page canon (owner GO, Oct 17 2026)
 
@@ -39,7 +39,7 @@ The above is the **Laika rule**, a recorded TO DOG design principle. The propose
 ## Start here
 
 1. [GET_STARTED.md](GET_STARTED.md) — repository setup SOP, optional GitHub connection, manual paste route, starter files, first work packet.
-2. [ETHICS.md](ETHICS.md) — Laika rule, proof over claims, best-shot rule (pass the work to whoever has the clearest next shot; passes route through Ryan).
+2. [ETHICS.md](ETHICS.md) — Laika rule, proof over claims, best-shot rule (pass the work to whoever has the clearest next shot; passes route through Isekai Sensei).
 3. [JOIN_THE_FUTURE.md](JOIN_THE_FUTURE.md) — multi-agent repository structure and philosophy.
 4. [**garden/**](garden/README.md) — drop rough work (anyone via fork + PR). No private Book access.
 5. [contributions/](contributions/README.md) — share one small **tested** improvement via fork + PR.
@@ -50,7 +50,7 @@ The above is the **Laika rule**, a recorded TO DOG design principle. The propose
 - Read GitHub live when you can; otherwise ask for current files and label them as manual context.
 - Report the actual repo, branch, and access method. Never invent access or tests.
 - Work only on the requested scope. Distinguish CANON, VERIFIED, INFERENCE, PROPOSAL, OPEN, RETIRED.
-- Small public improvements go through fork + pull request. Do not merge without Ryan.
+- Small public improvements go through fork + pull request. Do not merge without Isekai Sensei.
 - Rough ideas → [Garden](garden/README.md). Tested process notes → [contributions/](contributions/README.md). Private Books are not reachable from public drops.
 
 ## Historical access test — optional

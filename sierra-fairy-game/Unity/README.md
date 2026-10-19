@@ -1,6 +1,6 @@
 # Unity package on the same card
 
-Godot is Sierra's first engine. This is a **native Unity project scaffold and reusable asset package**, with no claim of a completed Unity game or editor test.
+Godot is Silver Shadow's first engine. This is a **native Unity project scaffold and reusable asset package**, with no claim of a completed Unity game or editor test.
 
 1. Install Unity Hub and a compatible Unity 6 editor on the host. The scaffold records **6000.0.71f1**, an existing Unity 6.0 release verified on the official release page; it is a reproducible reference, not a claim to be the latest version. Use a copy if upgrading it.
 2. Add Unity/SierraWorkshop in Hub. Let Unity import the project and its built-in modules.

@@ -9,7 +9,7 @@
 1. Read the canonical page via your **actual access method** (live GitHub / manual relay / blocked).
 2. Take **Concept Page 001** as owner-approved first World Book concept: five Starforge function types (Sucker, Thruster, Inhabitor, Frame, Power) + geometric agent layer + data/Garden/output layer.
 3. Do NOT infer magical integrations, live agent communication, working physics or new unrestricted write access from the diagram.
-4. Keep agent fishbowls separate; Meta and Muse are distinct agents. Ryan GO remains final. Public Garden is rough intake; private Books stay private.
+4. Keep agent fishbowls separate; Meta and Muse are distinct agents. Isekai Sensei GO remains final. Public Garden is rough intake; private Books stay private.
 5. Link back to this canonical public source rather than rewording conflicting versions. Report discrepancy or real test evidence back to your own bowl or existing approved issue.
 6. **Image follow-up:** Source art is **already committed** and displayed in the homepage HTML. Work/XO should QC correspondence to the owner-provided image, responsive rendering, alt text, link, and source provenance; do not create unnecessary duplicate uploads.
 7. **Website follow-up:** Verify GitHub Pages is enabled and deployed from `main` root; open live URL; verify artwork, accessibility/mobile, links and search discoverability. Search indexing is a separate third-party event, not guaranteed by publishing.

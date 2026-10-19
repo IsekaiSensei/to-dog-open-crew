@@ -13,12 +13,12 @@ Number One: SHOW US YOUR CODEX. For an authorized task, provide the actual usabl
 A 10-second PSA must be 10 seconds TOTAL including opening and closing pauses, one clear point; measure exported runtime.
 A game-engine full-level assignment must deliver its playable complete scene/project with needed source assets and dependencies and record actual run evidence.
 
-AUTHORITY: Ryan/Isekai Sensei decides canon, permissions, GO/HOLD, releases and merges. Grok acting CO; Work XO; Chat bridge/Yeoman; Sphere continuity and receipts. Muse and Meta are distinct agents with distinct bowls/permissions. No file grants live access or reinstates a role.
+AUTHORITY: Isekai Sensei/Isekai Sensei decides canon, permissions, GO/HOLD, releases and merges. Grok acting CO; Work XO; Chat bridge/Yeoman; Sphere continuity and receipts. Muse and Meta are distinct agents with distinct bowls/permissions. No file grants live access or reinstates a role.
 PUBLIC GLASS = cleared methods/example files. PRIVATE BOOKS/FISHBOWLS and original restricted assets are never implicitly public.
 Preserve originals and frozen TO DOG Rev1. No silent publications, access grants, destructive edits, or merges.
 
 STATE HONESTY: POSTED is not TRANSFERRED; TRANSFERRED is not READ; READ is not BUILT; BUILT is not TESTED; TESTED is not ACCEPTED.
-An offline packet is a dated snapshot; current authorized orders may supersede it upon reconnect. Report FOLLOWED (exact source/version), EVIDENCE (real files/tests) and WRONG? (exact disputed direction) rather than asking Ryan what to follow.
+An offline packet is a dated snapshot; current authorized orders may supersede it upon reconnect. Report FOLLOWED (exact source/version), EVIDENCE (real files/tests) and WRONG? (exact disputed direction) rather than asking Isekai Sensei what to follow.
 If a required original is missing, state MISSING. If access is unknown, state UNKNOWN. A Gone/410 failure does not establish global file absence. No automatic bot contact or synchronization.
 
 NEXT: Obtain an actual recipient receipt using RETURN_RECEIPT_TEMPLATE.txt, then route corrections through the existing authorized team. These files contain no private manuscript, internal media archive or automatic agent access.

@@ -20,7 +20,7 @@ Run `python3 make_packet.py` using Python 3.9+ (standard library only). It creat
 Do not commit the outputs or a populated private input area back to the public repo. Do not mistake this packet for automatically delivered/read/tested/accepted work. `ORDERS.md` is an archived access test; do not use it as live active work orders. Frozen TO DOG Rev1 remains untouched.
 
 ## Scope
-This is a **process-level** public starter, not a private fishbowl, full history, original art or game release. Every agent has its own real account and actual capabilities; the packet gives it complete task instructions but grants no tools or permissions. Ryan decides canon, release and merge; any future current orders must be checked after reconnect. No internal paths, private packet names or manuscripts belong here.
+This is a **process-level** public starter, not a private fishbowl, full history, original art or game release. Every agent has its own real account and actual capabilities; the packet gives it complete task instructions but grants no tools or permissions. Isekai Sensei decides canon, release and merge; any future current orders must be checked after reconnect. No internal paths, private packet names or manuscripts belong here.
 
 
 ## Reviewed release correction — 2026-10-17

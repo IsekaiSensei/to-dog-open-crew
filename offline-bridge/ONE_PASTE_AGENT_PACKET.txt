@@ -4,12 +4,12 @@ SNAPSHOT_DATE: 2026-10-17
 ORIGIN / AUTHORIZED SENDER: [identity]
 RECIPIENT / ACTUAL SESSION: [agent; account if relevant]
 DELIVERY METHOD: MANUAL TEXT OR LOCAL ZIP — no live Git/Drive/bot assumed.
-AUTHORITY: Ryan retains canon/GO/HOLD/privacy/release/merge. Grok Acting CO; Work XO; Chat bridge/Yeoman. Other agents have distinct bowls; this packet grants no new access.
+AUTHORITY: Isekai Sensei retains canon/GO/HOLD/privacy/release/merge. Grok Acting CO; Work XO; Chat bridge/Yeoman. Other agents have distinct bowls; this packet grants no new access.
 PERMISSION: [DRAFT / REVIEW / GO / HOLD, with direct source]
 PRIVACY: [PUBLIC GLASS / AUTHORIZED PRIVATE LOCAL]
 NUMBER ONE: SHOW US YOUR CODEX — useful artifact first when authorized, then QC.
 
-RYAN SAID (EXACT WORDS ONLY): [verbatim or NOT SUPPLIED]
+ISEKAI SENSEI SAID (EXACT WORDS ONLY): [verbatim or NOT SUPPLIED]
 SENDER PARAPHRASE (NEVER A QUOTE): [clearly mark]
 TASK — ONE BOUNDED OUTCOME: [exact requested job]
 FOLLOW THESE EXACT INSTRUCTIONS AND SOURCES: [paste complete text necessary, file/version/hash; links may be included but must NOT be required]

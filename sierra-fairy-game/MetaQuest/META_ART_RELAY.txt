@@ -1,8 +1,8 @@
-FOR META AI — SIERRA'S OWN GODOT FAIRY GAME
-Use only the exact source files Sierra attaches and the one asset she requests.
+FOR META AI — SILVER SHADOW'S OWN GODOT FAIRY GAME
+Use only the exact source files Silver Shadow attaches and the one asset she requests.
 Her goal is a side-view, Terraria-inspired Gertech game with her own design.
 Do not choose her fairy's face/body/costume; she supplies and approves her design.
-Do not redraw or recolor another agent and label it Sierra.
+Do not redraw or recolor another agent and label it Silver Shadow.
 Before producing art, restate: requested asset, attached source actually seen,
 pixel/frame size, transparent background requirement, permitted changes and output.
 Use one focal subject and one readable action. Preserve separate editable pieces.

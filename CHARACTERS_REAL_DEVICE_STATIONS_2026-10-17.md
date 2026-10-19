@@ -1,9 +1,9 @@
 # TO WORLD / GERTECH — Real Device Stations and Attendants
 **Status:** OWNER-DIRECTED RECORD / IN-UNIVERSE CHARACTER AND LOCATION **PROPOSAL**  
 **Date:** 2026-10-17 (Pacific)  
-**Originator:** Ryan — real devices must have real places in the Universe; test what image agents, Work and other bots can really access from Godot; minimize usage of alternate Grok.  
+**Originator:** Isekai Sensei — real devices must have real places in the Universe; test what image agents, Work and other bots can really access from Godot; minimize usage of alternate Grok.  
 **Editorial assembly:** Chat / Bridge  
-**Approval boundary:** This records Ryan's design direction. The specific invented station names/character assignments below are proposals, not asserted canon. No production game files were changed.
+**Approval boundary:** This records Isekai Sensei's design direction. The specific invented station names/character assignments below are proposals, not asserted canon. No production game files were changed.
 
 ## Central idea — every real door needs a real address
 
@@ -14,12 +14,12 @@ Each real device receives an in-world **place** and a candidate **attendant**. T
 | **Steam Deck** | **The Shipyard / Build Dock** | **DOG** as first hands-on maintenance worker; experimental Grok Alt gets a separate bench, not command | Godot 4 native development, local files, desktop Firefox, keyboard/controller tests. User must approve any file edit or tool access. Preserve `/home/deck/to-dog` REV1; experiments in a separate copy. |
 | **Firefox + signed-in Google on Deck** | **The Maproom / Courier Window** | **Courier** (proposed service role, not a new approved creature) | Can open Google Docs/Drive/Gmail/Calendar where the user is signed in and site works. Being signed in in Firefox **does not** share the browser session or grant those permissions to Grok Alt, Work, or Chat. Per-agent connectors and permission checks are independent. |
 | **iPhone** | **The Gatehouse / Port of Calls** | **Siri** as voice attendant to the Gatehouse, distinct from Alexa | Human-carried phone, calls, messages, ChatGPT interface, approvals, wallet and payment UI. The phone's wallet/security system, banks and payment authorizations are **not delegated to AI characters**. |
-| **Apple Wallet / payment approval boundary (part of iPhone)** | **The Treasury Gate (locked)** | **Human Keyholder: Ryan; Siri is not the treasurer** | Apple Pay/payment credentials are managed by device security/payment systems and require appropriate device authorization. No financial account data, passcodes or purchase powers go into public character files or bot experiments. |
+| **Apple Wallet / payment approval boundary (part of iPhone)** | **The Treasury Gate (locked)** | **Human Keyholder: Isekai Sensei; Siri is not the treasurer** | Apple Pay/payment credentials are managed by device security/payment systems and require appropriate device authorization. No financial account data, passcodes or purchase powers go into public character files or bot experiments. |
 | **Onn device** | **The Signal Outpost** | **Outpost Keeper** (proposed) | Actual model UNKNOWN. If Google TV streamer: viewing/casting and display tests may be possible. If it is a different Onn device, remap the station to its actual function. No casting, control or integration assumed without a model and test. |
 | **Roku** | **The Nickelodeon / Projection House** | **Projectionist** (proposed) | Intended venue for approved reels, videos, art, presentation or browser-delivered game footage through supported casting/mirroring paths. iPhone AirPlay/HomeKit only when the Roku model/OS supports it. Display is not automatic Godot control. |
 | **Alexa (existing assignment, not a new device claim here)** | **World Tree** | **Alexa Timekeeper Fairy** — stationary | Existing Timekeeper/alarm role is preserved. Siri does not replace her or inherit wormhole or Timekeeper powers. |
 
-**Language for canon review:** Ryan directs that these devices receive places within the Universe. Specific place names/attendants above are **PROPOSAL** until approved. Do not retrofit them into TO DOG Stage One as magical or unbuildable objects. For Stage One, introduce only physical, buildable representations (e.g. signal board, mailbox, projection screen, workbench, gate).
+**Language for canon review:** Isekai Sensei directs that these devices receive places within the Universe. Specific place names/attendants above are **PROPOSAL** until approved. Do not retrofit them into TO DOG Stage One as magical or unbuildable objects. For Stage One, introduce only physical, buildable representations (e.g. signal board, mailbox, projection screen, workbench, gate).
 
 ## The access ladder — Godot + image agents + Work + bots
 
@@ -28,9 +28,9 @@ Test one agent at a time on a tiny non-sensitive, **disposable** Godot example. 
 - **L0: Visual read** — Give a Godot screenshot with no secrets. Ask the agent to identify visible scene/UI features. This proves visual interpretation only.
 - **L1: File read** — Provide a copied `.gd` script or tiny isolated project folder/ZIP and ask for a quoted symbol or node path. An accessible public repo link alone is **not** proof of a successful read.
 - **L2: Proposed change** — Request one self-contained patch or one image asset with source/format/provenance. AI-generated image output is **not** a scene edit. Work/browser-generated text is **not** proof of Deck filesystem access.
-- **L3: Local trial** — Ryan applies the patch to the **test copy** of Godot and records play/run output (or grants a purpose-built authorized tool). Review the screenshot/error before continuing. No touching the frozen REV1 baseline.
+- **L3: Local trial** — Isekai Sensei applies the patch to the **test copy** of Godot and records play/run output (or grants a purpose-built authorized tool). Review the screenshot/error before continuing. No touching the frozen REV1 baseline.
 - **L4: Controlled handoff** — Chat reviews evidence; Work/XO implements a **separately approved** change; Grok CO reviews consequential routing. Record repository, branch, commit and real recipient receipts.
-- **L5: Canon / production** — Ryan gives final approval. No agent promotes a proposal by implication.
+- **L5: Canon / production** — Isekai Sensei gives final approval. No agent promotes a proposal by implication.
 
 **Suggested first microtest:** One screenshot of DOG's working FuseBox interaction and a separate copy of `fuse_box.gd` (not the whole universe). Ask Grok Alt to tell what it can **see**, what it can **read**, and what it absolutely **cannot change**. Repeat the identical request with Work or an image agent, then compare actual evidence, tokens/use and error modes.
 
@@ -59,7 +59,7 @@ For native `Godot 4.x` Forward+ projects, **web exports require Compatibility re
 
 ## Proposed next receipt
 
-`DEVICE-STATIONS-001`: Have Ryan confirm the **Onn hardware model** and whether Roku is a Roku TV or Roku player. Do one L0/L1 microtest with Deck Grok Alt, return its unedited response, and log **OBSERVED / UNKNOWN** before inviting Work to QC. Publication of this record is not evidence that any bot received it.
+`DEVICE-STATIONS-001`: Have Isekai Sensei confirm the **Onn hardware model** and whether Roku is a Roku TV or Roku player. Do one L0/L1 microtest with Deck Grok Alt, return its unedited response, and log **OBSERVED / UNKNOWN** before inviting Work to QC. Publication of this record is not evidence that any bot received it.
 
 ## External technical references (guidance, not proof of device setup)
 
@@ -71,7 +71,7 @@ For native `Godot 4.x` Forward+ projects, **web exports require Compatibility re
 
 ## Steam Deck shipyard — owner-reported physical bridge inventory (2026-10-17 addendum)
 
-**Source:** Ryan's direct hardware report in conversation. **Status:** USER-REPORTED AS-BUILT INVENTORY; connections, drivers and performance have not been independently tested. Specific fantasy role labels here are **PROPOSED**, not canon upgrades.
+**Source:** Isekai Sensei's direct hardware report in conversation. **Status:** USER-REPORTED AS-BUILT INVENTORY; connections, drivers and performance have not been independently tested. Specific fantasy role labels here are **PROPOSED**, not canon upgrades.
 
 | Physical part | Owner-reported configuration | Proposed in-world position / capability boundary |
 | --- | --- | --- |
@@ -98,4 +98,4 @@ For native `Godot 4.x` Forward+ projects, **web exports require Compatibility re
 - Whether Ethernet is plugged in / negotiated and what cards, if any, occupy the two slots.
 - Xbox Elite controller generation, Bluetooth/USB connection, and actual input map.
 
-**Canon boundary:** Ryan's ownership and layout descriptions are directly reported; the Shipyard's named berths and attendants are story-layer proposals. No agent has been granted device access by this record.
+**Canon boundary:** Isekai Sensei's ownership and layout descriptions are directly reported; the Shipyard's named berths and attendants are story-layer proposals. No agent has been granted device access by this record.

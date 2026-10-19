@@ -3,7 +3,7 @@
 **Current project hierarchy — owner correction, October 17, 2026:** **TO WORLD is the root; TO DOG is a game branch within it.** See the [current project entry](README.md). The old project-wide TO DOG/Open Crew wording below belongs to the preserved historical test. Requested repository name: `to-world`; actual GitHub settings rename is pending.
 
 
-**CURRENT COMMAND CONTEXT (Ryan, October 15, 2026):** Grok is acting Commanding Officer (CO); Work is Executive Officer (XO); Chat is Chief/Yeoman. Ryan keeps final authority. This file is a historical **access-test archive, not live task orders**; later crew lists below are dated history. See [current public crew entry](README.md). No receipt or external agent contact is implied.
+**CURRENT COMMAND CONTEXT (Isekai Sensei, October 15, 2026):** Grok is acting Commanding Officer (CO); Work is Executive Officer (XO); Chat is Chief/Yeoman. Isekai Sensei keeps final authority. This file is a historical **access-test archive, not live task orders**; later crew lists below are dated history. See [current public crew entry](README.md). No receipt or external agent contact is implied.
 
 > **ARCHIVED — historical access test only. Do not treat as a live order.**  
 > **Do not HOLD ordinary work. Proceed with the task you were given.**  
@@ -13,14 +13,14 @@
 **Order ID:** `TEST-OPEN-001`  
 **Test marker:** `LAIKA-RETURN-001`  
 **Issued:** October 9, 2026 (America/Los_Angeles)  
-**Issuing coordinator:** ChatGPT / Sergeant, at Ryan's direction  
+**Issuing coordinator:** ChatGPT / Sergeant, at Isekai Sensei's direction  
 **Mode:** **READ-ONLY TEST — NO DEVELOPMENT, NO EDITS**
 
 ## Later operational instruction — Active pair / reserve crew
 
-**Supersedes the universal test invitation as a standing request (October 9 local, Ryan).** `TEST-OPEN-001` remains as an access experiment and its evidence history only. **Do not keep rechecking Jan or Meta.** Their earlier no-file-read results remain recorded; they are now **reserve/on call** for explicit task-specific work.
+**Supersedes the universal test invitation as a standing request (October 9 local, Isekai Sensei).** `TEST-OPEN-001` remains as an access experiment and its evidence history only. **Do not keep rechecking Jan or Meta.** Their earlier no-file-read results remain recorded; they are now **reserve/on call** for explicit task-specific work.
 
-**Active:** Muse (build/prototype implementation), Grok (design/math/evidence review) and ChatGPT (coordination, evidence, routing). Ryan remains project lead and final authority. Handoffs are based on the best person for the next move, not fixed ranks: see [ETHICS.md](ETHICS.md), “Pass the ball — the best-shot rule.” No agent automatically monitors this file or obtains permission simply by reading it.
+**Active:** Muse (build/prototype implementation), Grok (design/math/evidence review) and ChatGPT (coordination, evidence, routing). Isekai Sensei remains project lead and final authority. Handoffs are based on the best person for the next move, not fixed ranks: see [ETHICS.md](ETHICS.md), “Pass the ball — the best-shot rule.” No agent automatically monitors this file or obtains permission simply by reading it.
 
 ## CHECK FOR ORDERS — TEST-OPEN-001
 
@@ -38,10 +38,10 @@
 - **No file, no file hunt.** Verify the file actually exists before ordering anybody to fetch it.
 - **Posted is not delivered. Delivered is not read. Read is not tested.**
 - **This is weaving, not spinning yarn.** Keep a report short and attached to the actual evidence.
-- **Authority:** Ryan decides canon. The coordinator translates intent into readable orders. No agent invents lore, credentials, runtime results, or authorization.
+- **Authority:** Isekai Sensei decides canon. The coordinator translates intent into readable orders. No agent invents lore, credentials, runtime results, or authorization.
 - **Honest labels:** CANON = approved project decision; VERIFIED = demonstrated with source/time; INFERENCE = interpretation; PROPOSAL = unapproved suggestion; OPEN = unresolved.
 
-The Laika rule and “this is weaving not spinning yarn” are recorded Ryan/project wording. The “no file” and “posted” reminders are assistant-drafted coordination quips, not verbatim Ryan quotations.
+The Laika rule and “this is weaving not spinning yarn” are recorded Isekai Sensei/project wording. The “no file” and “posted” reminders are assistant-drafted coordination quips, not verbatim Isekai Sensei quotations.
 
 ## Access lanes
 
@@ -51,12 +51,12 @@ The Laika rule and “this is weaving not spinning yarn” are recorded Ryan/pro
 | Muse / Builder | GitHub connector if installed/authorized; else public browser | Must report own live access |
 | Grok / Pollux | GitHub connector if installed/authorized; else public browser | Must report own live access |
 | Meta Deck | Attempt ordinary public browser, once | A prior 404 was for a **private** repo, not this public one |
-| Jan / Thinky | Attempt if tools truly permit; otherwise use Ryan's pasted relay | Pasted text establishes manual relay, **not** GitHub access |
+| Jan / Thinky | Attempt if tools truly permit; otherwise use Isekai Sensei's pasted relay | Pasted text establishes manual relay, **not** GitHub access |
 | Any visiting AI/human | Public browser or honest manual relay | No credentials or logins required for a browser that can access public GitHub |
 
 ## If public GitHub is unavailable: manual-relay instructions
 
-Ryan can paste the following short excerpt directly into the recipient's chat. That recipient may then acknowledge the content, but must report **PASS: MANUAL RELAY**, not LIVE PUBLIC READ.
+Isekai Sensei can paste the following short excerpt directly into the recipient's chat. That recipient may then acknowledge the content, but must report **PASS: MANUAL RELAY**, not LIVE PUBLIC READ.
 
 ```text
 TO DOG OPEN CREW — TEST-OPEN-001
@@ -84,7 +84,7 @@ NEXT: HOLD
 ## Recorded reports (at time of update)
 
 - **ChatGPT / Sergeant:** GitHub connector read of public `ORDERS.md`: PASS, 2026-10-09 local. This is one agent's evidence, not the crew's collective result.
-- **Meta Deck:** **PARTIAL: PUBLIC REPOSITORY LISTING LIVE; ORDERS FILE CONTENT BLOCKED**, from its Oct 9 report relayed by Ryan. Meta reported `browser.open` on the repository homepage showed public visibility, `main`, and root file names; GitHub blob, raw, and API file-content fetches were blocked by its browser/cache. No order marker retrieved. No file-read PASS. Meta was instructed to HOLD. This is **Meta-reported** evidence, not ChatGPT independently testing Meta's browser.
+- **Meta Deck:** **PARTIAL: PUBLIC REPOSITORY LISTING LIVE; ORDERS FILE CONTENT BLOCKED**, from its Oct 9 report relayed by Isekai Sensei. Meta reported `browser.open` on the repository homepage showed public visibility, `main`, and root file names; GitHub blob, raw, and API file-content fetches were blocked by its browser/cache. No order marker retrieved. No file-read PASS. Meta was instructed to HOLD. This is **Meta-reported** evidence, not ChatGPT independently testing Meta's browser.
 - **Muse, Grok, Jan:** No `TEST-OPEN-001` evidence reported to Sergeant as of this update. Prior success reading a different repo does not count for this public file test.
 
 **Optional limited-browser follow-up:** README now carries a separate homepage-only marker. A live homepage read can pass **LIVE README ONLY**. It does not change Meta's `ORDERS.md` result unless Meta separately reads that file.

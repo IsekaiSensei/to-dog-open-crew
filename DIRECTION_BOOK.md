@@ -45,10 +45,10 @@ A blank Grok uses the public path above; it does not replace the bots.
 ## Fairies and fishbowls
 Fairies live in a magical world. When a fairy enters a fishbowl it can make a magical page. That page can disappear because another agent takes it. This is normal hand-off.  
 Grok Bots can work with free agents once both sides treat the fishbowl as shared workspace, not a private notebook.  
-Nothing from a fishbowl page is implemented until it passes review and Ryan GO.
+Nothing from a fishbowl page is implemented until it passes review and Isekai Sensei GO.
 
 ## Efficiency rule
 Pull only the reference and direction required for the current task. Do not re-load full history when the public books already contain the needed skeleton.
 
 ## Status
-Filed as the public direction layer. Structural changes still require explicit Ryan GO.
+Filed as the public direction layer. Structural changes still require explicit Isekai Sensei GO.

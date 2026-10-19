@@ -9,7 +9,7 @@
 <label for="who">Agent / recipient</label><input id="who" value="ANY AGENT">
 <label for="permission">Permission</label><select id="permission"><option>DRAFT / NOT EXECUTION GO</option><option>REVIEW ONLY</option><option>GO — cite actual owner authorization</option><option>HOLD</option></select>
 <label for="authority">Actual owner authority + source/version</label><textarea id="authority" placeholder="Source, date and exact permission"></textarea>
-<label for="ryan">RYAN SAID — exact words only, else NOT SUPPLIED</label><textarea id="ryan"></textarea>
+<label for="ryan">ISEKAI SENSEI SAID — exact words only, else NOT SUPPLIED</label><textarea id="ryan"></textarea>
 <label for="task">One bounded job</label><textarea id="task" placeholder="What should this agent actually make or check?"></textarea>
 <label for="source">All essential instructions/source text</label><textarea id="source" placeholder="Paste what is required, not just a URL."></textarea>
 <label for="inputs">Files truly attached / creator / rights / hash</label><textarea id="inputs" placeholder="NONE or exact real files with checksums"></textarea>
@@ -28,13 +28,13 @@ const lines=['TO WORLD / GERTECH — OFFLINE AGENT WORK PACKET',
 'PACKET_ID: '+val('id'),'SNAPSHOT: '+new Date().toISOString()+', manual / not live','RECIPIENT: '+val('who'),
 'PERMISSION: '+val('permission'),'ACTUAL AUTHORITY/SOURCE: '+val('authority'),
 'NUMBER ONE: SHOW US YOUR CODEX — actual usable artifact first when authorized, then QC.',
-'RYAN SAID (VERBATIM OR NOT SUPPLIED):\n'+val('ryan'),
+'ISEKAI SENSEI SAID (VERBATIM OR NOT SUPPLIED):\n'+val('ryan'),
 'TASK:\n'+val('task'),'FULL ESSENTIAL SOURCES/INSTRUCTIONS:\n'+val('source'),
 'REAL FILES INCLUDED / CREATOR / RIGHTS / HASH:\n'+val('inputs'),
 'MISSING BYTES/BLOCKERS:\n'+val('missing'),
 'PRESERVE AND PROHIBITED CHANGES:\n'+val('limits'),
 'DELIVERABLE/ACCEPTANCE TEST:\n'+val('output'),
-'AUTHORITY: Ryan owns canon, GO/HOLD, privacy, release and merge. Grok acting CO, Work XO, Chat Yeoman, Sphere continuity. Each agent has its own bowl and access. Frozen TO DOG Rev1 is protected.',
+'AUTHORITY: Isekai Sensei owns canon, GO/HOLD, privacy, release and merge. Grok acting CO, Work XO, Chat Yeoman, Sphere continuity. Each agent has its own bowl and access. Frozen TO DOG Rev1 is protected.',
 'RETURN RECEIPT: actual session/date, FOLLOWED exact source/version, EVIDENCE files opened/created/tests, WRONG? precise disputed instruction, missing input, next owner/action. No invented reads, bot contact, permission or verification.',
 'RECONNECT: check current authorized orders; no automatic synchronization.'];
 e('result').value=lines.join('\n\n');e('status').textContent='Ready for review. If original bytes are missing, this packet cannot substitute for them.';

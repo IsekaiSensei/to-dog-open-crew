@@ -9,6 +9,6 @@ This is the portable **Glass** method, not a live-agent dashboard, private Book,
 3. For media/engine inputs, package explicitly cleared real files with a size/SHA-256 manifest. Missing binary source = BLOCKED, not delivered. The provided Python packager uses a whitelist, never scans arbitrary directories or uploads.
 4. Hand the file to the chosen agent. Ask it for FOLLOWED / EVIDENCE / WRONG? receipt. Reconcile current orders on reconnect.
 
-**Release boundary:** This is public-safe *process*. Do not post private world books, art archives, unreleased agent bowls, personal materials, internal paths, private source transcripts, or passwords. Ryan controls GO/HOLD, publishing, canon and mergers. Branch/PR is review, not a recipient acknowledgment.
+**Release boundary:** This is public-safe *process*. Do not post private world books, art archives, unreleased agent bowls, personal materials, internal paths, private source transcripts, or passwords. Isekai Sensei controls GO/HOLD, publishing, canon and mergers. Branch/PR is review, not a recipient acknowledgment.
 
 This entry does not modify archived `ORDERS.md`, legacy access tests, frozen TO DOG Rev1, or private routing.
