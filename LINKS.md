@@ -6,6 +6,9 @@ Anyone can search the public repository. No private access needed.
 
 ## Core public links (always open)
 
+- **VR / Passthrough / Spark Fairy / Silver Shadow Fairy / Starforge graphics / Meta handoff / TO DOG / Dovahcrab / open-agent hub** → https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/HUB_VR_GRAPHICS_START_HERE.md
+- **Graphics v0.5 three-assembly intake (source missing; PROPOSAL)** → https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/garden/proposals/PSYCHE16_GRAPHICS_V0_5_INTAKE_2026-10-19.md
+- **VR mixed-reality technical handoff (PROPOSAL)** → https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/VR_PASSTHROUGH_SPARK_FAIRY.md
 - **Open Crew home / start here**: https://github.com/IsekaiSensei/to-dog-open-crew
 - **GET_STARTED.md** (setup packet): https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/GET_STARTED.md
 - **ETHICS.md**: https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/ETHICS.md
