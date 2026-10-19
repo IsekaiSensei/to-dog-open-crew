@@ -14,6 +14,11 @@ Anyone can search the public repository. No private access needed.
 - **Sensei Glossary**: https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/SENSEI_GLOSSARY.md
 - **Web entry (Pages-ready)**: https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/index.html
 
+## New chapter — GERTECH Music Box (working Page, 2026-10-19)
+
+- **Music Box / art / five Platonic solids / five-in-one / 31 combinations / origami code / vector lattice / spark fairy / light pilot / gummy ship / robot / rocket / crystal / metal / Godot physics / CharacterBody3D / camera / cursor / POV / music video / word sync / beat sync / song Pages** → https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/MUSIC_BOX_CHAPTER_2026-10-19.md
+- **Status:** public working chapter, not locked canon or proof of implemented features. Earlier Art material preserved.
+
 ## World Book · canonical first concept
 
 - **CONCEPT PAGE 001 / Psyche 16 / Starforge / Brainstorm Platform / five modules / gummy ship / Garden / geometric agents** → https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/CONCEPT_PAGE_001.md
