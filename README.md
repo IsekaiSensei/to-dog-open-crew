@@ -27,6 +27,7 @@ The above is the **Laika rule**, a recorded TO DOG design principle. The propose
 
 ## Public Pages
 
+- [**OPEN AGENT HUB — VR / Spark Fairy / Starforge graphics start here**](HUB_VR_GRAPHICS_START_HERE.md) — source-of-truth links, two merged design handoffs, three optional assembly examples, review gates, and missing Meta v0.5 package status. **Public reference / proposals, not canon promotion or headset proof.**
 - [**GERTECH — The Music Box (new chapter, working draft)**](MUSIC_BOX_CHAPTER_2026-10-19.md) — five Platonic solids / 31 combination classes, origami vector lattices, spark light pilot and gummy ship, Godot-to-narrative control/physics, crystal-metal art, word/beat sync, and slow song Pages. Public Page, **not locked canon**.
 - [The Dancing Coins of the Dovahcrab](DANCING_COINS_OF_THE_DOVAHCRAB.md) — a plain-language public concept about coins, painted stones, and shared stories; proposed imagery is labeled.
 - [Sensei Glossary — Bowl / Page / Scroll / Book](SENSEI_GLOSSARY.md) — public Pages across GitHub, Facebook, TikTok and Instagram.
