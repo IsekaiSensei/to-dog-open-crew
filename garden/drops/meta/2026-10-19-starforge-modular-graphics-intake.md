@@ -14,7 +14,7 @@
 
 An external agent examined the public landing page and offered a proposed modular art and implementation specification. The creator clarified that the five Psyche 16 functions are **module types, not a mandatory checklist or universal verbs**. The proposal is intended to give a graphics team buildable instructions, not final graphics or a claim that a module assembler already operates.
 
-The five names and general functions can be cross-referenced against the existing owner-approved [Concept Page 001](../../CONCEPT_PAGE_001.md) (use [direct link](https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/CONCEPT_PAGE_001.md)). The additional graphics details below are **Meta's reported design proposals**, not owner-approved additions to Concept Page 001.
+The five names and general functions can be cross-referenced against the existing owner-approved [Concept Page 001](../../../CONCEPT_PAGE_001.md) (use [direct link](https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/CONCEPT_PAGE_001.md)). The additional graphics details below are **Meta's reported design proposals**, not owner-approved additions to Concept Page 001.
 
 ## Reported proposal — faithful summary of the received handoff
 
@@ -75,8 +75,8 @@ These are **reported labels only**. The exact geometry, orientations, socket tra
 ## Sources and attribution
 
 1. Meta-originated handoff summary supplied in the conversation dated **2026-10-19**. **Primary source for this intake's proposed specs**, but only a partial summary of the missing original artifact.
-2. [Public Concept Page 001](../../CONCEPT_PAGE_001.md) — independently available GitHub source for five module **types** and their broad functional meanings; **does not** establish the Meta asset table or tests.
-3. [Sensei Glossary](../../SENSEI_GLOSSARY.md) · [Garden rules](../README.md) — contribution/status vocabulary, review and privacy boundaries.
+2. [Public Concept Page 001](../../../CONCEPT_PAGE_001.md) — independently available GitHub source for five module **types** and their broad functional meanings; **does not** establish the Meta asset table or tests.
+3. [Sensei Glossary](../../../SENSEI_GLOSSARY.md) · [Garden rules](../../README.md) — contribution/status vocabulary, review and privacy boundaries.
 4. [Vanilla Sky proposal](https://github.com/IsekaiSensei/vanilla-sky-proposal) — relevant public conceptual context; **does not** verify the proposed metadata schema's implementation.
 
 No original Meta source file, full transcript, line-numbered citation table, original diagram, or hash is included here. Preserve each separately on receipt.
