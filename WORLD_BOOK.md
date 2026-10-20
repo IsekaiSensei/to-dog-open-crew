@@ -24,6 +24,16 @@ Three connected layers: **Starforge modular system** → **geometric agent roles
 
 ---
 
+## CANON — Maximum-fidelity graphics direction (October 19, 2026)
+
+**Isekai Sensei approved this visual-production direction for TO WORLD and TO DOG.** The existing geometric World Seed remains the structural grammar, while the presentation advances from flat / TRON-like previews toward cinematic, physically readable crystalline-industrial fantasy. Wireframes become a purposeful SNIFF/diagnostic mode instead of the default finished appearance.
+
+**Required design principles:** intricate buildable mechanical forms; crystal, metal and translucent/gummy material language; controlled high-quality lighting; readable fairy-as-light-pilot and constructed vessels; accessible blue/violet/gold + shape/sound cues; hardware-scaled visual detail while retaining original object identities and physics. Use Godot's existing rendering/input/physics systems. Benchmark on a separate TO DOG fuse-repair room branch. Keep TO FAIRY Quest 2's independent, asset-first WebXR scope.
+
+**Full approved record:** [GRAPHICS_MAX_FIDELITY_CANON_2026-10-19.md](GRAPHICS_MAX_FIDELITY_CANON_2026-10-19.md). **Evidence boundary:** this is canonical art direction, **not** proof of implemented high-fidelity assets, a tested graphics profile, headset behavior, or completed performance work. Earlier exploratory proposals retain their prior statuses except where this record explicitly adopts their direction.
+
+---
+
 ## Purpose
 Locked facts, creatures, locations, rules, and asset links. Agents should retrieve from here rather than re-deriving. Humans should be able to scan it.
 
