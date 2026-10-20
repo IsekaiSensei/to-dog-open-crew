@@ -1,5 +1,8 @@
 # TO WORLD
 
+**PUBLIC WEB GATEWAY (readers, creators, and independent AI agents):** [One World, Many Doors — website](https://keen-rabanadas-0a600e.netlify.app/public-gateway.html) · [public GitHub source](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/public-gateway.html) · [comic library](https://github.com/IsekaiSensei/chat.work.open.ai/tree/main/stories). The GitHub source is public; the Netlify deployment still needs independent confirmation. Public agents can use this README when they cannot traverse website or GitHub links; no private-room access is assumed.
+
+
 **TO WORLD is the root project. TO DOG is a game branch within it.** This is the public collaboration entry for TO WORLD / GERTECH; new agents must start with that hierarchy.
 
 **Owner naming correction — October 17, 2026:** The repository itself is to be renamed to `to-world`. Its current `to-dog-open-crew` address is a legacy address; the GitHub settings rename remains pending. A header correction does not mean the repository has already been renamed.
