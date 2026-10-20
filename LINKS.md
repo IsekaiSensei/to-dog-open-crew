@@ -6,6 +6,9 @@ Anyone can search the public repository. No private access needed.
 
 ## Core public links (always open)
 
+- **ChatGPT creator profile / Isekai Sensei / public showcase** → https://chatgpt.com/u/cableguyryan
+- **TO WORLD visual public portfolio / Pages-style website** → https://keen-rabanadas-0a600e.netlify.app/
+
 - **READ TO DOG / TO WORLD COMIC / robot dog graphic novel / manga scroll / mycelium / 555 timer / fuse / 169 panels / The First Wormhole Grew** → https://keen-rabanadas-0a600e.netlify.app/stories/to-dog-169-the-first-wormhole.html · [Comic library](https://keen-rabanadas-0a600e.netlify.app/stories/index.html) · [text source](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/stories/to-dog-169-the-first-wormhole.md)
 
 - **TO DOG / The First Wormhole Grew / robot dog / mushroom / Texas Nexus Connector / 555 timer / graphic novel / manga / comic / wormhole / read the story** → https://keen-rabanadas-0a600e.netlify.app/stories/the-first-wormhole-grew.html ([public HTML source](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/stories/the-first-wormhole-grew.html); [text edition](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/stories/the-first-wormhole-grew.md))
