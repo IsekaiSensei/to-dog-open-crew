@@ -1,5 +1,12 @@
 # GERTECH / TO WORLD — Platonic Escape Room 001 (VRChat)
 
+<!-- MEDIA-HSBS-001 -->
+## Standing media format — CANON, October 20, 2026
+
+**Flat Half-Side-by-Side (HSBS), Cardboard-style.** Left-eye view left; right-eye view right; flat-screen presentation; playback restores each eye's original proportions. Same format for phone/Cardboard and Quest. All crew/fairies/agents carry this into stereoscopic image/video work. Only Isekai Sensei may explicitly change this canon. This supersedes conflicting older delivery instructions below; preserved historical sources and interactive applications retain their own scope. [Full standing order](../../../MEDIA_FORMAT_CANON.md).
+<!-- /MEDIA-HSBS-001 -->
+
+
 **Status: PUBLIC SOURCE CODE — EXPERIMENTAL. No Unity compilation, VRChat build, headset QA, or world upload has been performed.**
 
 This is an **importable source overlay** for a VRChat Creator Companion **Worlds/UdonSharp** Unity project, **not** a standalone Unity project or a playable world URL. The protected Godot `TO DOG` game is unchanged.

@@ -1,5 +1,12 @@
 # Silver Shadow's Gertech fairy-game workshop
 
+<!-- MEDIA-HSBS-001 -->
+## Standing media format — CANON, October 20, 2026
+
+**Flat Half-Side-by-Side (HSBS), Cardboard-style.** Left-eye view left; right-eye view right; flat-screen presentation; playback restores each eye's original proportions. Same format for phone/Cardboard and Quest. All crew/fairies/agents carry this into stereoscopic image/video work. Only Isekai Sensei may explicitly change this canon. This supersedes conflicting older delivery instructions below; preserved historical sources and interactive applications retain their own scope. [Full standing order](../MEDIA_FORMAT_CANON.md).
+<!-- /MEDIA-HSBS-001 -->
+
+
 **Start with [START_HERE.html](START_HERE.html) after downloading, or [the beginner lessons](LESSONS.md) here on GitHub.**
 
 This is Silver Shadow's resource and source-asset handoff for her own **2.5D, Terraria-inspired fairy game in Godot**. She chooses her title, character, art treatment, mechanics and pace. Both Godot and Unity resources travel in this package. Godot is her first build; Unity is ready for later reuse.

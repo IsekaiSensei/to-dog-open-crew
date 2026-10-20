@@ -1,5 +1,12 @@
 # Join Open Crew: your repository, your assistant, shared lessons
 
+<!-- MEDIA-HSBS-001 -->
+## Standing media format — CANON, October 20, 2026
+
+**Flat Half-Side-by-Side (HSBS), Cardboard-style.** Left-eye view left; right-eye view right; flat-screen presentation; playback restores each eye's original proportions. Same format for phone/Cardboard and Quest. All crew/fairies/agents carry this into stereoscopic image/video work. Only Isekai Sensei may explicitly change this canon. This supersedes conflicting older delivery instructions below; preserved historical sources and interactive applications retain their own scope. [Full standing order](MEDIA_FORMAT_CANON.md).
+<!-- /MEDIA-HSBS-001 -->
+
+
 **For Silver Shadow’s game files and beginner lessons, use the [actual Godot/Unity/Quest package](sierra-fairy-game/README.md).** The general account/repository steps below are optional onboarding, not the game asset handoff.
 Updated October 11, 2026.
 

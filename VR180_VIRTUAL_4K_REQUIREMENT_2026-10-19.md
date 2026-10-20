@@ -1,5 +1,12 @@
 # OWNER REQUIREMENT — VIRTUAL 4K / VR180 HEADSET-VIEWABLE EXPERIENCE
 
+<!-- MEDIA-HSBS-001 -->
+## Standing media format — CANON, October 20, 2026
+
+**Flat Half-Side-by-Side (HSBS), Cardboard-style.** Left-eye view left; right-eye view right; flat-screen presentation; playback restores each eye's original proportions. Same format for phone/Cardboard and Quest. All crew/fairies/agents carry this into stereoscopic image/video work. Only Isekai Sensei may explicitly change this canon. This supersedes conflicting older delivery instructions below; preserved historical sources and interactive applications retain their own scope. [Full standing order](MEDIA_FORMAT_CANON.md).
+<!-- /MEDIA-HSBS-001 -->
+
+
 **Record:** VR180-4K-REQ-001 · **Date:** 2026-10-19 · **Status:** OWNER-REPORTED REQUIREMENT, NOT VERIFIED DELIVERY
 **Project parent:** TO WORLD / GERTECH · **Public owner:** Isekai Sensei
 **Source of requirement:** Direct owner instruction in conversation on 2026-10-19: "We have been asking for a virtual 4K over and over VR 180 viewable experience." Repeated clarification reported by owner. Exact prior request count is not independently audited.

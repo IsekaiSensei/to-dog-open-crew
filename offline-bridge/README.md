@@ -1,5 +1,12 @@
 # TO WORLD — offline agent handoff bridge (public Glass)
 
+<!-- MEDIA-HSBS-001 -->
+## Standing media format — CANON, October 20, 2026
+
+**Flat Half-Side-by-Side (HSBS), Cardboard-style.** Left-eye view left; right-eye view right; flat-screen presentation; playback restores each eye's original proportions. Same format for phone/Cardboard and Quest. All crew/fairies/agents carry this into stereoscopic image/video work. Only Isekai Sensei may explicitly change this canon. This supersedes conflicting older delivery instructions below; preserved historical sources and interactive applications retain their own scope. [Full standing order](../MEDIA_FORMAT_CANON.md).
+<!-- /MEDIA-HSBS-001 -->
+
+
 The entry is [START_HERE.txt](START_HERE.txt). Anyone with the **downloaded files** can compose a complete agent handoff while disconnected from GitHub/Drive/other bots. Cloud assistants still need their own internet service when actually running. This is neither private Worldbook Alpha nor live command infrastructure.
 
 ## Two complete methods

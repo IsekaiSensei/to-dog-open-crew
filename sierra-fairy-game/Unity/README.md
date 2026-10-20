@@ -1,5 +1,12 @@
 # Unity package on the same card
 
+<!-- MEDIA-HSBS-001 -->
+## Standing media format — CANON, October 20, 2026
+
+**Flat Half-Side-by-Side (HSBS), Cardboard-style.** Left-eye view left; right-eye view right; flat-screen presentation; playback restores each eye's original proportions. Same format for phone/Cardboard and Quest. All crew/fairies/agents carry this into stereoscopic image/video work. Only Isekai Sensei may explicitly change this canon. This supersedes conflicting older delivery instructions below; preserved historical sources and interactive applications retain their own scope. [Full standing order](../../MEDIA_FORMAT_CANON.md).
+<!-- /MEDIA-HSBS-001 -->
+
+
 Godot is Silver Shadow's first engine. This is a **native Unity project scaffold and reusable asset package**, with no claim of a completed Unity game or editor test.
 
 1. Install Unity Hub and a compatible Unity 6 editor on the host. The scaffold records **6000.0.71f1**, an existing Unity 6.0 release verified on the official release page; it is a reproducible reference, not a claim to be the latest version. Use a copy if upgrading it.

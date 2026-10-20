@@ -1,5 +1,12 @@
 # TO WORLD — Public access-test archive
 
+<!-- MEDIA-HSBS-001 -->
+## Standing media format — CANON, October 20, 2026
+
+**Flat Half-Side-by-Side (HSBS), Cardboard-style.** Left-eye view left; right-eye view right; flat-screen presentation; playback restores each eye's original proportions. Same format for phone/Cardboard and Quest. All crew/fairies/agents carry this into stereoscopic image/video work. Only Isekai Sensei may explicitly change this canon. This supersedes conflicting older delivery instructions below; preserved historical sources and interactive applications retain their own scope. [Full standing order](MEDIA_FORMAT_CANON.md).
+<!-- /MEDIA-HSBS-001 -->
+
+
 **Current project hierarchy — owner correction, October 17, 2026:** **TO WORLD is the root; TO DOG is a game branch within it.** See the [current project entry](README.md). The old project-wide TO DOG/Open Crew wording below belongs to the preserved historical test. Requested repository name: `to-world`; actual GitHub settings rename is pending.
 
 
