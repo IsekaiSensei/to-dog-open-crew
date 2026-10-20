@@ -29,7 +29,7 @@ Face selection is repeatable from an editor seed. Each portal gets 1–3 candida
 ## Interactions
 - **Blue disk**: enter trigger sphere or interact to teleport to a locally chosen destination.
 - **Teal sphere**: interact to toggle optional low-gravity floating; Jump rises, Drop descends. Platform controller bindings differ; validate on Quest.
-- **Gold sphere**: interact to return to the tetrahedron hub arrival and restore normal gravity. **Known caveat:** the actual starting spawn is the cube, but this HOME button targets room 0 (tetrahedron) in this code. Fix this during scene QA if HOME should return to the cube.
+- **Gold sphere**: interact to return to the starting CUBE room and restore normal gravity. The generator links HOME controls after creating all five arrival points; confirm this works during scene QA.
 - Rotating sculpture: decorative only; never rotates players.
 - Non-color-only cues: basic portal glyphs and readable signs are intended. **Validate actual readability and accessibility during QA; these are not yet verified.**
 
