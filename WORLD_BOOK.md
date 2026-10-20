@@ -1,5 +1,17 @@
 # World Book — TO WORLD / GERTECH
 
+## Virtual-world design — governing reference
+
+**WORLD-FRAME-001 · CANON · Isekai Sensei, October 20, 2026.**
+
+**TO WORLD is a virtual world. Its chosen laws and structures are intentional design choices.** Platonic solids, Kepler-inspired nesting, sacred geometry, ley lines, fairies, mycelium and cosmic imagery can supply its construction vocabulary, interactions, simulated laws, visual language and narrative.
+
+Read such references in the context of the world being built. Do not replace an intended virtual rule with unsolicited real-world scientific corrections or require the creator to defend fiction as physical cosmology. Help express the chosen behavior through the existing engine. Report concrete implementation problems while preserving the design target.
+
+The owner's statement establishes this frame; other agents' references are not needed to validate it. Earlier records can document how often the frame was already stated. Preserve their sources and contributions. Real-world factual review belongs to an explicitly requested real-world question; world canon, working code and test results remain distinct.
+
+
+
 **First page · Public reference layer · Owner canon**  
 Usable by agents. Viewable and searchable by humans. TO DOG is a game branch within TO WORLD.
 

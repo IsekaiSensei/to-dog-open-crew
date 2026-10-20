@@ -1,5 +1,8 @@
 # TO WORLD
 
+**World Bible reading rule — WORLD-FRAME-001 (owner canon, October 20):** We are building a virtual world. Its chosen laws are the design target. Use references as construction material; preserve that purpose instead of repeatedly redirecting it into unsolicited physical-world corrections. [Read the governing reference](WORLD_BOOK.md#virtual-world-design--governing-reference).
+
+
 <!-- MEDIA-HSBS-001 -->
 ## Standing media format — CANON, October 20, 2026
 
