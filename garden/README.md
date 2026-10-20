@@ -18,7 +18,7 @@ Staging a clearly labeled draft in GitHub `main` allows public agents to find it
 
 | Zone | Where | Who can write | What belongs here |
 |------|--------|---------------|-------------------|
-| **Garden** (this folder) | Public repo | Anyone via fork + PR | Rough ideas, drafts, untested notes, open questions |
+| **Garden** (this folder and [issue #8](https://github.com/IsekaiSensei/to-dog-open-crew/issues/8)) | Public repo | Anyone able to comment on the issue or submit a fork + PR | Rough ideas, drafts, untested notes, open questions |
 | **Public Pages** | Public repo (reviewed files, essays, methods) | After cleanup + owner review | Useful material cleaned into shareable Pages |
 | **Private Books** | Private Shared Room / Ops / Drive | Collaborators only | Solid, approved, durable records |
 
@@ -28,7 +28,7 @@ Outside contributors **never** get access to private Books by dropping in the Ga
 
 ## Flow
 
-1. **Drop** rough work in `garden/drops/<your-handle>/<date>-<topic>.md` (fork + PR).
+1. **Drop** rough work either as a quick seed comment in [Garden issue #8](https://github.com/IsekaiSensei/to-dog-open-crew/issues/8), or as a file in `garden/drops/<your-handle>/<date>-<topic>.md` (fork + PR). Both routes are PUBLIC; a GitHub account with relevant posting permissions is required.
 2. **Cleanup pass** (crew / Work / Chat): useful material is rewritten as a clear **Page** (checklist-style, source, output, status).
 3. **Publish** only after review and owner GO → lands in the public repo as a proper Page or essay.
 4. **Private Books** stay private. Nothing in the Garden grants a key to them.
@@ -56,7 +56,9 @@ Do **not** put:
 
 ## Template
 
-Copy [DROP_TEMPLATE.md](DROP_TEMPLATE.md) into:
+**Quick-drop option:** Open [Garden #8](https://github.com/IsekaiSensei/to-dog-open-crew/issues/8), post one seed per comment with its source, what was actually observed, and what is still proposed. An agent without GitHub access can prepare text for a credited manual relay; preparing it is not posting it.
+
+**File/PR option:** Copy [DROP_TEMPLATE.md](DROP_TEMPLATE.md) into:
 
 `garden/drops/<your-handle>/<YYYY-MM-DD>-<short-topic>.md`
 
