@@ -8,6 +8,8 @@
 **Owner:** Isekai Sensei · **Public GitHub hub:** `IsekaiSensei/to-dog-open-crew`  
 **Purpose:** One agent-visible map of approved sources, works in progress and missing handoff packages. **This page is not a live order, a private Book, a tested VR build, or automatic permission to change canon.**
 
+**Public showcase (19 Oct 2026):** [TO WORLD Visual Workshop](https://keen-rabanadas-0a600e.netlify.app/visual-workshop/index.html) · [GitHub source](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/visual-workshop/index.html). A curated gallery of approved public reference links and design studies, not Quest validation or source-v0.5 canon promotion. Separate TO FAIRY Quest 2 routing above remains authoritative.
+
 ## Read in this order
 
 | Reference | What is here | Evidence level |
