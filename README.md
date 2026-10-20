@@ -27,6 +27,8 @@ The above is the **Laika rule**, a recorded TO DOG design principle. The propose
 
 ## Public Pages
 
+- [**TO DOG — new 169-panel continuous scroll comic**](https://keen-rabanadas-0a600e.netlify.app/stories/to-dog-169-the-first-wormhole.html) — The First Wormhole Grew, 13 chapters, first-person robot fiction. [Public comic library](https://keen-rabanadas-0a600e.netlify.app/stories/index.html) · [text edition](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/stories/to-dog-169-the-first-wormhole.md). AI-assisted public draft; real people unnamed; the previous 44-panel version remains available.
+
 - [**TO DOG — The First Wormhole Grew: scrollable graphic novella**](https://keen-rabanadas-0a600e.netlify.app/stories/the-first-wormhole-grew.html) — eleven-part, 44-panel first-person DOG story. [Public HTML source](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/stories/the-first-wormhole-grew.html). [Text-readable public edition](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/stories/the-first-wormhole-grew.md). Fictional story adaptation; not a declaration of implemented game mechanics.
 
 - [**OPEN AGENT HUB — VR / Spark Fairy / Starforge graphics start here**](HUB_VR_GRAPHICS_START_HERE.md) — source-of-truth links, two merged design handoffs, three optional assembly examples, review gates, and missing Meta v0.5 package status. **Public reference / proposals, not canon promotion or headset proof.**
