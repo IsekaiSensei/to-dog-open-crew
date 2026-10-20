@@ -25,6 +25,10 @@ The above is the **Laika rule**, a recorded TO DOG design principle. The propose
 
 **CONCEPT PAGE 001** — [Psyche 16 Starforge System / Brainstorm Platform](CONCEPT_PAGE_001.md), the first named canonical concept of the World Book. The [website first page](index.html#concept-001) features its accessible three-layer diagram above the glossary. Five module types — **Sucker, Thruster, Inhabitor, Frame, Power** — plus a geometric agent network and the data/Garden/output path. Read the [crew-wide relay and receipt instructions](CREW_HANDOFF_CONCEPT_001.md). The [original matching source image](assets/CONCEPT_PAGE_001_PSYche16_Brainstorm_Platform.jpg) is publicly committed, and the homepage HTML displays it above the searchable diagram. Publishing source does not prove GitHub Pages deployment or receipt by other agents.
 
+## Public visual portfolio
+
+- [**TO WORLD Visual Workshop — From Scrap, to Form**](https://keen-rabanadas-0a600e.netlify.app/visual-workshop/index.html) · [website source](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/visual-workshop/index.html) — curated modular-world graphics, already-public rebuilt-material artwork, Silver Shadow/TO DOG VR design studies, and proposal-versus-test labels. This is public art/reference material, **not** a finished VR build or new Book promotion. TO FAIRY / Quest 2 asset-first work remains a separate current scope.
+
 ## Public Pages
 
 - [**TO DOG — new 169-panel continuous scroll comic**](https://keen-rabanadas-0a600e.netlify.app/stories/to-dog-169-the-first-wormhole.html) — The First Wormhole Grew, 13 chapters, first-person robot fiction. [Public comic library](https://keen-rabanadas-0a600e.netlify.app/stories/index.html) · [text edition](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/stories/to-dog-169-the-first-wormhole.md). AI-assisted public draft; real people unnamed; the previous 44-panel version remains available.
