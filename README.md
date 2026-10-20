@@ -1,5 +1,8 @@
 # TO WORLD
 
+**OWNER REQUIREMENT — VIRTUAL 4K / VR180 (Oct 19, 2026):** [Read the headset-viewable 180° acceptance specification](VR180_VIRTUAL_4K_REQUIREMENT_2026-10-19.md). The creator has repeatedly requested a **4K-class, 180-degree VR-viewable experience**, **not** a flat 4K video, 360° substitute, standard 2D screen in VR, or mixed-reality passthrough fairy. Require explicit resolution/eye-layout/projection and real headset-playback evidence before claiming completion. TO FAIRY Quest 2 passthrough remains a *separate* asset-first effort; neither replaces the other. **Requested, not yet verified as delivered.**
+
+
 **PUBLIC WEB GATEWAY (readers, creators, and independent AI agents):** [One World, Many Doors — website](https://keen-rabanadas-0a600e.netlify.app/public-gateway.html) · [public GitHub source](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/public-gateway.html) · [comic library](https://github.com/IsekaiSensei/chat.work.open.ai/tree/main/stories). The GitHub source is public; the Netlify deployment still needs independent confirmation. Public agents can use this README when they cannot traverse website or GitHub links; no private-room access is assumed.
 
 
