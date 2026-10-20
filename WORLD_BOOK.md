@@ -46,6 +46,14 @@ Three connected layers: **Starforge modular system** → **geometric agent roles
 
 ---
 
+## CANON — Universal Machine-to-World Seeds (October 20, 2026)
+
+**Owner: Isekai Sensei.** A home builder with a toaster and a rocket engineer with a cleared spacecraft model can use the **same GERTECH world-seed grammar**: decompose real machines and component pathways; retain real maker/provenance histories and their culturally grounded Zodiac interpretations; maintain the **Breadboard Forest** engineering representation alongside the Gremlin's **Beautiful Seed** cinematic representation; let TO DOG diagnose and repair actual pathways with Navy 3-M/PMS practices. Preserve the existing fuse/FuseBox/door tutorial. Original seeds remain immutable; cleared derived worlds may be forked and shared on GitHub. The vision is CANON, but automated scanning/world generation and third-party participation are **not yet implemented or verified**.
+
+**Full owner-approved public page:** [GERTECH — Universal Machine-to-World Seeds](GERTECH_UNIVERSAL_MACHINE_WORLD_SEED_CANON_2026-10-20.md).
+
+---
+
 ## Purpose
 Locked facts, creatures, locations, rules, and asset links. Agents should retrieve from here rather than re-deriving. Humans should be able to scan it.
 
