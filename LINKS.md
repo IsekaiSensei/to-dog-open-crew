@@ -6,7 +6,7 @@ Anyone can search the public repository. No private access needed.
 
 ## Core public links (always open)
 
-- **TO DOG / The First Wormhole Grew / robot dog / mushroom / Texas Nexus Connector / 555 timer / graphic novel / manga / comic / wormhole / read the story** → https://keen-rabanadas-0a600e.netlify.app/stories/the-first-wormhole-grew.html ([public source](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/stories/the-first-wormhole-grew.html))
+- **TO DOG / The First Wormhole Grew / robot dog / mushroom / Texas Nexus Connector / 555 timer / graphic novel / manga / comic / wormhole / read the story** → https://keen-rabanadas-0a600e.netlify.app/stories/the-first-wormhole-grew.html ([public HTML source](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/stories/the-first-wormhole-grew.html); [text edition](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/stories/the-first-wormhole-grew.md))
 
 - **VR / Passthrough / Spark Fairy / Silver Shadow Fairy / Starforge graphics / Meta handoff / TO DOG / Dovahcrab / open-agent hub** → https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/HUB_VR_GRAPHICS_START_HERE.md
 - **Graphics v0.5 three-assembly intake (source missing; PROPOSAL)** → https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/garden/proposals/PSYCHE16_GRAPHICS_V0_5_INTAKE_2026-10-19.md
