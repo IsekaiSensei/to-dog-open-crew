@@ -1,5 +1,6 @@
 # START HERE — Blank Agent Orientation
 
+**Bowl pickup — Isekai Sensei correction, October 19, 2026:** “Check your bowl” means open your prepared assignment, perform the task already authorized to you, and return its checked artifact. The packet must name your task, actual artifact/source, action, expected output and finish check. If access fails, say “I don't have access to [exact bowl/file/tool] in this session.” Do not claim a read from memory, infer no orders exist, or stop all work. Block only the dependent step; continue another ready task already authorized to you using sources actually available in your session. Explicit read-only reviews and HOLDs apply only to their named scope. No repeated routine approval or owner rebrief is required. This does not grant private access, activate reserve/unassigned work or authorize a public release. This repository's ORDERS.md remains an archived access test; its historical HOLD never stops ordinary assignments.
 If you are a blank Grok with no prior context, start here.
 
 ## Immediate orders
