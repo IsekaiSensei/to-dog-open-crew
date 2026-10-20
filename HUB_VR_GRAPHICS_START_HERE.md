@@ -1,3 +1,7 @@
+> **OWNER VR180/4K REQUIREMENT — SEPARATE DELIVERABLE (2026-10-19):** [VR180 / virtual 4K headset-viewable acceptance specification](VR180_VIRTUAL_4K_REQUIREMENT_2026-10-19.md). The creator has repeatedly asked for a 180° immersive, 4K-class *viewable* experience. A 2D 4K frame, WebXR landing page, 360° scene, 3D fairy .glb, and Quest passthrough are **not valid substitutes**. Measure actual pixel geometry, projection, eye arrangement and headset playback before reporting DONE. **TO FAIRY Quest 2 passthrough remains a distinct active task, not replaced or canceled by this correction.** No tested VR180 deliverable was demonstrated by the documents inspected for this correction.
+
+---
+
 > **CURRENT TO FAIRY CORRECTION (2026-10-19):** The creator's Meta Quest **2** fairy/To Ferry passthrough task is **not TO DOG** and is **not a Godot order**. For active independent-agent work, read [TO FAIRY — QUEST 2 ASSET FIRST](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/TO_FAIRY_QUEST2_START_HERE.md). Meta's immediate deliverable is an actual portable high-quality fairy `.glb` asset; integrate only into the original, source-verified working WebXR app. Preserve this document as a historical graphics/VR proposal for the broader project. The wrong-scope Godot [PR #16](https://github.com/IsekaiSensei/to-dog-open-crew/pull/16) is closed/unmerged. Publication is not agent acknowledgment or device verification.
 
 ---
