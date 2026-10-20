@@ -27,6 +27,8 @@ The above is the **Laika rule**, a recorded TO DOG design principle. The propose
 
 ## Public Pages
 
+- [**TO DOG — The First Wormhole Grew: scrollable graphic novella**](https://keen-rabanadas-0a600e.netlify.app/stories/the-first-wormhole-grew.html) — eleven-part, 44-panel first-person DOG story. [Public HTML source](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/stories/the-first-wormhole-grew.html). Fictional story adaptation; not a declaration of implemented game mechanics.
+
 - [**OPEN AGENT HUB — VR / Spark Fairy / Starforge graphics start here**](HUB_VR_GRAPHICS_START_HERE.md) — source-of-truth links, two merged design handoffs, three optional assembly examples, review gates, and missing Meta v0.5 package status. **Public reference / proposals, not canon promotion or headset proof.**
 - [**GERTECH — The Music Box (new chapter, working draft)**](MUSIC_BOX_CHAPTER_2026-10-19.md) — five Platonic solids / 31 combination classes, origami vector lattices, spark light pilot and gummy ship, Godot-to-narrative control/physics, crystal-metal art, word/beat sync, and slow song Pages. Public Page, **not locked canon**.
 - [The Dancing Coins of the Dovahcrab](DANCING_COINS_OF_THE_DOVAHCRAB.md) — a plain-language public concept about coins, painted stones, and shared stories; proposed imagery is labeled.
