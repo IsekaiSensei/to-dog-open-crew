@@ -47,12 +47,14 @@ public static class GertechPlatonicSceneGenerator
         pilot.ApplyProxyModifications();
 
         Transform[] arrivals = new Transform[5];
+        Transform[] rooms = new Transform[5];
         var portalSpecs = new List<DoorSpec>();
 
         for (int roomIndex=0;roomIndex<5;roomIndex++)
         {
             GameObject roomGO = new GameObject(roomIndex.ToString()+"_"+Names[roomIndex]);
             roomGO.transform.SetParent(world.transform);
+            rooms[roomIndex] = roomGO.transform;
             roomGO.transform.position = new Vector3(roomIndex * 36f, 0f, 0f);
             // Geometry tilts; player HMD orientation and VRChat gravity axis never roll.
             roomGO.transform.rotation = roomIndex == 1 ? Quaternion.identity :
@@ -140,15 +142,19 @@ public static class GertechPlatonicSceneGenerator
                 UnityEngine.Object.DestroyImmediate(pupil.GetComponent<Collider>());
             }
 
-            // Two control beacons are always reachable on the pad in every room.
-            CreateControl(roomGO.transform,"FLOAT / NORMAL",new Vector3(-1.3f,-1.0f,0f),
-                floatMat,pilot,arrivals[0],false);
-            // home arrival array element 0 exists after room 0 is constructed.
-            CreateControl(roomGO.transform,"HOME / RESET",new Vector3(1.3f,-1.0f,0f),
-                homeMat,pilot,arrivals[0],true);
+            // Controls are linked after all arrivals exist, so HOME points to the start cube.
             CreateText(roomGO.transform,Names[roomIndex],new Vector3(0f,0.5f,2.5f));
             CreateText(roomGO.transform,"FLOAT: Jump UP / Drop DOWN",new Vector3(0f,-0.1f,2.5f));
             CreateText(roomGO.transform,"GOLD = HOME    BLUE = PORTAL",new Vector3(0f,-0.6f,2.5f));
+        }
+
+        // All five arrival points now exist; HOME always returns to the starting CUBE.
+        for (int i=0;i<rooms.Length;i++)
+        {
+            CreateControl(rooms[i],"FLOAT / NORMAL",new Vector3(-1.3f,-1.0f,0f),
+                floatMat,pilot,arrivals[1],false);
+            CreateControl(rooms[i],"HOME / RESET",new Vector3(1.3f,-1.0f,0f),
+                homeMat,pilot,arrivals[1],true);
         }
 
         foreach (DoorSpec spec in portalSpecs)
