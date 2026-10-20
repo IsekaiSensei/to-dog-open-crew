@@ -1,3 +1,7 @@
+> **CURRENT TO FAIRY CORRECTION (2026-10-19):** The creator's Meta Quest **2** fairy/To Ferry passthrough task is **not TO DOG** and is **not a Godot order**. For active independent-agent work, read [TO FAIRY — QUEST 2 ASSET FIRST](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/TO_FAIRY_QUEST2_START_HERE.md). Meta's immediate deliverable is an actual portable high-quality fairy `.glb` asset; integrate only into the original, source-verified working WebXR app. Preserve this document as a historical graphics/VR proposal for the broader project. The wrong-scope Godot [PR #16](https://github.com/IsekaiSensei/to-dog-open-crew/pull/16) is closed/unmerged. Publication is not agent acknowledgment or device verification.
+
+---
+
 # TO WORLD / GERTECH — VR, graphics and open-agent hub
 
 **Status:** PUBLIC REFERENCE / ROUTING PAGE (2026-10-19)  
