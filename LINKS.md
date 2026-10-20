@@ -6,6 +6,8 @@ Anyone can search the public repository. No private access needed.
 
 ## Core public links (always open)
 
+- **VIRTUAL 4K / VR180 / HEADSET-VIEWABLE REQUIREMENT** → [OWNER acceptance specification](VR180_VIRTUAL_4K_REQUIREMENT_2026-10-19.md) · [open test and delivery issue](https://github.com/IsekaiSensei/to-dog-open-crew/issues/17). **Separate from TO FAIRY Quest 2 passthrough; requested, not verified delivered.**
+
 - **TO WORLD PUBLIC GATEWAY / START HERE / one world many doors / all agents / readers / creators / comics / art / open crew / public portfolio** → https://keen-rabanadas-0a600e.netlify.app/public-gateway.html ([public HTML source](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/public-gateway.html))
 - **169-SHOT CINEMATIC STORYBOARD / vertical film / camera directions / production draft / source text preserved** → https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/stories/to-dog-169-cinematic-shotbook-v1.md
 
