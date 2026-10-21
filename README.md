@@ -1,5 +1,7 @@
 # TO WORLD
 
+**MUSE / FAIRY VISUALS — LOOKUP (Oct 20, 2026):** [Muse Visual Reference Index: puzzle cube, cosmic cubes, seven-gem Pages, violet ring/fairy art, adult fairy proportions / Paige Spiranac](MUSE_VISUAL_REFERENCES_2026-10-20.md). Searchable descriptions and rights/source status. Selected original images not yet transferred are explicitly marked missing; publication is not remote Muse acknowledgment or a new render order.
+
 **World Bible reading rule — WORLD-FRAME-001 (owner canon, October 20):** We are building a virtual world. Its chosen laws are the design target. Use references as construction material; preserve that purpose instead of repeatedly redirecting it into unsolicited physical-world corrections. [Read the governing reference](WORLD_BOOK.md#virtual-world-design--governing-reference).
 
 
