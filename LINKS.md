@@ -1,5 +1,7 @@
 # Public Name-to-Link Index
 
+**MUSE / FAIRY / PAIGE / SPIRANAC / LAMENT CONFIGURATION / COSMIC CUBES / SEVEN GEMS / TEAR UP THE BOOK KEEP THE PAGES / RING TRANSFORMATION / ADULT FAIRY** → [October 20 visual reference index](MUSE_VISUAL_REFERENCES_2026-10-20.md). Source links, status, origin rights and gaps; not a claim every original image is uploaded.
+
 Search this file (or the repo) by name. If the name is listed, the link is right here.
 
 Anyone can search the public repository. No private access needed.
