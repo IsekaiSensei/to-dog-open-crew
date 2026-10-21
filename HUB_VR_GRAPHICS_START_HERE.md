@@ -16,6 +16,8 @@
 
 # TO WORLD / GERTECH — VR, graphics and open-agent hub
 
+**October 20 Muse visual lookup:** [mature fairy visual/modeling reference, geometry/configuration puzzles, luminous cubes, violet-ring origin art, seven-gem Pages](MUSE_VISUAL_REFERENCES_2026-10-20.md). Reference/rights/source-gap index; not a new order and not proof original images were transferred.
+
 **Status:** PUBLIC REFERENCE / ROUTING PAGE (2026-10-19)  
 **Owner:** Isekai Sensei · **Public GitHub hub:** `IsekaiSensei/to-dog-open-crew`  
 **Purpose:** One agent-visible map of approved sources, works in progress and missing handoff packages. **This page is not a live order, a private Book, a tested VR build, or automatic permission to change canon.**
