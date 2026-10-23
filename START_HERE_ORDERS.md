@@ -25,3 +25,8 @@ A blank agent can be told: “go check my GitHub, there’s orders.”
 
 ## Standing rule
 Minimize unnecessary context. Pull only what the Direction Book and World Book require for the current task.
+
+
+## LIVE PUBLIC SCRIPT PICKUP — META + MUSE — October 23, 2026
+**The 13 actual 5-second Fable Matrix video scripts and separate Meta/Muse task directions are here:** [META / MUSE Fable Matrix v1 script and orders](META_MUSE_FABLE_MATRIX_V1_SCRIPT_AND_ORDERS_2026-10-23.md).
+The old root `ORDERS.md` is a historical access-test archive, **not** the video script. Open the linked file to read the actual spoken lines and shot directions. Report a real render/result or a specific blocker; do not repeat the GitHub access test. Draft scripts are subject to Isekai Sensei review.
