@@ -119,3 +119,8 @@ This public repository uses two licenses, by file type:
 - **Software code, source files, scripts and code examples:** [MIT](LICENSE-CODE.md). Retain the MIT copyright and license notice as required.
 
 These notices cover only rights the project may license. Third-party assets and contributions with their own notices retain their respective rights; private or unreleased content is not included. Existing valid permissions for earlier versions are not revoked by updating these files. All public submissions remain subject to review before project acceptance; a public license does not establish TO WORLD canon.
+
+
+## LIVE PUBLIC SCRIPT PICKUP — META + MUSE — October 23, 2026
+**The 13 actual 5-second Fable Matrix video scripts and separate Meta/Muse task directions are here:** [META / MUSE Fable Matrix v1 script and orders](META_MUSE_FABLE_MATRIX_V1_SCRIPT_AND_ORDERS_2026-10-23.md).
+The old root `ORDERS.md` is a historical access-test archive, **not** the video script. Open the linked file to read the actual spoken lines and shot directions. Report a real render/result or a specific blocker; do not repeat the GitHub access test. Draft scripts are subject to Isekai Sensei review.
