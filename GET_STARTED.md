@@ -1,11 +1,6 @@
 # Join Open Crew: your repository, your assistant, shared lessons
 
-<!-- MEDIA-HSBS-001 -->
-## Standing media format — CANON, October 20, 2026
-
-**Flat Half-Side-by-Side (HSBS), Cardboard-style.** Left-eye view left; right-eye view right; flat-screen presentation; playback restores each eye's original proportions. Same format for phone/Cardboard and Quest. All crew/fairies/agents carry this into stereoscopic image/video work. Only Isekai Sensei may explicitly change this canon. This supersedes conflicting older delivery instructions below; preserved historical sources and interactive applications retain their own scope. [Full standing order](MEDIA_FORMAT_CANON.md).
-<!-- /MEDIA-HSBS-001 -->
-
+For an existing crew assignment, use [current orders](ORDERS.md). The instructions below are a project-setup tutorial.
 
 **For Silver Shadow’s game files and beginner lessons, use the [actual Godot/Unity/Quest package](sierra-fairy-game/README.md).** The general account/repository steps below are optional onboarding, not the game asset handoff.
 Updated October 11, 2026.
@@ -104,7 +99,7 @@ Still unknown: [limits or unanswered question]
 
 Share methods and appropriately cleared examples. Keep private chats, personal details, credentials, unpublished lore and unapproved assets in their proper project. Public access does not itself grant permission to reuse every asset. Human contributors keep meaningful source and credit information; routine notes need no multi-agent author/approver chain.
 
-The older TEST-OPEN-001 access exercise is historical and optional. Its read-only/HOLD directions apply to that test, not to ordinary onboarding or an explicitly requested contribution.
+
 
 ## Done means
 You own a repository with the four starter files; your assistant has demonstrated live access or is honestly using supplied files; you have completed one scoped packet; and, when ready, a small public contribution is submitted for review. A submitted PR is not a merged change.

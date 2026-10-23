@@ -1,28 +1,6 @@
-> **CORRECTION / HOLD — OCTOBER 23, 2026.** This is an unreviewed experimental Fable Matrix animal-quips draft, incorrectly promoted by Chat as a current Meta/Muse script. **NOT OWNER-APPROVED. NO RENDER, ASSIGNMENT, PRIORITY OR PUBLICATION GO.** The previously authorized GitHub setup PSA scripts must be recovered from their original sources, not reconstructed from this draft. The material below remains preserved solely as a provenance record; all production wording below is superseded by this correction.
+# Fable Matrix v1 — historical script draft
 
-# TO WORLD — Meta / Muse Fable Matrix v1: PUBLIC SCRIPT + TASK PACKET
-**Source author and final creative authority:** Ryan Aaron Luzader (Isekai Sensei)
-**Published:** October 23, 2026
-**Status:** DRAFT production script for review and the owner's existing authorized Meta/Muse video assignment; **not canonized** character lore, not a publication or automatic rendering receipt.
-**Assignment IDs:** FM-V1-001 through FM-V1-013
-**Open this file directly:** https://github.com/IsekaiSensei/to-dog-open-crew/blob/main/META_MUSE_FABLE_MATRIX_V1_SCRIPT_AND_ORDERS_2026-10-23.md
-
-## Important: this is the script, not an access test
-This file carries **the actual 13 spoken lines plus shot direction**. Do not send an agent back to `ORDERS.md` looking for them: that file is an archived public access test, not these live video lines. Read the script below, work on the already authorized task, and return the actual result or an exact blocker. A read/acknowledgment is not a produced video.
-
-**Meta** and **Muse** are two distinct AI tools/agents; do not invent intermediary names or merge their identities. They work from the same owner-provided script and report what each actually produces. Do not assume one has received another's work.
-
-## Production grammar
-- Matrix rows / fable masks: **Fox, Crow, Tortoise, Ant, Lion, Owl**.
-- Matrix columns / AI-interaction principles: **Context, Constraints, Verification, Iteration, Boundaries, Authority**.
-- One cell = one five-second micro-fable: one animal mask, one principle, one sentence, one visible point.
-- **0.0–0.5 s:** silent first visual beat (lead-in). **0.5–1.0 s:** silent second beat (prop/gesture). **1.0–5.0 s:** the single dialogue sentence. The first two halves together are **one second of setup**, not two seconds.
-- Speak the quoted dialogue exactly; keep it legible and performable. If delivery in four seconds proves too fast in a real generation, report the constraint rather than silently rewrite the owner's script.
-- Rendered **character personality** belongs to the onscreen performer (expressions, posture, timing), **not** to Meta's or Muse's chat personality. Meta and Muse remain production agents.
-- These 13 assignments are a **first batch from a sparse 6×6 grid**, not a claim that all 36 cells are written.
-- Preserve approved source art. Do not replace canon character designs with a performance reference. Diana Dors remains a **proposal** for adult character reference, not a required persona for these fables.
-- Do not claim a flat short is VR180, a 4K headset result, or stereoscopic merely because TO WORLD has separate VR delivery standards. Where **stereoscopic** work is actually ordered, follow standing Flat HSBS Cardboard-style eye layout and verify it.
-- No generation, approval, private-file access, social posting or deliverable is implied merely by reading this public file.
+Author: Ryan Aaron Luzader. These thirteen experimental lines remain unapproved reference material. [Current Meta/Muse work is assigned through ORDERS](ORDERS.md).
 
 ## 13 first-batch scripts — exact dialogue, with compact visual staging
 
@@ -103,17 +81,3 @@ This file carries **the actual 13 spoken lines plus shot direction**. Do not sen
 **0.5–1.0** Crow sets a replacement gear beside the working parts.
 **1.0–5.0 / dialogue:** “Keep what worked last time and change only the broken part.”
 **Performance:** Resourceful confidence. **Point:** Preserve successes when iterating.
-
-## Assignment / delivery order
-**Meta — performance/video lane:** Use each FM-V1 ID as a standalone 5-second video prompt. Put the personality into the onscreen **fictional character**, never into Meta's conversational identity. Preserve one visible action, one line, one finish point. Return the FM-V1 ID, the actual video/result locator if produced, and what could not be rendered. Do not claim a render from text alone.
-
-**Muse — complementary creative/prototype lane:** Use the same IDs and quoted lines for independently requested visuals or production experiments. Do not change the dialogue or claim Meta's output as Muse's. Return an actual source/result locator with the ID and limitations. Do not assume production authorization beyond the owner's already issued assignments.
-
-**Owner review:** Ryan Aaron Luzader decides which lines/visuals become canon or are accepted for publication. The complete 6×6 grid is future work; the **13 lines here are draft first batch**, not 36 finished cells.
-
-**No archive replacement:** Do not edit, delete or relabel old `ORDERS.md` or original sources. Keep this dated new Page separate so agents can open a real script URL.
-
-## Receipt format (short)
-`FM-V1-ID | AGENT | SCRIPT READ: live URL / manual paste / inaccessible | OUTPUT: actual link or none | RESULT: generated / proposed / blocked | limitation`
-
-**The success criterion is a readable script and real video artifacts — not another test of whether GitHub can be opened.**
