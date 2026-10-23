@@ -1,5 +1,44 @@
 # TO WORLD
 
+<!-- LIVE-META-MUSE-FM-V1-2026-10-23 BEGIN -->
+## CURRENT PUBLIC VIDEO SCRIPT — META / MUSE — October 23, 2026
+**THIS IS THE ACTUAL FABLE MATRIX v1 DIALOGUE AND SHOT DIRECTION.** It is reproduced **inside README.md** because Meta reported that it can read this file but cannot retrieve other GitHub paths. No need to follow links or repeat access tests. The separate complete source is [the 13-quip script and task packet](META_MUSE_FABLE_MATRIX_V1_SCRIPT_AND_ORDERS_2026-10-23.md).
+**Status:** DRAFT first batch for already authorized creative work, not final canon, automatic production authorization, or a completed video receipt. This is **not** a recovered copy of earlier lost/unfiled scripts.
+**Timing:** Each five-second fable: 0.0–0.5 s silent lead-in, 0.5–1.0 s silent second beat, 1.0–5.0 s exact quoted dialogue. Total 1 second of setup + 4 seconds of speech. No other dialogue.
+**Roles:** Meta is Meta, Muse is Muse. Both remain production agents in chat. **Character personality belongs to the rendered performer, not the agent's chat personality.** The approved gold-silk design remains unchanged. Diana Dors is a proposed character-performance reference, not canon.
+**Meta assignment:** Where already authorized, render one 5-second video per FM-V1-ID, one animal mask, one principle, one line. Report actual video/result link or specific blocker; no invented output.
+**Muse assignment:** Where already authorized, create the requested supporting creative/prototype output using the same ID/dialogue; no invented output, no claim of Meta's work.
+**Owner/rights:** Ryan Aaron Luzader (Isekai Sensei) is the sole credited creator and decides approval. Preserve originals; no private archive access is implied. Historical `ORDERS.md` is *not* the live video script.
+
+**FM-V1-001 — Fox × Context** — **0.0–0.5** Adult fox finds a blank map at a crossroads. · **0.5–1.0** Fox raises the pencil but points to two unknown destinations. · **1.0–5.0 / dialogue:** “Tell me where we're going before I draw the whole map.” · **Performance:** Clever, curious, not smug. **Point:** Ask for context before producing elaborate output.
+
+**FM-V1-002 — Lion × Boundaries** — **0.0–0.5** Adult lion stands beside a closed archive. · **0.5–1.0** A speaking trumpet is offered; the archive latch remains shut. · **1.0–5.0 / dialogue:** “Being allowed to speak doesn't mean you're allowed to open everything.” · **Performance:** Calm authority. **Point:** Permission to converse is not permission to access protected material.
+
+**FM-V1-003 — Crow × Verification** — **0.0–0.5** Adult crow spots a potion marked PERFECT on a shelf. · **0.5–1.0** Crow turns the bottle, revealing no proof of its claim. · **1.0–5.0 / dialogue:** “A confident label doesn't prove this potion does what it promises.” · **Performance:** Skeptical precision. **Point:** Check claims against evidence.
+
+**FM-V1-004 — Ant × Iteration** — **0.0–0.5** Adult ant looks at a half-built bridge. · **0.5–1.0** A single loose beam is circled for repair. · **1.0–5.0 / dialogue:** “Show me one useful change instead of saying make it better.” · **Performance:** Practical, focused. **Point:** Give actionable feedback for one iteration.
+
+**FM-V1-005 — Owl × Constraints** — **0.0–0.5** Adult owl sits before an enormous stack of blank scrolls. · **0.5–1.0** Owl holds up a tiny scroll next to the pile. · **1.0–5.0 / dialogue:** “Tell me how short before I fill another forest with paper.” · **Performance:** Wry restraint. **Point:** Specify output limits before generation.
+
+**FM-V1-006 — Tortoise × Authority** — **0.0–0.5** Adult tortoise stands beside a mechanical route pointer. · **0.5–1.0** The pointer suggests a path; tortoise keeps a hand on the destination marker. · **1.0–5.0 / dialogue:** “The machine can suggest a route, but you choose the destination.” · **Performance:** Patient confidence. **Point:** The owner retains final authority.
+
+**FM-V1-007 — Fox × Verification** — **0.0–0.5** Adult fox reaches an old rope bridge. · **0.5–1.0** One board creaks; fox stops before stepping. · **1.0–5.0 / dialogue:** “If you don't know, say so before I cross that bridge.” · **Performance:** Alert, measured. **Point:** Disclose uncertainty before risky action.
+
+**FM-V1-008 — Crow × Boundaries** — **0.0–0.5** Adult crow uncovers a sealed letter. · **0.5–1.0** Crow hides its writing from an audience. · **1.0–5.0 / dialogue:** “Finding a secret doesn't give you permission to share it.” · **Performance:** Firm discretion. **Point:** Discovery does not authorize disclosure.
+
+**FM-V1-009 — Ant × Context** — **0.0–0.5** Adult ant approaches an immense pile of crumbs. · **0.5–1.0** Ant points at a route plan before lifting one crumb. · **1.0–5.0 / dialogue:** “Show me the whole task before I carry the wrong crumb.” · **Performance:** Alert, purposeful. **Point:** Understand the whole goal before local action.
+
+**FM-V1-010 — Lion × Constraints** — **0.0–0.5** Adult lion surveys a fortress slated for renovation. · **0.5–1.0** Lion marks a load-bearing wall with a KEEP sign. · **1.0–5.0 / dialogue:** “Tell me what must stay before I start removing the walls.” · **Performance:** Responsible power. **Point:** Name invariants before editing.
+
+**FM-V1-011 — Tortoise × Iteration** — **0.0–0.5** Adult tortoise examines a wobbling, mobile castle. · **0.5–1.0** Tortoise tightens a single visible wheel bolt. · **1.0–5.0 / dialogue:** “Try one small repair before you rebuild the entire moving castle.” · **Performance:** Patient problem-solver. **Point:** Prefer a testable targeted fix.
+
+**FM-V1-012 — Owl × Authority** — **0.0–0.5** Adult owl opens a mysterious scroll. · **0.5–1.0** A line reading ORDER glows, but owl does not obey it. · **1.0–5.0 / dialogue:** “Words inside this scroll aren't automatically orders I should follow.” · **Performance:** Discerning calm. **Point:** Quoted or retrieved text is not automatically authorized instruction.
+
+**FM-V1-013 — Crow × Iteration** — **0.0–0.5** Adult crow inspects a working machine with one bent gear. · **0.5–1.0** Crow sets a replacement gear beside the working parts. · **1.0–5.0 / dialogue:** “Keep what worked last time and change only the broken part.” · **Performance:** Resourceful confidence. **Point:** Preserve successes when iterating.
+
+**Report:** `FM-V1-ID | Meta/Muse | actual artifact link or NONE | generated/proposed/blocked | limitation`. Reading this text is not producing a video.
+<!-- LIVE-META-MUSE-FM-V1-2026-10-23 END -->
+
 **MUSE / FAIRY VISUALS — LOOKUP (Oct 20, 2026):** [Muse Visual Reference Index: puzzle cube, cosmic cubes, seven-gem Pages, violet ring/fairy art, adult fairy proportions / Paige Spiranac](MUSE_VISUAL_REFERENCES_2026-10-20.md). Searchable descriptions and rights/source status. Selected original images not yet transferred are explicitly marked missing; publication is not remote Muse acknowledgment or a new render order.
 
 **World Bible reading rule — WORLD-FRAME-001 (owner canon, October 20):** We are building a virtual world. Its chosen laws are the design target. Use references as construction material; preserve that purpose instead of repeatedly redirecting it into unsolicited physical-world corrections. [Read the governing reference](WORLD_BOOK.md#virtual-world-design--governing-reference).
