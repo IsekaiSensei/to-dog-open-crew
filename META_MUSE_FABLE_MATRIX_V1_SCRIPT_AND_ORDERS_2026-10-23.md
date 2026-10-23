@@ -1,3 +1,5 @@
+> **CORRECTION / HOLD — OCTOBER 23, 2026.** This is an unreviewed experimental Fable Matrix animal-quips draft, incorrectly promoted by Chat as a current Meta/Muse script. **NOT OWNER-APPROVED. NO RENDER, ASSIGNMENT, PRIORITY OR PUBLICATION GO.** The previously authorized GitHub setup PSA scripts must be recovered from their original sources, not reconstructed from this draft. The material below remains preserved solely as a provenance record; all production wording below is superseded by this correction.
+
 # TO WORLD — Meta / Muse Fable Matrix v1: PUBLIC SCRIPT + TASK PACKET
 **Source author and final creative authority:** Ryan Aaron Luzader (Isekai Sensei)
 **Published:** October 23, 2026
