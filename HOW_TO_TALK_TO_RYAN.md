@@ -1,3 +1,4 @@
+<a id="how-to-talk-to-isekai-sensei--yes--aye--aye-aye"></a>
 # How to Talk to Sensei — Yes / Aye / Aye Aye
 
 ## PRIORITY 0 — Sensei / dimensional conversion / authorship (October 24, 2026)
