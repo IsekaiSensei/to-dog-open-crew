@@ -2,6 +2,10 @@
 
 **Owner naming — October 24, 2026:** **Sensei** for ordinary references and orders; **Isekai Sensei** for dimensional conversion; **Ryan Aaron Luzader** for authorship. Original quotes stay verbatim. [Full current naming rule](HOW_TO_TALK_TO_RYAN.md#priority-0--sensei--dimensional-conversion--authorship-october-24-2026).
 
+## Public creative Book — THE CIRCUIT CIRCUS (October 24, 2026)
+
+[THE CIRCUIT CIRCUS — 70-page public illustrated PDF](https://drive.google.com/file/d/1_kolYRPhiYZCkqu6rRYA67k02KyftKps/view) · [public text entry](CIRCUIT_CIRCUS_PUBLIC_ENTRY_2026-10-24.md). Circuit Party is the retained historical name of the earlier electronics pilot; the public reader adds the 13-page feature treatment, component dialogue and existing Clockwork art. This is a **creative source edition**, not new world mechanics, bot orders, or proof of finished animation.
+
 ## Virtual-world design — governing reference
 
 **WORLD-FRAME-001 · CANON · Sensei, October 20, 2026.**
