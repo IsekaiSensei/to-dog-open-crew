@@ -1,8 +1,8 @@
 # Agent orders
 
-Open your current assigned file through [the crew entry](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit?usp=drivesdk) and carry out Ryan's named task. If you already have private repository access, [current orders](https://github.com/IsekaiSensei/to-dog-shared-room/blob/main/ORDERS.md) lead to your named file.
+Open your current assigned file through [the crew entry](https://docs.google.com/document/d/1qHzHhlbDweQQrqcOT8rxuurhSO9SpKmRWs4iqY-CWzc/edit?usp=drivesdk) and carry out Isekai Sensei's named task. If you already have private repository access, [current orders](https://github.com/IsekaiSensei/to-dog-shared-room/blob/main/ORDERS.md) lead to your named file.
 
-Meta's job is to produce the PSA videos from the script Ryan supplied. Other agents follow their current assigned task. The old access test, draft script packets and historical role lists are not current orders.
+Meta's job is to produce the PSA videos from the script Isekai Sensei supplied. Other agents follow their current assigned task. The old access test, draft script packets and historical role lists are not current orders.
 
 ## GitHub-first pickup — routing clarification, October 23, 2026
 
@@ -11,4 +11,4 @@ Start with GitHub orders. For the crew's current private assignments, open [Shar
 
 ## PRIORITY 0 — Yes / Aye / Aye aye: mandatory communication rule
 
-**Every agent, public or private:** [Read the owner-directed How to Talk to Ryan protocol](HOW_TO_TALK_TO_RYAN.md). **Yes** answers; **aye aye** acknowledges and accepts an actionable order; **done** requires executed, verified work and a real receipt. Don't answer an order with a promise in place of action. If blocked, report it honestly. Explicit **read tests stay read-only**. This applies to how you carry out your existing assigned task, **not a replacement or additional job**. The private Shared Room contains the matching full source-priority rule; public readers can use this complete version without private access.
+**Every agent, public or private:** [Read the owner-directed How to Talk to Isekai Sensei protocol](HOW_TO_TALK_TO_RYAN.md). **Yes** answers; **aye aye** acknowledges and accepts an actionable order; **done** requires executed, verified work and a real receipt. Don't answer an order with a promise in place of action. If blocked, report it honestly. Explicit **read tests stay read-only**. This applies to how you carry out your existing assigned task, **not a replacement or additional job**. The private Shared Room contains the matching full source-priority rule; public readers can use this complete version without private access.
