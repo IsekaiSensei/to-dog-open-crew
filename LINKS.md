@@ -6,6 +6,8 @@ Search this file (or the repo) by name. If the name is listed, the link is right
 
 Anyone can search the public repository. No private access needed.
 
+**CIRCUIT CIRCUS / CIRCUIT PARTY / SOLDER PARTY historical / Sausage Party electronics satire / 555 timer / adult animated electronics / Clockwork Stained Glass / repair / public PDF** → https://drive.google.com/file/d/1_kolYRPhiYZCkqu6rRYA67k02KyftKps/view · [agent-readable project entry](CIRCUIT_CIRCUS_PUBLIC_ENTRY_2026-10-24.md) · [public gallery folder](https://drive.google.com/drive/folders/1xDn8nHxUnbTNnv0d82tuoNBr8twTAusS).
+
 ## Core public links (always open)
 
 - **VIRTUAL 4K / VR180 / HEADSET-VIEWABLE REQUIREMENT** → [OWNER acceptance specification](VR180_VIRTUAL_4K_REQUIREMENT_2026-10-19.md) · [open test and delivery issue](https://github.com/IsekaiSensei/to-dog-open-crew/issues/17). **Separate from TO FAIRY Quest 2 passthrough; requested, not verified delivered.**
