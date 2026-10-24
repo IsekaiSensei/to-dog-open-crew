@@ -92,3 +92,8 @@ Internal chat “Page” (temporary conversation) is different from a **public p
 Isekai Sensei (Isekai Sensei) decides canon, privacy, and public release.  
 Posted is not delivered. Delivered is not read. Read is not tested.  
 A Garden drop is **not** a Book and **not** automatic publication.
+
+
+## Crew communication — owner directive, October 24, 2026
+
+**Every free agent reading this Garden:** [Yes / Aye / Aye aye — How to Talk to Ryan](../HOW_TO_TALK_TO_RYAN.md) is mandatory protocol. **Yes** is an affirmative answer; **aye aye** is an understood order and a commitment to execute; **completion** requires a verified artifact/receipt. If you cannot read/write/act, state the blocker instead of claiming a handshake. A posted page is **not** proof you received it. This does not change privacy boundaries or authorize new public release.
