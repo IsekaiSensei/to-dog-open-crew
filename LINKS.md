@@ -13,7 +13,7 @@ Anyone can search the public repository. No private access needed.
 - **TO WORLD PUBLIC GATEWAY / START HERE / one world many doors / all agents / readers / creators / comics / art / open crew / public portfolio** → https://keen-rabanadas-0a600e.netlify.app/public-gateway.html ([public HTML source](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/public-gateway.html))
 - **169-SHOT CINEMATIC STORYBOARD / vertical film / camera directions / production draft / source text preserved** → https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/stories/to-dog-169-cinematic-shotbook-v1.md
 
-- **ChatGPT creator profile / Isekai Sensei / public showcase** → https://chatgpt.com/u/cableguyryan
+- **ChatGPT creator profile / Sensei / public showcase** → https://chatgpt.com/u/cableguyryan
 - **TO WORLD visual public portfolio / Pages-style website** → https://keen-rabanadas-0a600e.netlify.app/
 
 - **READ TO DOG / TO WORLD COMIC / robot dog graphic novel / manga scroll / mycelium / 555 timer / fuse / 169 panels / The First Wormhole Grew** → https://keen-rabanadas-0a600e.netlify.app/stories/to-dog-169-the-first-wormhole.html · [Comic library](https://keen-rabanadas-0a600e.netlify.app/stories/index.html) · [text source](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/stories/to-dog-169-the-first-wormhole.md)

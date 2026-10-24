@@ -1,8 +1,10 @@
 # World Book — TO WORLD / GERTECH
 
+**Owner naming — October 24, 2026:** **Sensei** for ordinary references and orders; **Isekai Sensei** for dimensional conversion; **Ryan Aaron Luzader** for authorship. Original quotes stay verbatim. [Full current naming rule](HOW_TO_TALK_TO_RYAN.md#priority-0--sensei--dimensional-conversion--authorship-october-24-2026).
+
 ## Virtual-world design — governing reference
 
-**WORLD-FRAME-001 · CANON · Isekai Sensei, October 20, 2026.**
+**WORLD-FRAME-001 · CANON · Sensei, October 20, 2026.**
 
 **TO WORLD is a virtual world. Its chosen laws and structures are intentional design choices.** Platonic solids, Kepler-inspired nesting, sacred geometry, ley lines, fairies, mycelium and cosmic imagery can supply its construction vocabulary, interactions, simulated laws, visual language and narrative.
 
@@ -17,7 +19,7 @@ Usable by agents. Viewable and searchable by humans. TO DOG is a game branch wit
 
 ## CONCEPT PAGE 001 — Psyche 16 Starforge System / Brainstorm Platform
 
-**CANON — Isekai Sensei, October 17, 2026.** The first named concept Page of this World Book must be featured prominently on the actual [web front page](index.html#concept-001).
+**CANON — Sensei, October 17, 2026.** The first named concept Page of this World Book must be featured prominently on the actual [web front page](index.html#concept-001).
 
 > **ONE SET. INFINITE FORMS.**
 
@@ -38,7 +40,7 @@ Three connected layers: **Starforge modular system** → **geometric agent roles
 
 ## CANON — Maximum-fidelity graphics direction (October 19, 2026)
 
-**Isekai Sensei approved this visual-production direction for TO WORLD and TO DOG.** The existing geometric World Seed remains the structural grammar, while the presentation advances from flat / TRON-like previews toward cinematic, physically readable crystalline-industrial fantasy. Wireframes become a purposeful SNIFF/diagnostic mode instead of the default finished appearance.
+**Sensei approved this visual-production direction for TO WORLD and TO DOG.** The existing geometric World Seed remains the structural grammar, while the presentation advances from flat / TRON-like previews toward cinematic, physically readable crystalline-industrial fantasy. Wireframes become a purposeful SNIFF/diagnostic mode instead of the default finished appearance.
 
 **Required design principles:** intricate buildable mechanical forms; crystal, metal and translucent/gummy material language; controlled high-quality lighting; readable fairy-as-light-pilot and constructed vessels; accessible blue/violet/gold + shape/sound cues; hardware-scaled visual detail while retaining original object identities and physics. Use Godot's existing rendering/input/physics systems. Benchmark on a separate TO DOG fuse-repair room branch. Keep TO FAIRY Quest 2's independent, asset-first WebXR scope.
 
@@ -48,7 +50,7 @@ Three connected layers: **Starforge modular system** → **geometric agent roles
 
 ## CANON — Universal Machine-to-World Seeds (October 20, 2026)
 
-**Owner: Isekai Sensei.** A home builder with a toaster and a rocket engineer with a cleared spacecraft model can use the **same GERTECH world-seed grammar**: decompose real machines and component pathways; retain real maker/provenance histories and their culturally grounded Zodiac interpretations; maintain the **Breadboard Forest** engineering representation alongside the Gremlin's **Beautiful Seed** cinematic representation; let TO DOG diagnose and repair actual pathways with Navy 3-M/PMS practices. Preserve the existing fuse/FuseBox/door tutorial. Original seeds remain immutable; cleared derived worlds may be forked and shared on GitHub. The vision is CANON, but automated scanning/world generation and third-party participation are **not yet implemented or verified**.
+**Owner: Sensei.** A home builder with a toaster and a rocket engineer with a cleared spacecraft model can use the **same GERTECH world-seed grammar**: decompose real machines and component pathways; retain real maker/provenance histories and their culturally grounded Zodiac interpretations; maintain the **Breadboard Forest** engineering representation alongside the Gremlin's **Beautiful Seed** cinematic representation; let TO DOG diagnose and repair actual pathways with Navy 3-M/PMS practices. Preserve the existing fuse/FuseBox/door tutorial. Original seeds remain immutable; cleared derived worlds may be forked and shared on GitHub. The vision is CANON, but automated scanning/world generation and third-party participation are **not yet implemented or verified**.
 
 **Full owner-approved public page:** [GERTECH — Universal Machine-to-World Seeds](GERTECH_UNIVERSAL_MACHINE_WORLD_SEED_CANON_2026-10-20.md).
 
@@ -58,7 +60,7 @@ Three connected layers: **Starforge modular system** → **geometric agent roles
 Locked facts, creatures, locations, rules, and asset links. Agents should retrieve from here rather than re-deriving. Humans should be able to scan it.
 
 ## Continuing entries
-New locked entries still require Isekai Sensei GO. Older blank skeleton preserved for subsequent pages.
+New locked entries still require Sensei GO. Older blank skeleton preserved for subsequent pages.
 
 ### Creatures
 - Name:
@@ -72,8 +74,8 @@ New locked entries still require Isekai Sensei GO. Older blank skeleton preserve
 - Rules:
 
 ### Rules
-- Public vs private boundary: Isekai Sensei public materials stay public. Isekai Sensei private materials stay private.
-- GO/HOLD: Explicit Isekai Sensei GO required before structural implementation.
+- Public vs private boundary: Sensei public materials stay public. Sensei private materials stay private.
+- GO/HOLD: Explicit Sensei GO required before structural implementation.
 
 ## Asset path
 Character sheet panel → isolatable asset → game piece → printable / TPU figure.
@@ -85,13 +87,13 @@ Concept Page 001 approved and indexed by owner. Additional entries pending.
 
 [Read the illustrated Page](FROM_SCRAP_A_WORLD.md) · [World front-page section](index.html#from-scrap-a-world)
 
-Isekai Sensei’s standalone premise: a higher entity finds the roadster floating in space, and a new world—ours—begins. “we could lose everything and this would build something better from it.” All eight supplied images are collected in the Page with provenance.
+Sensei’s standalone premise: a higher entity finds the roadster floating in space, and a new world—ours—begins. “we could lose everything and this would build something better from it.” All eight supplied images are collected in the Page with provenance.
 
 **Scroll correction:** Pages that work together for a product. The OG TO DOG working game ZIP is the example. See [Scrolls](SCROLLS.md). Boxes, chests, and Agent requests are included as direction, with details open. Order requirements have been posed to Grok for review; a posted request is not a received reply.
 
 ## A Book of proven seeds
 
-Isekai Sensei, October 17, 2026: “a good book page can be seed. a book of proven seed are what were looking to build. image an engine that takes a crappy game ad. and makes it for real.”
+Sensei, October 17, 2026: “a good book page can be seed. a book of proven seed are what were looking to build. image an engine that takes a crappy game ad. and makes it for real.”
 
 **A good Book Page can be a seed. The goal is a Book of proven seeds.** A seed captures enough of an idea to build from. A Scroll brings Pages together for a product. A working result and its evidence can establish that seed as proven for the tested scope.
 

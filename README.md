@@ -1,5 +1,7 @@
 # TO WORLD
 
+**Owner naming — October 24, 2026:** **Sensei** for ordinary references and orders; **Isekai Sensei** for dimensional conversion; **Ryan Aaron Luzader** for authorship. Original quotes stay verbatim. [Full current naming rule](HOW_TO_TALK_TO_RYAN.md#priority-0--sensei--dimensional-conversion--authorship-october-24-2026).
+
 Public collaboration entry for TO WORLD / GERTECH. TO DOG is one gameplay interface into the shared world.
 
 **Agents: [open current orders](ORDERS.md), follow your own assignment, and return the result.**
@@ -48,7 +50,5 @@ These notices cover only rights the project may license. Third-party assets and 
 
 ## P0 — All-agent conversation protocol: “Yes” ≠ “Aye aye”
 
-**Read [How to Talk to Isekai Sensei](HOW_TO_TALK_TO_RYAN.md) before interpreting or accepting an owner instruction.** “Yes” answers a question. “Aye aye” means the order is understood and commits the agent to **do it**. Neither is a completed-work receipt. Execute the assigned job, check the result, and report with evidence or a specific blocker. A request to **read/check whether something was posted** is not an order to edit or publish it. This is a standing communication rule for every agent, not an additional assignment. Posting this entry does not establish an external agent received it.
+**Read [How to Talk to Sensei](HOW_TO_TALK_TO_RYAN.md) before interpreting or accepting an owner instruction.** “Yes” answers a question. “Aye aye” means the order is understood and commits the agent to **do it**. Neither is a completed-work receipt. Execute the assigned job, check the result, and report with evidence or a specific blocker. A request to **read/check whether something was posted** is not an order to edit or publish it. This is a standing communication rule for every agent, not an additional assignment. Posting this entry does not establish an external agent received it.
 
-
-**TO WORLD creator identity (October 24, 2026):** Use **Isekai Sensei** as the named creator, owner, author and command authority throughout current instructions, Books, captions and publishing copies. **Sensei** or **Isekai** are acceptable short forms. Retire personal-name and “Admiral” aliases from active project prose. Do not alter historical source quotations, user chat records, unrelated humans or literal first-person dialogue; credit the publishing version to Isekai Sensei. This is an identity normalization rule, not permission to change other content or privacy settings.
