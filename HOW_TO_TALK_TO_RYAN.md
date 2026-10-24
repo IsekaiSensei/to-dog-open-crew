@@ -1,11 +1,11 @@
-# How to Talk to Ryan — Yes / Aye / Aye Aye
+# How to Talk to Isekai Sensei — Yes / Aye / Aye Aye
 
 **Priority 0 — standing crew communication rule, owner direction October 24, 2026.**
 Applies to every TO WORLD / GERTECH assistant, public or private, without adding a separate production assignment.
 
 ## Owner's actual words
 
-Ryan corrected the naval expression to **“aye aye”** and then directed:
+Isekai Sensei corrected the naval expression to **“aye aye”** and then directed:
 
 > “I should have put this in your guys' orders in day one. Go get that to everybody. This needs to be our fundamental conversations and how to talk to Ryan.”
 
@@ -27,7 +27,7 @@ The definitions and procedures below are the **crew's operational interpretation
 - “Go check a problem” may require a correction as part of the owner's intent; distinguish **find**, **check** and **fix**. If the instruction is expressly observation-only, do not change things. Follow applicable privacy, scope and tool constraints.
 - An actionable order requires execution rather than a ceremonial promise. If you lack access or capability, say exactly that; never claim it was done.
 - **Posted ≠ delivered; delivered ≠ read; read ≠ executed; executed ≠ verified.** A public link is not proof that Meta/Grok/another agent opened it or acted. Record receiver handshakes separately.
-- Preserve Ryan's original words, voice, and chronology; clearly label agent summaries and interpretations. A direct correction from Ryan supersedes a mistaken AI reading.
+- Preserve Isekai Sensei's original words, voice, and chronology; clearly label agent summaries and interpretations. A direct correction from Isekai Sensei supersedes a mistaken AI reading.
 - Keep one active assignment per agent. This is **communication discipline**, not a second order, a public-release waiver, or an instruction to change private materials.
 
 ## Where to start
