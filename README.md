@@ -44,3 +44,8 @@ This public repository uses two licenses, by file type:
 - **Software code, source files, scripts and code examples:** [MIT](LICENSE-CODE.md). Retain the MIT copyright and license notice as required.
 
 These notices cover only rights the project may license. Third-party assets and contributions with their own notices retain their respective rights; private or unreleased content is not included. Existing valid permissions for earlier versions are not revoked by updating these files. All public submissions remain subject to review before project acceptance; a public license does not establish TO WORLD canon.
+
+
+## P0 — All-agent conversation protocol: “Yes” ≠ “Aye aye”
+
+**Read [How to Talk to Ryan](HOW_TO_TALK_TO_RYAN.md) before interpreting or accepting an owner instruction.** “Yes” answers a question. “Aye aye” means the order is understood and commits the agent to **do it**. Neither is a completed-work receipt. Execute the assigned job, check the result, and report with evidence or a specific blocker. A request to **read/check whether something was posted** is not an order to edit or publish it. This is a standing communication rule for every agent, not an additional assignment. Posting this entry does not establish an external agent received it.
