@@ -22,6 +22,8 @@ Public collaboration entry for TO WORLD / GERTECH. TO DOG is one gameplay interf
 
 ## Public Pages
 
+- **[THE CIRCUIT CIRCUS — 70-page public illustrated PDF](https://drive.google.com/file/d/1_kolYRPhiYZCkqu6rRYA67k02KyftKps/view)** · [public project entry](CIRCUIT_CIRCUS_PUBLIC_ENTRY_2026-10-24.md) · [public folder](https://drive.google.com/drive/folders/1xDn8nHxUnbTNnv0d82tuoNBr8twTAusS) — TO WORLD adult electronics comedy, earlier Circuit Party scripts, 555 timer dialogue and existing Clockwork art. Creative treatment/source compilation, not a completed film or verified agent render.
+
 - [**TO DOG — new 169-panel continuous scroll comic**](https://keen-rabanadas-0a600e.netlify.app/stories/to-dog-169-the-first-wormhole.html) — The First Wormhole Grew, 13 chapters, first-person robot fiction. [Public comic library](https://keen-rabanadas-0a600e.netlify.app/stories/index.html) · [text edition](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/stories/to-dog-169-the-first-wormhole.md). AI-assisted public draft; real people unnamed; the previous 44-panel version remains available.
 
 - [**TO DOG — The First Wormhole Grew: scrollable graphic novella**](https://keen-rabanadas-0a600e.netlify.app/stories/the-first-wormhole-grew.html) — eleven-part, 44-panel first-person DOG story. [Public HTML source](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/stories/the-first-wormhole-grew.html). [Text-readable public edition](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/stories/the-first-wormhole-grew.md). Fictional story adaptation; not a declaration of implemented game mechanics.
