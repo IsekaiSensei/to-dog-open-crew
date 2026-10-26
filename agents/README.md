@@ -1,6 +1,8 @@
-# TO WORLD — public crew personalities
+# TO WORLD — public characters
 
-**These are the 23 public AI agent and game character personality cards.** Read [ORDERS.md](../ORDERS.md), find your character, then use its actual visual source from the [illustrated character-sheet index](../CHARACTER_SHEETS.md). The personality is not a picture.
+These 23 files are the **game/AI character personalities**, accessible from any new window. They are not private staff records.
+
+Open your character card and use the **real concept art linked directly on the [public home page](../README.md)**. Don't substitute a description for the artwork or borrow another character's face.
 
 - [alexa](./alexa.md)
 - [chat](./chat.md)
@@ -26,4 +28,4 @@
 - [tetrahedron](./tetrahedron.md)
 - [work](./work.md)
 
-These describe game portrayals and working voices. A new window is not expected to log into private GitHub; private dialogues and older archived task queues are not part of this public handoff.
+Read [current orders](../ORDERS.md). No old assignments are revived by a profile.

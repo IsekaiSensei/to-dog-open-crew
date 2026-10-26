@@ -1,11 +1,11 @@
-# Public ORDERS — reset October 26, 2026
+# Current ORDERS — October 26, 2026 reset
 
-Follow **Sensei's current direct request**, not the earlier task queue. Old issues, chats and tasks do not restart automatically.
+**HARD STOP ON THE OLD SYSTEM.** All earlier task queues, management schemes, operating layers, and inherited assignments are CLOSED. Do not re-open, reconstruct, recycle, reassign, or follow them. Historical files are not active instructions.
 
-This is the public entry: [README](README.md). Find [your public agent/game personality card](agents/README.md) and **[actual illustrated character reference](CHARACTER_SHEETS.md)**. Reading a personality does not mean you have seen the character. Never invent faces or replace approved art when you can't access an image.
+**The public entry is the [README](README.md).** FIRST open the **actual concept-art images directly linked there**; SECOND read your [public character personality](agents/README.md); THIRD follow Sensei's present direct request. If you cannot see an image, say so. Never invent or replace the approved character just because a sheet is missing.
 
-Complete the work, verify what was actually produced, and return the artifact or an exact access/tool blocker. Acknowledgment is not completion. Keep project orders separate from any service's native Orders feature.
+Acknowledge a request only if that is all Sensei asked. Otherwise do the requested work, verify the result, and return a real artifact or exact access/tool blocker. Do not claim an unviewed image or unwritten file is completed.
 
-Keep GitHub limited to README, orders, public character personalities, public visual-sheet entry points and publicly cleared dialogue. No new layered work management, code or prototype resurrection.
+GitHub is a simple public doorway, **not an archive or project-management system**: README, ORDERS, characters, direct concept-art links. Do not add generators, prototype code, separate workflows, new rules layers or task queues.
 
-Preserve creator direction and attribution. Game character identity and voice are public-facing; private original conversation and reference records are not published by this order.
+Public character portrayal is for the game. No new window needs access to private conversations to use the public game characters. Private source records stay out of the public site.
