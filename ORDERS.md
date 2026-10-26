@@ -2,7 +2,7 @@
 
 **HARD STOP ON THE OLD SYSTEM.** All earlier task queues, management schemes, operating layers, and inherited assignments are CLOSED. Do not re-open, reconstruct, recycle, reassign, or follow them. Historical files are not active instructions.
 
-**The public entry is the [README](README.md).** FIRST open the **actual concept-art images directly linked there**; SECOND read your [public character personality](agents/README.md); THIRD follow Sensei's present direct request. If you cannot see an image, say so. Never invent or replace the approved character just because a sheet is missing.
+**The public entry is the [README](README.md).** FIRST open the **JPEG character-art folders directly linked there**; **PDF files are not a valid new-agent visual handoff**; SECOND read your [public character personality](agents/README.md); THIRD follow Sensei's present direct request. If you cannot see an image, say so. Never invent or replace the approved character just because a sheet is missing.
 
 Acknowledge a request only if that is all Sensei asked. Otherwise do the requested work, verify the result, and return a real artifact or exact access/tool blocker. Do not claim an unviewed image or unwritten file is completed.
 
