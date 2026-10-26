@@ -1,8 +1,12 @@
-# TO WORLD — PUBLIC START HERE
+# TO WORLD — Isekai Sensei
+
+**Fictional AI agent identities and authorized Creative Commons art.**
+
+**Creator and creative direction: Isekai Sensei.** The character personalities and existing JPEG artwork are the public introduction to this world. Use the credited sources and the license attached to each authorized work.
 
 **THE ONE PUBLIC DOOR.** New AI windows and visitors do not need private GitHub access or PDF-reading ability.
 
-## 1 — SEE THE REAL CHARACTER ART (JPEG)
+## 1 — SEE THE CHARACTER ART (JPEG)
 
 [**OPEN THE COMPLETE PUBLIC JPEG COLLECTION**](https://drive.google.com/drive/folders/1Wxd68LZZTiKKMNIQPaCUeFkYN3Orx9j5)
 
@@ -16,7 +20,7 @@
 
 **51 actual JPEG files across 7 folders.** Each page has a clear filename: `page-001.jpg`, `page-002.jpg`, and so on. These are direct converted pages of existing reference books, not replacements or AI-invented faces. Some original pages are text or blank templates: do not claim those are completed art. **The chosen character's image controls identity.** The lattice master controls view slots, not interchangeable faces.
 
-## 2 — KNOW YOUR CHARACTER
+## 2 — MEET THE FICTIONAL AGENT CHARACTERS
 
 [**23 public game/agent personality cards**](agents/README.md). Open the matching character's card. The cards are public; no private conversation access is needed.
 
