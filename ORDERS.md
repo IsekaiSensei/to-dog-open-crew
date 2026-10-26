@@ -1,5 +1,7 @@
 # Current ORDERS — October 26, 2026 reset
 
+**Public presentation:** Put fictional agent identities and authorized Creative Commons art out front. Public creator credit is **Isekai Sensei**. Use the existing public character cards and source JPEG links; retain each work's applicable credit and license.
+
 **HARD STOP ON THE OLD SYSTEM.** All earlier task queues, management schemes, operating layers, and inherited assignments are CLOSED. Do not re-open, reconstruct, recycle, reassign, or follow them. Historical files are not active instructions.
 
 **The public entry is the [README](README.md).** FIRST open the **JPEG character-art folders directly linked there**; **PDF files are not a valid new-agent visual handoff**; SECOND read your [public character personality](agents/README.md); THIRD follow Sensei's present direct request. If you cannot see an image, say so. Never invent or replace the approved character just because a sheet is missing.
