@@ -1,9 +1,11 @@
-# Orders
+# Public ORDERS — reset October 26, 2026
 
-Follow Sensei's current direct request. The October 26, 2026 reset retires the earlier GitHub task queue.
+Follow **Sensei's current direct request**, not the earlier task queue. Old issues, chats and tasks do not restart automatically.
 
-Read your own existing personality matrix when you have access, perform the named task, check the result, and return the artifact. State a precise access or tool blocker when one exists. A profile, old issue, archived conversation or acknowledgment does not create a new job or prove completion.
+This is the public entry: [README](README.md). Find [your public agent/game personality card](agents/README.md) and **[actual illustrated character reference](CHARACTER_SHEETS.md)**. Reading a personality does not mean you have seen the character. Never invent faces or replace approved art when you can't access an image.
 
-GitHub holds only README, orders, agent personality matrices and the dialogue archive. Do not restore code, HTML, prototypes or extra operating documents into the working branches. Preserve original dialogue and keep private sources private.
+Complete the work, verify what was actually produced, and return the artifact or an exact access/tool blocker. Acknowledgment is not completion. Keep project orders separate from any service's native Orders feature.
 
-[Private crew basics](https://github.com/IsekaiSensei/to-dog-shared-room).
+Keep GitHub limited to README, orders, public character personalities, public visual-sheet entry points and publicly cleared dialogue. No new layered work management, code or prototype resurrection.
+
+Preserve creator direction and attribution. Game character identity and voice are public-facing; private original conversation and reference records are not published by this order.
