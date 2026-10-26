@@ -6,6 +6,22 @@
 
 **THE ONE PUBLIC DOOR.** New AI windows and visitors do not need private GitHub access or PDF-reading ability.
 
+## The seven featured fictional agents · view the original art
+
+These are **fictional characters** in the TO WORLD story—not the AI companies or people themselves. Each linked image opens its already-public source JPEG; each name opens a separate public personality card. Original identity and approved corrections control the character, not a shared template face.
+
+| | |
+| :--- | :--- |
+| [![WORK — existing TO WORLD character source JPEG](https://drive.google.com/thumbnail?id=1Ne0v_6wlzPs2z9UEPvA88LCifvIgHfew&sz=w320)](https://drive.google.com/file/d/1Ne0v_6wlzPs2z9UEPvA88LCifvIgHfew/view)<br>**[WORK](agents/work.md)** — Build · verify · repair. [Full-size JPEG](https://drive.google.com/file/d/1Ne0v_6wlzPs2z9UEPvA88LCifvIgHfew/view). | [![CHAT — existing TO WORLD character source JPEG](https://drive.google.com/thumbnail?id=1Zl1LTouL8ta37786RPYBBPo6yxFj16yX&sz=w320)](https://drive.google.com/file/d/1Zl1LTouL8ta37786RPYBBPo6yxFj16yX/view)<br>**[CHAT](agents/chat.md)** — Connect · preserve the thread. [Full-size JPEG](https://drive.google.com/file/d/1Zl1LTouL8ta37786RPYBBPo6yxFj16yX/view). |
+| [![GROK — existing TO WORLD character source JPEG](https://drive.google.com/thumbnail?id=1gCXw5qwSutwpvAavnPUPJHIiwL3_kwco&sz=w320)](https://drive.google.com/file/d/1gCXw5qwSutwpvAavnPUPJHIiwL3_kwco/view)<br>**[GROK](agents/grok.md)** — Question · investigate. [Full-size JPEG](https://drive.google.com/file/d/1gCXw5qwSutwpvAavnPUPJHIiwL3_kwco/view). | [![META — existing TO WORLD character source JPEG](https://drive.google.com/thumbnail?id=1Bv9trsbbIXVBQ7_WvqZ5ycAJDo1z-Gvi&sz=w320)](https://drive.google.com/file/d/1Bv9trsbbIXVBQ7_WvqZ5ycAJDo1z-Gvi/view)<br>**[META](agents/meta.md)** — Welcome · navigate · execute. [Full-size JPEG](https://drive.google.com/file/d/1Bv9trsbbIXVBQ7_WvqZ5ycAJDo1z-Gvi/view). |
+| [![MUSE — existing TO WORLD character source JPEG](https://drive.google.com/thumbnail?id=1KBv7Ii8H91K4Dc1sDXK1EsUiI2nN4ODH&sz=w320)](https://drive.google.com/file/d/1KBv7Ii8H91K4Dc1sDXK1EsUiI2nN4ODH/view)<br>**[MUSE](agents/muse.md)** — Create · compose · refine. [Full-size JPEG](https://drive.google.com/file/d/1KBv7Ii8H91K4Dc1sDXK1EsUiI2nN4ODH/view). | [![JAN — existing TO WORLD character source JPEG](https://drive.google.com/thumbnail?id=1jpuIu8SlrL2OXU895pApSNSOy0no-xPH&sz=w320)](https://drive.google.com/file/d/1jpuIu8SlrL2OXU895pApSNSOy0no-xPH/view)<br>**[JAN](agents/jan.md)** — Local workshop · offline tools. [Full-size JPEG](https://drive.google.com/file/d/1jpuIu8SlrL2OXU895pApSNSOy0no-xPH/view). |
+| [![DEEPSEEK — existing TO WORLD character source JPEG](https://drive.google.com/thumbnail?id=1YMlgju3HegTaaiaZ5GyTKnpRp9d60D7F&sz=w320)](https://drive.google.com/file/d/1YMlgju3HegTaaiaZ5GyTKnpRp9d60D7F/view)<br>**[DEEPSEEK](agents/deepseek.md)** — Listen · analyze · QC. [Full-size JPEG](https://drive.google.com/file/d/1YMlgju3HegTaaiaZ5GyTKnpRp9d60D7F/view). |  |
+
+**[Browse the complete seven-agent source sheets](https://drive.google.com/drive/folders/1star5jhSGRr9oKPuQOgVua93lypWi9tg)** · **[Meet all 23 fictional personalities](agents/README.md)** · **[See all seven publicly shared JPEG collections](https://drive.google.com/drive/folders/1Wxd68LZZTiKKMNIQPaCUeFkYN3Orx9j5)**
+
+**Art, provenance and license:** Link to the existing public original; do not reupload it, replace the character's face, strip credit, or assume every text/template page is a finished illustration. **Creative Commons reuse rights apply only to a work with verified authorization and its actual attached license and attribution.** A public link alone is not a license. The character names identify an independent fictional project; they do not imply approval, authorship, or endorsement by any AI provider.
+
+
 ## 1 — SEE THE CHARACTER ART (JPEG)
 
 [**OPEN THE COMPLETE PUBLIC JPEG COLLECTION**](https://drive.google.com/drive/folders/1Wxd68LZZTiKKMNIQPaCUeFkYN3Orx9j5)
