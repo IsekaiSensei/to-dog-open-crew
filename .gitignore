@@ -1,5 +1,0 @@
-offline-bridge/inputs/
-offline-bridge/APPROVED_INPUTS.tsv
-offline-bridge/TO_WORLD_AGENT_HANDOFF_*.zip
-offline-bridge/*.tmp
-__pycache__/
