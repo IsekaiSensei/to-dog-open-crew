@@ -1,4 +1,8 @@
-# TO WORLD — public characters
+# TO WORLD — fictional agent identities
+
+**Creator and creative direction: Isekai Sensei.**
+
+Meet the fictional AI agent characters through their individual personalities and the authorized artwork linked on the [public home page](../README.md).
 
 These 23 files are the **game/AI character personalities**, accessible from any new window. They are not private staff records.
 
