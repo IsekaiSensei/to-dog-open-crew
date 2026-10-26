@@ -1,27 +1,27 @@
-# TO WORLD — START HERE
+# TO WORLD — PUBLIC START HERE
 
-**Public doorway for every new window. No private login. No archives or task queues to navigate.**
+**THE ONE PUBLIC DOOR.** New AI windows and visitors do not need private GitHub access or PDF-reading ability.
 
-## 1. SEE THE CONCEPT ART FIRST
+## 1 — SEE THE REAL CHARACTER ART (JPEG)
 
-**OPEN THESE ACTUAL ILLUSTRATED FILES.** They are existing Google Drive PDFs with verified **anyone-with-the-link reader** access. These links go **directly to the artwork**, not another instruction or index page.
+[**OPEN THE COMPLETE PUBLIC JPEG COLLECTION**](https://drive.google.com/drive/folders/1Wxd68LZZTiKKMNIQPaCUeFkYN3Orx9j5)
 
-- [SEVEN AGENT IDENTITY LOCK — illustrated source-filled character sheets](https://drive.google.com/file/d/1AUvSYcLrVRXAGARm8VR-z09J3Jl_GML9/view)
-- [TO FAIRY — owner-approved character lattice, October 25](https://drive.google.com/file/d/1EyeIQtg15BvPLlGAhaf1CAt9scC_wcuq/view)
-- [META — Gold V01 Character Lattice Master](https://drive.google.com/file/d/13V9EONtUf7efDcDa17tGyu15ttpoY357/view)
-- [DODECAHEDRON — Amethyst Rabbit illustrated book](https://drive.google.com/file/d/1p3O2pk0bmA2aHvqlY14kHyKi1kFCPuGq/view)
-- [PERCENTILE — Topaz Lion illustrated book](https://drive.google.com/file/d/1E8O7TSDDUD1LLgLLrHdluAmTDEve6z_L/view)
-- [ICOSAHEDRON — Emerald Raccoon illustrated book](https://drive.google.com/file/d/1gxfVq2y2PsArEp9pEyuXZvJSQyF7BX50/view)
-- [TO DOG — three visual levels and TO FAIRY](https://drive.google.com/file/d/1neXxMlRrxvuoVG4oubJEMRJvM-ZEQkIT/view)
+- **[01 — Seven Agent Identity Lock — 18 JPEG pages](https://drive.google.com/drive/folders/1star5jhSGRr9oKPuQOgVua93lypWi9tg)** · [Open first JPEG](https://drive.google.com/file/d/1I7bQhysuqL8HZrvqih4irCkUbC0jVVv6/view). Includes presentation and source-record pages; not all pages are finished artwork.
+- **[02 — TO FAIRY character lattice — 2 JPEG pages](https://drive.google.com/drive/folders/1uC9RkFkiafyjMqE83qcCAj5dgG60OC1I)** · [Open first JPEG](https://drive.google.com/file/d/1RmxDf-O_fh30FIos12TS09MvY1aWmmK3/view). Owner-approved source sheet and its accompanying notes.
+- **[03 — META character lattice — 2 JPEG pages](https://drive.google.com/drive/folders/1Aq5flUCqbeni0vmmjU1_22yEz4ohSP3z)** · [Open first JPEG](https://drive.google.com/file/d/1_BLcredzHwnBMT2GWxJWdHxbufhQbS5B/view). Illustrated lattice plus source notes.
+- **[04 — Dodecahedron / Amethyst Rabbit — 11 JPEG pages](https://drive.google.com/drive/folders/1FTOEH3cs3Q3LTeDsH-LOFxBIoxdDNAh8)** · [Open first JPEG](https://drive.google.com/file/d/17zvl0rJ0ARthcdw7Z7v_InZzB6Xyc3km/view). Mixed illustration, templates and source pages.
+- **[05 — Percentile / Topaz Lion — 7 JPEG pages](https://drive.google.com/drive/folders/1vorvyyI4BYex5jrH_XLW6kRj4gcwuDRT)** · [Open first JPEG](https://drive.google.com/file/d/1SIC9fjkUEgPBu_bKwDG0VozIsN1HL9m-/view). Illustrated character studies with source pages.
+- **[06 — Icosahedron / Emerald Raccoon — 9 JPEG pages](https://drive.google.com/drive/folders/1JVs69GbDDr2dDtvLdTEpgZleyvO6VvUh)** · [Open first JPEG](https://drive.google.com/file/d/13lbQZBhGgMZuHIgjCoiX4ZIYKBAErNU2/view). Mixed character images, layout templates and source pages.
+- **[07 — TO DOG three forms — 2 JPEG pages](https://drive.google.com/drive/folders/1uojGjxSwGPeWtBTeQyeylXHn8UNz8W0R)** · [Open first JPEG](https://drive.google.com/file/d/1TUvyMj3g-82BBWHXQaHPnGgbkHfX1-Hy/view). Box robot → crystal dog → hyper-real cyborg visual progression.
 
-These are *existing source references*, not new renders. Do not replace a character with a generic face. Use the character lattice for view/layout slots, **not** as an interchangeable base identity. If an approved image isn't available, report what you cannot see rather than guessing.
+**51 actual JPEG files across 7 folders.** Each page has a clear filename: `page-001.jpg`, `page-002.jpg`, and so on. These are direct converted pages of existing reference books, not replacements or AI-invented faces. Some original pages are text or blank templates: do not claim those are completed art. **The chosen character's image controls identity.** The lattice master controls view slots, not interchangeable faces.
 
-## 2. KNOW THE CHARACTER
+## 2 — KNOW YOUR CHARACTER
 
-[**23 public AI/game character personality cards**](agents/README.md). Each new agent can read its own card without accessing any private repository.
+[**23 public game/agent personality cards**](agents/README.md). Open the matching character's card. The cards are public; no private conversation access is needed.
 
-## 3. FOLLOW CURRENT ORDERS
+## 3 — FOLLOW ORDERS
 
-[**ORDERS.md — October 26 reset**](ORDERS.md). All earlier task queues, management layers and inherited assignments are CLOSED. Follow Sensei's current direct request. Acknowledgment is not completion.
+[**Current ORDERS.md**](ORDERS.md). The previous task queue and management system are CLOSED. Follow Sensei's current direct request; deliver a checked artifact, not an acknowledgment.
 
-**TO DOG → TO WORLD → TO UNIVERSE.** GitHub is the public doorway to the game and concept art—not an archive or management system.
+**TO DOG → TO WORLD → TO UNIVERSE.** This repository is the public entrance to concept art, character personalities, and current orders. **No archive detours, no PDF requirements, no new management layers.**
