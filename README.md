@@ -6,6 +6,8 @@
 
 [![GERTECH visual reference](https://drive.google.com/thumbnail?id=1A2qLStXoyKZPQL9ZLjV_vH_qh1tfBNxw&sz=w320)](https://drive.google.com/file/d/1A2qLStXoyKZPQL9ZLjV_vH_qh1tfBNxw/view)
 
+**Wing system:** [GERTECH WING LAW 001 — wings are independent equipment, not fairy characters](GERTECH_WING_LAW_001.md). Five starter wing references; 125 runtime loadout indices using three selectors. Wing-only plates contain no fairy renders.
+
 HTML generated October 26, 2026:
 
 - [FRACTAL MODULAR DICE](FRACTAL_MODULAR_DICE.html) — modular seed construction sandbox.
