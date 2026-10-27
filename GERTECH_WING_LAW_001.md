@@ -47,3 +47,18 @@ This separation law is a current design directive; exploratory images do not ind
 **For all future wing designs: show wings alone. Fairies are separately rendered characters that pick up or equip the finished wing item.**
 
 **TO WORLD: COLOR IS WHAT. SHAPE IS WHAT IT DOES.**
+
+## 7. Solar sail concept layout
+
+Apply [Sensei's brevity and page-layout rules](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/WORK.md#brevity-and-page-layout). Technical explanations above stay off the image.
+
+**Visible title: SOLAR SAIL WINGS**
+
+| Left column | Center column | Right column |
+| --- | --- | --- |
+| **Identity**: Modular equipment | **Wing Views**: Deployed; Folded | **Specifications**: Gold lattice; Solar panels; Crystal panels |
+| **Details**: Common mount; Articulated hinge; Energy conduit | **Operating Modes**: Atmospheric Lift; Stellar Collection; Stellar Sail; Ion Propulsion; Warp Transition | **Example**: Reconfigured assembly |
+
+Drawings dominate; use the table's short labels only. Leave generous empty space. Show wing equipment alone. Positional column names are layout instructions.
+
+**Render style:** Flat 2D graphic design, clean UI layout, white background, bold typography, minimal text, blueprint schematic style.
