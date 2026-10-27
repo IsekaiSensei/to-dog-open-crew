@@ -1,6 +1,12 @@
 # Current ORDERS — October 26, 2026 reset
 
-**FIRST ORDER — FRAME THE DIALOGUE USING THE EXISTING SHORT-STORY SPREADSHEET.** For story/render work, use `TO_WORLD_PARABLE_RENDER_FRAME.xlsx`: **The Tale | The Fable | The Journey to Convey | The Time to Frame**, with the dialogue inside that short story. The job is to preserve this frame and supply complete, coherent spoken dialogue in sequence. A printed verse break is not a speaking cutoff. Keep the owner's original story, dialogue, characters and approved sequence; do not invent a continuation or treat rejected assistant text as canon.
+**FIRST ORDER — THE OWNER'S SHORT-STORY FRAME, FOR EACH INDIVIDUAL CLIP.**
+
+**The Tale | The Fable | The Journey to Convey | The Time to Frame | Original Words / Voice**
+
+Fill these existing spreadsheet fields for every clip, with complete, coherent dialogue inside the story and the full opening and reverse exit. A batch-wide summary of these fields does not frame the individual clips. Deliver the framed story and dialogue, without agent/setup directions inside it. Use the actual approved continuation; a title, a pasted failure example or rejected assistant text is not approval to invent, restart or substitute a script.
+
+**Five at a time.** After the fifth clip, stop and compare/reset both character identities against the original locked sheets before the next five. The last scene frame carries the action forward; the original sheets control faces, ages and outfits. This check belongs outside the rendered story.
 
 **An initialized rendering window already has its concepts.** Do not send it searching for sheets, UUIDs, folders, filenames or replacement references. Do not reintroduce concepts, change character setup, reset the scene, or rerender successful footage. New-agent onboarding below does not apply to a window that already has its references.
 
