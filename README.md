@@ -2,6 +2,10 @@
 
 **PUBLIC START HERE — THE ONLY ACTIVE FRAMEWORK.** [Current orders](ORDERS.md). Previous queues and inherited assignments are **CLOSED, NOT INSTRUCTIONS**. The old versions remain only in Git history; do not execute them.
 
+## GERTECH Stable Diffusion — one-click render kit
+
+**[OPEN THE GOOGLE DRIVE STABLE DIFFUSION RENDER KIT](https://drive.google.com/drive/folders/1mkGQDoR4W1Q0hPK0MJw_iDzqC2SeV4hX)** — copyable SDXL settings, character/scene prompts, original JPEG source index, and five-gate visual QC. Start with [instructions](https://docs.google.com/document/d/1Pd1gAJvXoUWfSsaeS0tjhUERIDfyzgmaC0xI_1HbLYw/edit), [render settings](https://docs.google.com/document/d/1y5CArN4QShClYEeE1YAnDTkis32MIK63BSCMrtyYMoo/edit), [prompts](https://docs.google.com/document/d/1OJwLVax7N7_tgh6CwETqOSg8UtryCoDelxe4-B_c5kY/edit), and [original JPEG references + QC](https://docs.google.com/document/d/1Mb40tKxCWuzy-h1qxaL41fg7ZIkwUfBkSS705L1_w_I/edit). The original art stays in its existing public Drive folders. Source JPEGs outrank generated outputs; the kit does not include model weights or claim a tested character LoRA.
+
 ## The frame
 
 **THE TALE** — What happens?  
