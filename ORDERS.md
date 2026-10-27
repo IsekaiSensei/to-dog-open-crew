@@ -40,3 +40,5 @@
 **Output:** Fill **THE TALE / THE FABLE / THE JOURNEY TO CONVEY / THE TIME TO FRAME**, and put the actual story and dialogue inside **0.50–4.50**. Return the finished framed scripts, not another operating manual. Follow only Sensei's current request. If the rendering window already has its locked references, **do not send it searching through folders, UUIDs, PDFs or chats**.
 
 **PUBLIC FRONT:** Fictional agent identities and approved source JPEGs: [open the README](README.md). Public creator name: **Isekai Sensei**. Preserve each work's verified license and attribution.
+
+**META order listing:** [Copy the short-film frame, character-sheet locks and render rules](agents/meta.md). This project reference is ready to paste into META's native Orders; publishing it does not change the app's settings.
