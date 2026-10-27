@@ -1,5 +1,7 @@
 # TO WORLD — Isekai Sensei
 
+**[META ORDERS — short-film frame + character locks](META_ORDERS.md)**
+
 
 ## FIRST — OWNER-APPROVED GERTECH VISUAL CANON (2026-10-26)
 
