@@ -1,6 +1,17 @@
 # TO WORLD — CURRENT ORDERS
 **Public creator: Isekai Sensei**
 
+## PRIORITY 0 — THE APPROVED ART IS CANON
+
+**Sensei's current approval:** “canon this nothing else matters.”
+
+**[OPEN THE GERTECH VISUAL CANON — eight original JPEGs first](https://drive.google.com/drive/folders/1A7hMU1xEtlUCza-9xVZ_ep5fbflpUbRJ)**. **[README direct thumbnails and per-character links](README.md#first--owner-approved-gertech-visual-canon-2026-10-26)**.
+
+**Priority:** 00 GERTECH lattice/material style; 01 Blue Fire; 02 Yellow Star; 03 White Light; 04 Red Ember; 05 Emerald Verdant; 06 Violet Nebula; 07 Silver Comet. Keep each face, anatomy, wings, costume, identity and approved material system tied to its actual image. **SOURCE OUTRANKS RENDER.** Earlier draft labels or later AI renderings cannot replace these visual masters. This is the **Stellar Cuddler cast**, not an automatic reassignment of the seven separate AI-agent character cards.
+
+**Do not call these trained LoRAs.** These are owner-canon reference sheets and style art. Actual LoRA training, checkpoint weights and QC need separate evidence. No new render or rewrite is authorized by this canon declaration.
+
+
 **THIS IS THE ONLY ACTIVE FRAMEWORK.** Prior assignments, queues, management instructions and historical task files are **RETIRED — DO NOT FOLLOW**. [Public art and character cards](README.md).
 
 ## THE FRAME
