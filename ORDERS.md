@@ -41,4 +41,4 @@
 
 **PUBLIC FRONT:** Fictional agent identities and approved source JPEGs: [open the README](README.md). Public creator name: **Isekai Sensei**. Preserve each work's verified license and attribution.
 
-**META order listing:** [Copy the short-film frame, character-sheet locks and render rules](agents/meta.md). This project reference is ready to paste into META's native Orders; publishing it does not change the app's settings.
+**META order listing:** [Copy the short-film frame, character-sheet locks and render rules](META_ORDERS.md). This project reference is ready to paste into META's native Orders; publishing it does not change the app's settings.
