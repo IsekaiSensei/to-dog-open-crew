@@ -1,5 +1,44 @@
 # TO WORLD — Isekai Sensei
 
+
+## FIRST — OWNER-APPROVED GERTECH VISUAL CANON (2026-10-26)
+
+**THESE EIGHT ACTUAL JPEG IMAGES ARE THE SOURCE OF TRUTH FOR THIS GERTECH / STELLAR CUDDLER VISUAL SET.** The first is the shared GERTECH material-and-lattice style; the other seven are separate fairy identities. Sensei explicitly approved this set: **“canon this nothing else matters.”** No more reinterpretation, replacement faces, age progression, costume swapping or promotion of newer AI output over these images. **SOURCE OUTRANKS RENDER.**
+
+**[OPEN ALL EIGHT CANON JPEGs IN GOOGLE DRIVE](https://drive.google.com/drive/folders/1A7hMU1xEtlUCza-9xVZ_ep5fbflpUbRJ)** — direct images for new windows; no PDF, private chat or explanatory detour required. Earlier Stellar Cuddler drafts and conflicting new renders are *not* identity masters. The separate WORK/CHAT/GROK/META/MUSE/JAN/DEEPSEEK agent cast and their personality cards are **not** silently renamed as these seven stellar fairies. The sheet is an approved visual reference; a LoRA **model weight** has not yet been trained or verified.
+
+[![GERTECH STYLE — visual canon](https://drive.google.com/thumbnail?id=1A2qLStXoyKZPQL9ZLjV_vH_qh1tfBNxw&sz=w260)](https://drive.google.com/file/d/1A2qLStXoyKZPQL9ZLjV_vH_qh1tfBNxw/view)
+
+**[GERTECH STYLE](https://drive.google.com/file/d/1A2qLStXoyKZPQL9ZLjV_vH_qh1tfBNxw/view)**
+
+[![01 — BLUE FIRE — visual canon](https://drive.google.com/thumbnail?id=1Qs4maYwqaoHTCGUE3pBUZmKLKBH9s4_F&sz=w260)](https://drive.google.com/file/d/1Qs4maYwqaoHTCGUE3pBUZmKLKBH9s4_F/view)
+
+**[01 — BLUE FIRE](https://drive.google.com/file/d/1Qs4maYwqaoHTCGUE3pBUZmKLKBH9s4_F/view)**
+
+[![02 — YELLOW STAR — visual canon](https://drive.google.com/thumbnail?id=1RBfcAgGPL0ZyyGRENdYHpXXsQykwj9aN&sz=w260)](https://drive.google.com/file/d/1RBfcAgGPL0ZyyGRENdYHpXXsQykwj9aN/view)
+
+**[02 — YELLOW STAR](https://drive.google.com/file/d/1RBfcAgGPL0ZyyGRENdYHpXXsQykwj9aN/view)**
+
+[![03 — WHITE LIGHT — visual canon](https://drive.google.com/thumbnail?id=1o2gve230iPOAldNSY-wz9Sb2LlETsMtd&sz=w260)](https://drive.google.com/file/d/1o2gve230iPOAldNSY-wz9Sb2LlETsMtd/view)
+
+**[03 — WHITE LIGHT](https://drive.google.com/file/d/1o2gve230iPOAldNSY-wz9Sb2LlETsMtd/view)**
+
+[![04 — RED EMBER — visual canon](https://drive.google.com/thumbnail?id=1o1BdBWKHTh3UHnjKC82wgqwDLZDoO4mL&sz=w260)](https://drive.google.com/file/d/1o1BdBWKHTh3UHnjKC82wgqwDLZDoO4mL/view)
+
+**[04 — RED EMBER](https://drive.google.com/file/d/1o1BdBWKHTh3UHnjKC82wgqwDLZDoO4mL/view)**
+
+[![05 — EMERALD VERDANT — visual canon](https://drive.google.com/thumbnail?id=1czvfQ1Gh2VZPJPcztIyGIm0ZXeN-UsUW&sz=w260)](https://drive.google.com/file/d/1czvfQ1Gh2VZPJPcztIyGIm0ZXeN-UsUW/view)
+
+**[05 — EMERALD VERDANT](https://drive.google.com/file/d/1czvfQ1Gh2VZPJPcztIyGIm0ZXeN-UsUW/view)**
+
+[![06 — VIOLET NEBULA — visual canon](https://drive.google.com/thumbnail?id=1MiYdsU0UpFQGOcMq6AeoxRE95Lr620x0&sz=w260)](https://drive.google.com/file/d/1MiYdsU0UpFQGOcMq6AeoxRE95Lr620x0/view)
+
+**[06 — VIOLET NEBULA](https://drive.google.com/file/d/1MiYdsU0UpFQGOcMq6AeoxRE95Lr620x0/view)**
+
+[![07 — SILVER COMET — visual canon](https://drive.google.com/thumbnail?id=1eXS5tvLR1ypUrWLMxr3nEFEUSpxtL6Hu&sz=w260)](https://drive.google.com/file/d/1eXS5tvLR1ypUrWLMxr3nEFEUSpxtL6Hu/view)
+
+**[07 — SILVER COMET](https://drive.google.com/file/d/1eXS5tvLR1ypUrWLMxr3nEFEUSpxtL6Hu/view)**
+
 **PUBLIC START HERE — THE ONLY ACTIVE FRAMEWORK.** [Current orders](ORDERS.md). Previous queues and inherited assignments are **CLOSED, NOT INSTRUCTIONS**. The old versions remain only in Git history; do not execute them.
 
 ## GERTECH Stable Diffusion — one-click render kit
