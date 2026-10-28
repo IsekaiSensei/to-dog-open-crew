@@ -1,0 +1,37 @@
+CIRCUIT CIRCUS | META BATCH 09 OF 17 | ITEMS 081-090
+JPEG REFERENCE FOR THIS RUN: [ATTACH YOUR OWN JPG HERE]
+RUN VARIATION LABEL: [OPTIONAL — A / B / C / WORLD NAME]
+SOURCE: CIRCUIT_CIRCUS_169_ALL_IN_ONE_QC_REV02.txt
+ORDER: SINGLE META PROMPT. 10 CLIPS X APPROXIMATELY 10 SECONDS (FINAL BATCH 9 CLIPS). DO NOT REWRITE ARCHIVAL LINES.
+NOTE: Repeat the exact same dialogue with alternate JPGs to create different worlds/runs.
+
+META FRAME — LOCKED MASTER
+ONE PROMPT · TEN CLIPS · ONLY DIALOGUE CHANGES
+
+TALE: The spoken lines tell one continuous tale.
+FABLE: The meaning emerges through the visual action.
+JOURNEY: Every spoken idea triggers a corresponding image or action.
+TIME TO FRAME: Natural speech (~2.5 words/second). Do not rush. One line per clip.
+
+CAST & IDENTITY — FIXED FOR ALL TEN CLIPS AND ALL SUBAGENTS
+Use the attached ORIGINAL Isekai Sensei and Blue Fairy character sheets every time. Same adult faces, ages, hair, outfits, proportions, wings, mechanical details, and GERTECH workshop. The Blue Fairy speaks visibly, lip-synced; Sensei listens. Other fairies may demonstrate but must not replace her. Original sheets control identity. Previous scene's last frame controls camera/action continuity only. No face, age, costume, or character drift.
+
+PER-CLIP META FRAME — NEVER CHANGE
+INTRO: Only clip 01 begins FADE IN BLACK. Very brief DNA wormhole entrance. All later clips enter visibly from the preceding transition; never black.
+ACTION / JOURNEY: Keep the speaking Blue Fairy visible. As she speaks, project corresponding images, 3D diagrams, and demonstrations alongside her. For objects/animals named, show their blueprint and visible assembly before their completed action. EVERY WORD'S MEANING must be supported by the image. No irrelevant effects, scene resets, or disconnected pictures.
+STOP at the final action frame.
+EXIT WORMHOLE DNA — approximately 0.2 seconds. Morph into the next visible scene. No black frames, black blinks, or ending fade to black.
+
+DIALOGUE ONLY — CIRCUIT CIRCUS — BATCH 09
+01 / MASTER 081 / Relay / ORIGINAL: “I hear the signal. I’m clicking. Everyone calm down, I’m clicking.”
+02 / MASTER 082 / Inductor / NEW EDUCATIONAL PROPOSAL: “Current builds my magnetic field. Change me too fast, and I push back.”
+03 / MASTER 083 / Electromagnet / NEW EDUCATIONAL PROPOSAL: “Feed current through my coil and watch the iron answer.”
+04 / MASTER 084 / Relay / NEW EDUCATIONAL PROPOSAL: “A small control circuit can operate isolated switch contacts through my coil.”
+05 / MASTER 085 / Relay / NEW EDUCATIONAL PROPOSAL: “Hear that click? My contacts moved. They still have a current rating.”
+06 / MASTER 086 / Transformer / NEW EDUCATIONAL PROPOSAL: “Changing magnetic flux lets one coil deliver energy to another.”
+07 / MASTER 087 / Transformer / NEW EDUCATIONAL PROPOSAL: “Steady DC won’t keep power flowing through my secondary. I need changing magnetic flux.”
+08 / MASTER 088 / Inductor / NEW EDUCATIONAL PROPOSAL: “When current changes, I produce a voltage opposing that change.”
+09 / MASTER 089 / Solenoid / NEW EDUCATIONAL PROPOSAL: “A coil pulls my plunger. Electricity just became motion.”
+10 / MASTER 090 / Buck Converter / NEW EDUCATIONAL PROPOSAL: “I switch power through an inductor to step voltage down efficiently. I still get warm.”
+
+PERMANENT RULE: Only the quoted dialogue lines change between runs; META FRAME remains fixed. All scripts reference original character identity sheets.
