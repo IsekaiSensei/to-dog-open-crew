@@ -4,6 +4,8 @@
 
 **START HERE:** [All 17 scripts as one TXT](CIRCUIT_CIRCUS_ALL_17_META_BATCHES.txt) · [Complete 169-line QC Rev02 master](CIRCUIT_CIRCUS_169_ALL_IN_ONE_QC_REV02.txt).
 
+[DeepSeek review — technical accuracy, pacing, and suggested edits](DEEPSEEK_QC_REVIEW_169_2026-10-28.md).
+
 ## Individual Meta batches
 
 - [Batch 01 — 001–010](BATCH_01_DIALOGUES_001-010.txt)
