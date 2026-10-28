@@ -1,0 +1,37 @@
+CIRCUIT CIRCUS | META BATCH 17 OF 17 | ITEMS 161-169
+JPEG REFERENCE FOR THIS RUN: [ATTACH YOUR OWN JPG HERE]
+RUN VARIATION LABEL: [OPTIONAL — A / B / C / WORLD NAME]
+SOURCE: CIRCUIT_CIRCUS_169_ALL_IN_ONE_QC_REV02.txt
+ORDER: SINGLE META PROMPT. 10 CLIPS X APPROXIMATELY 10 SECONDS (FINAL BATCH 9 CLIPS). DO NOT REWRITE ARCHIVAL LINES.
+NOTE: Repeat the exact same dialogue with alternate JPGs to create different worlds/runs.
+FINAL BATCH: NINE ORIGINAL ENTRIES ONLY. CLIP TEN IS NOT REQUESTED. NO ITEM 170.
+
+META FRAME — LOCKED MASTER
+ONE PROMPT · TEN CLIPS · ONLY DIALOGUE CHANGES
+
+TALE: The spoken lines tell one continuous tale.
+FABLE: The meaning emerges through the visual action.
+JOURNEY: Every spoken idea triggers a corresponding image or action.
+TIME TO FRAME: Natural speech (~2.5 words/second). Do not rush. One line per clip.
+
+CAST & IDENTITY — FIXED FOR ALL TEN CLIPS AND ALL SUBAGENTS
+Use the attached ORIGINAL Isekai Sensei and Blue Fairy character sheets every time. Same adult faces, ages, hair, outfits, proportions, wings, mechanical details, and GERTECH workshop. The Blue Fairy speaks visibly, lip-synced; Sensei listens. Other fairies may demonstrate but must not replace her. Original sheets control identity. Previous scene's last frame controls camera/action continuity only. No face, age, costume, or character drift.
+
+PER-CLIP META FRAME — NEVER CHANGE
+INTRO: Only clip 01 begins FADE IN BLACK. Very brief DNA wormhole entrance. All later clips enter visibly from the preceding transition; never black.
+ACTION / JOURNEY: Keep the speaking Blue Fairy visible. As she speaks, project corresponding images, 3D diagrams, and demonstrations alongside her. For objects/animals named, show their blueprint and visible assembly before their completed action. EVERY WORD'S MEANING must be supported by the image. No irrelevant effects, scene resets, or disconnected pictures.
+STOP at the final action frame.
+EXIT WORMHOLE DNA — approximately 0.2 seconds. Morph into the next visible scene. No black frames, black blinks, or ending fade to black.
+
+DIALOGUE ONLY — CIRCUIT CIRCUS — BATCH 17
+01 / MASTER 161 / Servo / NEW EDUCATIONAL PROPOSAL: “Command a position; feedback helps me hold it under load.”
+02 / MASTER 162 / Encoder / NEW EDUCATIONAL PROPOSAL: “I count shaft motion. Speed and position need measurements.”
+03 / MASTER 163 / PID Controller / NEW EDUCATIONAL PROPOSAL: “Error tells me where I am; feedback helps me correct course.”
+04 / MASTER 164 / Motor / NEW EDUCATIONAL PROPOSAL: “Torque moves the load. Gear ratios trade speed for turning force.”
+05 / MASTER 165 / Wheel Robot / NEW EDUCATIONAL PROPOSAL: “Slip makes odometry drift. Sensors must challenge my assumptions.”
+06 / MASTER 166 / Robot Arm / NEW EDUCATIONAL PROPOSAL: “My joints have limits. Planning a path means respecting every one.”
+07 / MASTER 167 / Ultrasonic Sensor / NEW EDUCATIONAL PROPOSAL: “Echo timing estimates distance. Soft surfaces may fool me.”
+08 / MASTER 168 / IMU / NEW EDUCATIONAL PROPOSAL: “Accelerometers and gyros measure motion, not absolute truth.”
+09 / MASTER 169 / Robot / NEW EDUCATIONAL PROPOSAL: “Open-loop follows commands. Closed-loop checks what actually happened.”
+
+PERMANENT RULE: Only the quoted dialogue lines change between runs; META FRAME remains fixed. All scripts reference original character identity sheets.
