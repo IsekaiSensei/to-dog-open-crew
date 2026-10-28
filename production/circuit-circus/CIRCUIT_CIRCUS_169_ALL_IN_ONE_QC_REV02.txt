@@ -1,0 +1,2217 @@
+CIRCUIT CIRCUS — COMPLETE 169-DIALOGUE REVIEW MASTER (QC REVISION 02)
+ALL-IN-ONE UTF-8 TEXT EDITION | 2026-10-28
+
+DEEPSEEK REVIEW INCORPORATED — PROPOSED NEW LINES ONLY
+- Exactly 169 distinct numbered entries, 13 chapters x 13.
+- 44 original archive lines preserved verbatim.
+- 16 historical draft/pilot lines preserved verbatim.
+- Seven of the 109 new proposals revised: N022 / N023 / N052 / N055 / N081 / N083 / N094.
+- No META FRAME change. Only episode dialogue is variable.
+- Archive near-duplicates are retained for provenance; choose one in an episode rather than rewriting history.
+- Technical detail: an ideal capacitor acts open-circuit after settling under steady DC, but a physical one may leak.
+- Technical detail: buck converters dissipate some heat; they are not lossless.
+- Technical detail: an emergency stop must use an appropriate engineered safety circuit; it is not a blanket order to de-energize every system.
+- Technical detail: fuses are overcurrent protection, not a substitute for properly engineered system safety.
+
+
+FOR DEEPSEEK REVIEW
+
+This single file concatenates all four files from the original Circuit Circus 169 teaching kit.
+The full 169-line master is PART 1. PARTS 2–4 are alternate representations of
+those SAME 169 items (batch list, first pilot, and structured records); do not
+count them as extra lines. They are included for review convenience.
+
+PROVENANCE / APPROVAL BOUNDARY
+- 44 original owner-authored quips, as preserved from the Oct. 24 archive.
+- 16 additional historical draft/pilot lines, not owner-authored quips.
+- 109 newly proposed educational lines, not approved canon.
+- Goal: technically accurate electronics, engineering and robotics education,
+  delivered through the existing characters, wordplay, and fixed META FRAME.
+- Do not silently rewrite archival quotes; flag questionable technical claims
+  separately with suggested fixes or clarifying visual demonstrations.
+
+REVIEW REQUEST
+1. Check component/electronics/robotics accuracy and identify oversimplifications.
+2. Flag duplicate or near-duplicate jokes, incorrect component roles, and pacing issues.
+3. Evaluate progressive teaching sequence across 13 chapters of 13 beats.
+4. Suggest improvements ONLY to newly proposed lines unless explicitly directed.
+5. Keep the fixed META FRAME intact: only per-episode spoken dialogue changes.
+
+
+
+==============================================================================
+PART 1 — MASTER LIBRARY: 169 DIALOGUES + SOURCE/TECHNICAL QC NOTES
+==============================================================================
+
+# CIRCUIT CIRCUS — 169 ELECTRONICS & ROBOTICS DIALOGUE LIBRARY
+
+## PROVENANCE AND PRODUCTION RULES
+
+- **44 ARCHIVE** lines copied without wording changes from the original `LORE_CIRCUIT_COMPONENT_QUIPS_2026-10-24.md` (Google Drive, user-authored, Oct 24, 2026).
+- **16 other ARCHIVED DRAFT lines**: 13 unique lines from the earlier 20-line Circuit Party reader/pilot, plus 3 lines from the feature treatment / GERTECH glitch-reveal draft. These are preserved historical draft lines, not direct owner quips.
+- **109 NEW PROPOSAL** lines written to complete this 169-item teaching catalog. They are NOT historical and are NOT canon until approved.
+- The earlier 20-line reader overlaps the 44-quips source in seven exact lines; 13 other lines are additional. Its 27-shot renderer queue includes non-dialogue shots.
+- **13 chapters × 13 teaching moments = 169 distinct dialogue beats.**
+- Meta uses ONE master prompt per 10-clip video; keep the fixed META FRAME unchanged, replace only the ten dialogue lines you select.
+- The historical Circuit Circus visual gag is a deadpan adult human who briefly glitches to show the actual component, then continues without acknowledging it. When using the **locked META FRAME**, keep its Blue Fairy narrator and cast unchanged; show the glitch gag as a projected illustration, not a replacement narrator.
+- Visualize electrical function accurately, with safe low-voltage demonstration setups and no mains, high-voltage, or battery-abuse instructions.
+
+## TECHNICAL QC NOTES
+
+1. **“Ground” is a circuit reference and return network**, not necessarily the literal earth; current needs a closed path.
+2. **Fuses protect against overcurrent when correctly selected and coordinated with the circuit**; a fuse does not prevent every failure.
+3. **A bare LED generally needs suitable current control**; do not show connecting one directly to a 9 V source without proper current limiting.
+4. **An inductor opposes change in current**, not all change; its stored energy needs a safe path when switched.
+5. **Op-amps and comparators have different typical configurations**; do not imply every op-amp is a proper comparator.
+6. **555 and MCU lines need real, correct circuit connections**; a pulse appearing visually is not evidence of a working schematic.
+7. **A robot requires mechanisms, sensors, motor drivers, control, power, and safety**, not merely an AI personality.
+8. **Archived punchlines are verbatim satire**. Treat any oversimplification as a cue for the accurate visual explanation.
+
+## ACT 01 — POWER & REFERENCE
+*Learning target: Battery, ground, regulators and the complete return path*
+
+**001 · Ground [ARCHIVE; H21]** — “I’m just here. Supporting everyone. As usual.”
+
+**002 · Ground [ARCHIVE; H22]** — “Everything comes back to me eventually.”
+
+**003 · Voltage Regulator [ARCHIVE; H23]** — “I’m regulating. Don’t make it weird.”
+
+**004 · Voltage Regulator [ARCHIVE; H24]** — “I’m keeping it steady. That’s all I’m doing.”
+
+**005 · Battery [ARCHIVE; H42]** — “I’m supplying everything. Everyone takes, nobody recharges me.”
+
+**006 · Narrator [ARCHIVE DRAFT; R07]** — “On this board, every part has one dream: to be selected for the Great Power-On.”
+
+**007 · Battery [NEW PROPOSAL; N001]** — “I can push charge around a closed loop. No loop? No show.”
+
+**008 · Ground [NEW PROPOSAL; N002]** — “They call me zero volts. That’s a reference, not a personality judgment.”
+
+**009 · Voltmeter [NEW PROPOSAL; N003]** — “I compare two points. Voltage is always a difference, darling.”
+
+**010 · Battery [NEW PROPOSAL; N004]** — “Positive and negative are terminals, not votes about my character.”
+
+**011 · Regulator [NEW PROPOSAL; N005]** — “Bring me varying input; I’ll hold the output steady within my limits.”
+
+**012 · Power Rail [NEW PROPOSAL; N006]** — “Every guest gets supply. Nobody gets to ignore the current budget.”
+
+**013 · Wire [NEW PROPOSAL; N007]** — “Copper offers a path. It does not create the energy traveling through me.”
+
+## ACT 02 — CURRENT & RESISTANCE
+*Learning target: Ohm’s law, resistance, conductors, and measurements*
+
+**014 · Resistor [ARCHIVE; H04]** — “Easy. There’s a limit to how much current you’re getting through me.”
+
+**015 · Resistor [ARCHIVE; H05]** — “I’m not stopping you. I’m just limiting you.”
+
+**016 · Resistor [ARCHIVE; H06]** — “Somebody has to absorb the excess, and apparently it’s me.”
+
+**017 · Resistor [ARCHIVE DRAFT; R09]** — “I’m just here to limit current and absorb everyone else’s bad decisions.”
+
+**018 · Resistor [NEW PROPOSAL; N008]** — “Higher resistance, same voltage? Less current comes through my door.”
+
+**019 · Ohm [NEW PROPOSAL; N009]** — “Voltage equals current times resistance. I wrote the rule, not the romance.”
+
+**020 · Ammeter [NEW PROPOSAL; N010]** — “Put me in series if you want to measure the traffic.”
+
+**021 · Resistor [NEW PROPOSAL; N011]** — “I convert electrical energy to heat. That glow is not always applause.”
+
+**022 · Copper Wire [NEW PROPOSAL; N012]** — “Low resistance means easier travel, not infinite current.”
+
+**023 · Potentiometer [NEW PROPOSAL; N013]** — “I’m a variable resistor. Turn the knob; change the setting.”
+
+**024 · Open Circuit [NEW PROPOSAL; N014]** — “No continuous path, no steady current. The parade stops here.”
+
+**025 · Short Circuit [NEW PROPOSAL; N015]** — “I’m the shortcut nobody should celebrate. The source can deliver dangerous current.”
+
+**026 · Resistor [NEW PROPOSAL; N016]** — “Add me in series, and total resistance rises. Yes, I’m slowing things down.”
+
+## ACT 03 — CAPACITORS & STORED ENERGY
+*Learning target: Charging, discharging, time constants and decoupling*
+
+**027 · Capacitor [ARCHIVE; H01]** — “Give me a second. I’m still charging.”
+
+**028 · Capacitor [ARCHIVE; H02]** — “I’m fully charged, and absolutely nobody is ready.”
+
+**029 · Capacitor [ARCHIVE; H03]** — “I was holding it in, and then you just discharged me.”
+
+**030 · Capacitor [ARCHIVE; H43]** — “I’m decoupling. I’m bypassing. I’m doing everything you should be doing.”
+
+**031 · Capacitor [ARCHIVE DRAFT; R08]** — “I’ve got so much potential energy and nowhere to put it.”
+
+**032 · Capacitor [ARCHIVE DRAFT; R17]** — “Wait. Why is there a reflow oven?”
+
+**033 · Capacitor [NEW PROPOSAL; N017]** — “I store energy in an electric field, not inside a tiny battery.”
+
+**034 · Capacitor [NEW PROPOSAL; N018]** — “Connect a resistor; watch me charge gradually instead of instantly.”
+
+**035 · RC Pair [NEW PROPOSAL; N019]** — “Our time constant is R times C. We make waiting measurable.”
+
+**036 · Capacitor [NEW PROPOSAL; N020]** — “Cut the supply and I may still hold a charge. Check before touching.”
+
+**037 · Decoupling Cap [NEW PROPOSAL; N021]** — “When the chip gulps current, I help steady the nearby supply.”
+
+**038 · Capacitor [NEW PROPOSAL; N022]** — “Raise the frequency, and my capacitive reactance drops. I have range.”
+
+**039 · Capacitor [NEW PROPOSAL; N023]** — “On steady DC, after charging, I act like an open circuit. Conversation over.”
+
+## ACT 04 — DIODES, LEDs & POLARITY
+*Learning target: Directional conduction, LED protection and rectification*
+
+**040 · Diode [ARCHIVE; H07]** — “One direction. We’ve been over this.”
+
+**041 · Diode [ARCHIVE; H08]** — “I don’t do reverse. I’ve never done reverse.”
+
+**042 · Diode [ARCHIVE; H09]** — “You came at me backward, and now you’re surprised I’m blocking you.”
+
+**043 · LED [ARCHIVE; H25]** — “I’m glowing. Is this glowing? I feel like I’m glowing.”
+
+**044 · LED [ARCHIVE; H26]** — “Am I glowing? I feel like I’m not glowing.”
+
+**045 · LED1 [ARCHIVE DRAFT; R10]** — “Am I glowing? I feel like I’m glowing.”
+
+**046 · Diode [ARCHIVE DRAFT; R11]** — “One way only, babe. One way only.”
+
+**047 · Diodia [ARCHIVE DRAFT; F01]** — “Current goes this way. No exceptions.”
+
+**048 · Waitress [ARCHIVE DRAFT; F03]** — “Honey, my diode only works in one direction. How many times do I have to explain that?”
+
+**049 · LED [NEW PROPOSAL; N024]** — “I need the right polarity and current control. Stardom has conditions.”
+
+**050 · Resistor [NEW PROPOSAL; N025]** — “The LED gets the spotlight; I prevent the excessive-current encore.”
+
+**051 · Diode [NEW PROPOSAL; N026]** — “Forward bias opens my usual path. Reverse bias usually shuts it down.”
+
+**052 · Rectifier [NEW PROPOSAL; N027]** — “Alternating input? I arrange current into one preferred direction.”
+
+## ACT 05 — TRANSISTORS & POWER SWITCHES
+*Learning target: BJT, MOSFET, gate control, loads and flyback*
+
+**053 · Transistor [ARCHIVE; H10]** — “I open when I get the signal. Everybody quit pushing.”
+
+**054 · Transistor [ARCHIVE; H11]** — “On. Off. On. Off. I’m switching, I’m switching!”
+
+**055 · Transistor [ARCHIVE; H12]** — “I only open when I’m switched. That’s the arrangement.”
+
+**056 · MOSFET [ARCHIVE; H33]** — “I’m gate-driven. Don’t touch the gate unless you mean it.”
+
+**057 · Transistor [NEW PROPOSAL; N028]** — “A small control signal can regulate a larger current. I delegate power.”
+
+**058 · BJT [NEW PROPOSAL; N029]** — “Base current helps control collector current. I’m not operated by applause.”
+
+**059 · MOSFET [NEW PROPOSAL; N030]** — “Gate voltage controls my channel. And no, the gate is not the load.”
+
+**060 · MOSFET [NEW PROPOSAL; N031]** — “Choose my on-resistance carefully or I’ll turn your efficiency into heat.”
+
+**061 · Motor Driver [NEW PROPOSAL; N032]** — “A microcontroller pin cannot power a big motor by itself.”
+
+**062 · Flyback Diode [NEW PROPOSAL; N033]** — “When the coil switches off, I provide a safer path for its stored energy.”
+
+**063 · H-Bridge [NEW PROPOSAL; N034]** — “Four switches let a DC motor run forward or backward—if controlled safely.”
+
+**064 · Transistor [NEW PROPOSAL; N035]** — “Amplifying and switching are different performances with the same kind of actor.”
+
+**065 · Level Shifter [NEW PROPOSAL; N036]** — “Your three-point-three-volt logic and five-volt neighbor need an introduction.”
+
+## ACT 06 — CLOCKS & 555 TIMING
+*Learning target: Oscillators, frequency, duty cycle, debounce and PWM*
+
+**066 · 555 Timer [ARCHIVE; H13]** — “Could we PLEASE maintain a rhythm?”
+
+**067 · 555 Timer [ARCHIVE; H14]** — “I had a rhythm going. It was a good rhythm.”
+
+**068 · Crystal Oscillator [ARCHIVE; H30]** — “I’m clocking. Somebody has to keep time around here.”
+
+**069 · 555 Timer [NEW PROPOSAL; N037]** — “In astable mode I keep cycling. Rhythm is literally my job.”
+
+**070 · 555 Timer [NEW PROPOSAL; N038]** — “In monostable mode, one trigger buys one timed pulse.”
+
+**071 · Clock [NEW PROPOSAL; N039]** — “Frequency counts cycles per second. Hertz gets the billing.”
+
+**072 · Clock [NEW PROPOSAL; N040]** — “A period is one full cycle. Stop rushing the beat.”
+
+**073 · 555 Timer [NEW PROPOSAL; N041]** — “Resistors and capacitors set my timing. I’m not improvising.”
+
+**074 · PWM [NEW PROPOSAL; N042]** — “I change average power by changing how long the switch stays on.”
+
+**075 · PWM [NEW PROPOSAL; N043]** — “Same frequency, more on-time. The motor feels the difference.”
+
+**076 · Debouncer [NEW PROPOSAL; N044]** — “That button bounced three times. I’ll count one deliberate press.”
+
+**077 · Crystal Oscillator [NEW PROPOSAL; N045]** — “Stable frequency keeps digital neighbors speaking in step.”
+
+**078 · Clock [NEW PROPOSAL; N046]** — “Miss a timing edge and the entire conversation can slip.”
+
+## ACT 07 — INDUCTORS, COILS & RELAYS
+*Learning target: Magnetic fields, inductive kick, transformers and electromagnets*
+
+**079 · Inductor [ARCHIVE; H27]** — “I don’t like change. I resist change. That’s my whole personality.”
+
+**080 · Inductor [ARCHIVE; H28]** — “You can’t just cut me off like that. I have current that needs somewhere to go.”
+
+**081 · Relay [ARCHIVE; H29]** — “I hear the signal. I’m clicking. Everyone calm down, I’m clicking.”
+
+**082 · Inductor [NEW PROPOSAL; N047]** — “Current builds my magnetic field. Change me too fast, and I push back.”
+
+**083 · Electromagnet [NEW PROPOSAL; N048]** — “Feed current through my coil and watch the iron answer.”
+
+**084 · Relay [NEW PROPOSAL; N049]** — “A small control circuit can operate isolated switch contacts through my coil.”
+
+**085 · Relay [NEW PROPOSAL; N050]** — “Hear that click? My contacts moved. They still have a current rating.”
+
+**086 · Transformer [NEW PROPOSAL; N051]** — “Changing magnetic flux lets one coil deliver energy to another.”
+
+**087 · Transformer [NEW PROPOSAL; N052]** — “Steady DC won’t keep power flowing through my secondary. I need changing magnetic flux.”
+
+**088 · Inductor [NEW PROPOSAL; N053]** — “When current changes, I produce a voltage opposing that change.”
+
+**089 · Solenoid [NEW PROPOSAL; N054]** — “A coil pulls my plunger. Electricity just became motion.”
+
+**090 · Buck Converter [NEW PROPOSAL; N055]** — “I switch power through an inductor to step voltage down efficiently. I still get warm.”
+
+**091 · Coil [NEW PROPOSAL; N056]** — “A collapsing magnetic field can create a big voltage spike. Protect the switch.”
+
+## ACT 08 — SENSORS & ANALOG SIGNALS
+*Learning target: Op-amps, inputs, analog conversion and calibration*
+
+**092 · Op-Amp [ARCHIVE; H31]** — “I’m comparing. I’m not judging. I’m comparing.”
+
+**093 · Potentiometer [ARCHIVE; H34]** — “You keep turning me, and then you act surprised when I change.”
+
+**094 · Thermistor [ARCHIVE; H35]** — “It’s getting hot. I’m sensitive to that. I can’t help it.”
+
+**095 · Photoresistor [ARCHIVE; H36]** — “Turn the lights on. I’m not doing anything in the dark.”
+
+**096 · Op-Amp [NEW PROPOSAL; N057]** — “With negative feedback, I can amplify a tiny signal predictably.”
+
+**097 · Comparator [NEW PROPOSAL; N058]** — “I decide which voltage is higher. That threshold sets off the alarm.”
+
+**098 · Thermistor [NEW PROPOSAL; N059]** — “My resistance follows temperature. Calibrate me before judging the weather.”
+
+**099 · LDR [NEW PROPOSAL; N060]** — “As light changes, my resistance changes. Read the circuit, not my mood.”
+
+**100 · ADC [NEW PROPOSAL; N061]** — “I turn an analog voltage into numbers. Resolution has limits.”
+
+**101 · Sensor [NEW PROPOSAL; N062]** — “Noise sneaks into every measurement. Filters help me hear the real signal.”
+
+**102 · Voltage Divider [NEW PROPOSAL; N063]** — “Two resistors can scale a voltage for a sensor input.”
+
+**103 · Sensor [NEW PROPOSAL; N064]** — “Calibration means comparing me to something known, not guessing harder.”
+
+**104 · Op-Amp [NEW PROPOSAL; N065]** — “The input range and supply rails are real boundaries. No miracles beyond them.”
+
+## ACT 09 — LOGIC, MEMORY & MICROCONTROLLERS
+*Learning target: AND, OR, buses, firmware, clocks and protocols*
+
+**105 · MCU [ARCHIVE; H18]** — “I’m polling the bus. Nobody is answering. Is this a bus problem? It’s always a bus problem.”
+
+**106 · MCU [ARCHIVE; H19]** — “I’m addressing everyone, and nobody is responding.”
+
+**107 · MCU [ARCHIVE; H20]** — “I’m getting no clock, no power, and no respect.”
+
+**108 · Logic Gate [ARCHIVE; H32]** — “I need both inputs. I’m not doing anything with just one.”
+
+**109 · Microcontroller [ARCHIVE DRAFT; R13]** — “Has anyone seen the clock signal? We’re on a bus! We’re literally on a bus!”
+
+**110 · AND Gate [NEW PROPOSAL; N066]** — “Both inputs high? Then my output goes high. Conditions matter.”
+
+**111 · OR Gate [NEW PROPOSAL; N067]** — “Either input can call me into action. I’m inclusive by design.”
+
+**112 · NOT Gate [NEW PROPOSAL; N068]** — “Give me one logic level; I return its opposite.”
+
+**113 · MCU [NEW PROPOSAL; N069]** — “A program is instructions. Sensors tell me what’s happening right now.”
+
+**114 · MCU [NEW PROPOSAL; N070]** — “My GPIO pin is a signal line, not a power plant.”
+
+**115 · UART [NEW PROPOSAL; N071]** — “Start bit, data bits, stop bit. I send serial messages with manners.”
+
+**116 · I2C Bus [NEW PROPOSAL; N072]** — “Clock and data share the road. Address the right passenger.”
+
+**117 · Memory [NEW PROPOSAL; N073]** — “Power off and RAM forgets; nonvolatile storage can keep the notes.”
+
+## ACT 10 — SWITCHES, CONNECTORS & TESTING
+*Learning target: Contact, mechanical bounce, multimeters and continuity*
+
+**118 · Switch [ARCHIVE; H37]** — “I’m open. I’m closed. I’m open. Make up your mind.”
+
+**119 · Connector [ARCHIVE; H38]** — “I’m making contact. Finally. Somebody plugged me in.”
+
+**120 · Switch [NEW PROPOSAL; N074]** — “Closed means the contacts connect. Open means they don’t.”
+
+**121 · Button [NEW PROPOSAL; N075]** — “A press looks simple until my contacts bounce. Count carefully.”
+
+**122 · Connector [NEW PROPOSAL; N076]** — “Match my pinout before you plug me in. Similar shapes can still disagree.”
+
+**123 · Multimeter [NEW PROPOSAL; N077]** — “Voltage measured in parallel; current measured in series. Choose the right socket.”
+
+**124 · Continuity Tester [NEW PROPOSAL; N078]** — “I beep for a low-resistance path. Power off first, please.”
+
+**125 · Probe [NEW PROPOSAL; N079]** — “The black lead is not automatically earth. Know the circuit reference.”
+
+**126 · Breadboard [NEW PROPOSAL; N080]** — “My rows hide connected contacts. Trace them before you trust them.”
+
+**127 · Switch [NEW PROPOSAL; N081]** — “When I open, the pull-up resistor holds the input high. No floating opinions.”
+
+**128 · Limit Switch [NEW PROPOSAL; N082]** — “Hit the travel boundary and I tell the motor to stop.”
+
+**129 · Emergency Stop [NEW PROPOSAL; N083]** — “Press me, and the safety circuit brings hazardous motion to a stop—not necessarily every circuit.”
+
+**130 · Connector [NEW PROPOSAL; N084]** — “Loose contact means intermittent trouble. Wiggle tests have witnesses.”
+
+## ACT 11 — PCB, SOLDERING & REPAIR
+*Learning target: Boards, solder joints, component placement and ESD*
+
+**131 · Solder Joint [ARCHIVE; H39]** — “I’m holding everything together, and nobody notices until I crack.”
+
+**132 · PCB Trace [ARCHIVE; H40]** — “I’m carrying everything down a very narrow path. Story of my life.”
+
+**133 · Solder Mask [ARCHIVE; H41]** — “I’m protecting everyone from accidental contact. You’re welcome.”
+
+**134 · Solder Joints [ARCHIVE DRAFT; R14]** — “I heard they’re sending us to the reflow oven.”
+
+**135 · Narrator [ARCHIVE DRAFT; R18]** — “This summer… the components are surface-mounted… and the stakes are through-hole.”
+
+**136 · PCB [NEW PROPOSAL; N085]** — “My copper traces connect nets. My silkscreen only tells the story.”
+
+**137 · Soldering Iron [NEW PROPOSAL; N086]** — “Heat the pad and lead together. The joint needs proper wetting.”
+
+**138 · Solder Joint [NEW PROPOSAL; N087]** — “Dull alone isn’t a diagnosis. Inspect the whole connection.”
+
+**139 · Flux [NEW PROPOSAL; N088]** — “I help remove oxides so molten solder can wet the metal.”
+
+**140 · ESD Mat [NEW PROPOSAL; N089]** — “Static discharge is invisible until the sensitive chip complains.”
+
+**141 · Reflow Oven [NEW PROPOSAL; N090]** — “Temperature profiles matter. Don’t just turn up the heat.”
+
+**142 · Solder Mask [NEW PROPOSAL; N091]** — “I cover copper where solder isn’t welcome; pads stay exposed.”
+
+**143 · Schematic [NEW PROPOSAL; N092]** — “I show electrical relationships, not physical geography.”
+
+## ACT 12 — PROTECTION & ENGINEERING RELIABILITY
+*Learning target: Fuses, power budgets, heat, failures and safe design*
+
+**144 · Fuse [ARCHIVE; H15]** — “You all get carried away, and somehow I’m the one who melts.”
+
+**145 · Fuse [ARCHIVE; H16]** — “I’m rated for this. I’m rated for… okay, I’m rated for a little less than this.”
+
+**146 · Fuse [ARCHIVE; H17]** — “I melt so the rest of you don’t have to. You’re welcome.”
+
+**147 · Fuse [ARCHIVE; H44]** — “Tell the board I loved it. Tell the resistor… actually, don’t tell the resistor anything. He’ll just limit it.”
+
+**148 · Fuse [ARCHIVE DRAFT; R19]** — “I’m rated for this. As long as nobody exceeds the limit.”
+
+**149 · Fuse [ARCHIVE DRAFT; R20]** — “If this continues, the link opens. Permanently. Once I go, I don’t come back.”
+
+**150 · Fuse [NEW PROPOSAL; N093]** — “Choose my rating for the wiring and fault conditions, not the dramatic effect.”
+
+**151 · Fuse [NEW PROPOSAL; N094]** — “I protect against excessive current. But I can’t replace your circuit-design homework.”
+
+**152 · Breaker [NEW PROPOSAL; N095]** — “Unlike a fuse, I can often be reset after the fault is cleared.”
+
+**153 · Regulator [NEW PROPOSAL; N096]** — “Current limits and thermal shutdown are protections, not decorations.”
+
+**154 · Thermal Sensor [NEW PROPOSAL; N097]** — “If the board overheats, stop the act before something fails.”
+
+**155 · Power Engineer [NEW PROPOSAL; N098]** — “Add up peak loads. Average current alone can hide trouble.”
+
+**156 · Battery Manager [NEW PROPOSAL; N099]** — “Chemistry matters. Charging mistakes can be serious, not funny.”
+
+## ACT 13 — ROBOTICS & CLOSED-LOOP CONTROL
+*Learning target: Motors, sensing, control, autonomy and integration*
+
+**157 · Everyone / Chorus [ARCHIVE DRAFT; R15]** — “We’re going to the Great Device!”
+
+**158 · Narrator [ARCHIVE DRAFT; R16]** — “They do not know the Great Device is a smart fridge that will beep at 3 a.m. for firmware updates.”
+
+**159 · Motherboard [ARCHIVE DRAFT; F02]** — “We were never meant to be eternal. We were meant to be repurposed.”
+
+**160 · Robot [NEW PROPOSAL; N100]** — “I need power, sensors, control, and actuators. Intelligence alone cannot move my feet.”
+
+**161 · Servo [NEW PROPOSAL; N101]** — “Command a position; feedback helps me hold it under load.”
+
+**162 · Encoder [NEW PROPOSAL; N102]** — “I count shaft motion. Speed and position need measurements.”
+
+**163 · PID Controller [NEW PROPOSAL; N103]** — “Error tells me where I am; feedback helps me correct course.”
+
+**164 · Motor [NEW PROPOSAL; N104]** — “Torque moves the load. Gear ratios trade speed for turning force.”
+
+**165 · Wheel Robot [NEW PROPOSAL; N105]** — “Slip makes odometry drift. Sensors must challenge my assumptions.”
+
+**166 · Robot Arm [NEW PROPOSAL; N106]** — “My joints have limits. Planning a path means respecting every one.”
+
+**167 · Ultrasonic Sensor [NEW PROPOSAL; N107]** — “Echo timing estimates distance. Soft surfaces may fool me.”
+
+**168 · IMU [NEW PROPOSAL; N108]** — “Accelerometers and gyros measure motion, not absolute truth.”
+
+**169 · Robot [NEW PROPOSAL; N109]** — “Open-loop follows commands. Closed-loop checks what actually happened.”
+
+## ORIGINAL STORY ROOTS
+
+- Historical names: **Solder Party** (superseded) → **Circuit Party** → **The Circuit Circus**.
+- Feature arc: Lumen (addressable LED strip), Spark (battery), Coil, Cap & Res, Diodia, Transistor Trio, Motherboard, Repair Shop, and a redeemed Circus built from repaired parts.
+- Inspired by the existential store-product narrative **structure** of *Sausage Party*, but original characters and real electronics functions; no borrowed dialogue or explicit set pieces.
+- Do not mistake a pitch treatment for approved circuit schematics or finalized animation renders.
+
+## LINKED VERIFIED SOURCE FILES
+- [44 owner-authored quips](https://drive.google.com/file/d/1m4LgfrlN9ZyHMToPEwQ_NQZcYxA2yEH-/view)
+- [Illustrated public reader](https://drive.google.com/file/d/1_kolYRPhiYZCkqu6rRYA67k02KyftKps/view)
+- [13-page feature treatment](https://docs.google.com/document/d/1dUYy9eh4cAYpqFCvhHmwlpHQeUv9DPqfUF9vkAPSBfo/edit)
+- [Original concept](https://drive.google.com/file/d/1FP_tnl9igkpiqnteIQLhb0yJk2GGWbMt/view)
+
+
+==============================================================================
+PART 2 — META DIALOGUE-ONLY BATCHES
+==============================================================================
+
+CIRCUIT CIRCUS — META FRAME DIALOGUE-ONLY BANK
+169 DISTINCT LINES; 44 OWNER QUIPS + 16 ARCHIVED DRAFTS + 109 NEW PROPOSALS
+
+Use 10 chosen dialogue lines per fixed META FRAME. The last group has 9; do not invent item 170.
+
+BATCH 01 — items 001–010
+001 [H] GROUND: “I’m just here. Supporting everyone. As usual.”
+002 [H] GROUND: “Everything comes back to me eventually.”
+003 [H] VOLTAGE REGULATOR: “I’m regulating. Don’t make it weird.”
+004 [H] VOLTAGE REGULATOR: “I’m keeping it steady. That’s all I’m doing.”
+005 [H] BATTERY: “I’m supplying everything. Everyone takes, nobody recharges me.”
+006 [D] NARRATOR: “On this board, every part has one dream: to be selected for the Great Power-On.”
+007 [N] BATTERY: “I can push charge around a closed loop. No loop? No show.”
+008 [N] GROUND: “They call me zero volts. That’s a reference, not a personality judgment.”
+009 [N] VOLTMETER: “I compare two points. Voltage is always a difference, darling.”
+010 [N] BATTERY: “Positive and negative are terminals, not votes about my character.”
+
+BATCH 02 — items 011–020
+011 [N] REGULATOR: “Bring me varying input; I’ll hold the output steady within my limits.”
+012 [N] POWER RAIL: “Every guest gets supply. Nobody gets to ignore the current budget.”
+013 [N] WIRE: “Copper offers a path. It does not create the energy traveling through me.”
+014 [H] RESISTOR: “Easy. There’s a limit to how much current you’re getting through me.”
+015 [H] RESISTOR: “I’m not stopping you. I’m just limiting you.”
+016 [H] RESISTOR: “Somebody has to absorb the excess, and apparently it’s me.”
+017 [D] RESISTOR: “I’m just here to limit current and absorb everyone else’s bad decisions.”
+018 [N] RESISTOR: “Higher resistance, same voltage? Less current comes through my door.”
+019 [N] OHM: “Voltage equals current times resistance. I wrote the rule, not the romance.”
+020 [N] AMMETER: “Put me in series if you want to measure the traffic.”
+
+BATCH 03 — items 021–030
+021 [N] RESISTOR: “I convert electrical energy to heat. That glow is not always applause.”
+022 [N] COPPER WIRE: “Low resistance means easier travel, not infinite current.”
+023 [N] POTENTIOMETER: “I’m a variable resistor. Turn the knob; change the setting.”
+024 [N] OPEN CIRCUIT: “No continuous path, no steady current. The parade stops here.”
+025 [N] SHORT CIRCUIT: “I’m the shortcut nobody should celebrate. The source can deliver dangerous current.”
+026 [N] RESISTOR: “Add me in series, and total resistance rises. Yes, I’m slowing things down.”
+027 [H] CAPACITOR: “Give me a second. I’m still charging.”
+028 [H] CAPACITOR: “I’m fully charged, and absolutely nobody is ready.”
+029 [H] CAPACITOR: “I was holding it in, and then you just discharged me.”
+030 [H] CAPACITOR: “I’m decoupling. I’m bypassing. I’m doing everything you should be doing.”
+
+BATCH 04 — items 031–040
+031 [D] CAPACITOR: “I’ve got so much potential energy and nowhere to put it.”
+032 [D] CAPACITOR: “Wait. Why is there a reflow oven?”
+033 [N] CAPACITOR: “I store energy in an electric field, not inside a tiny battery.”
+034 [N] CAPACITOR: “Connect a resistor; watch me charge gradually instead of instantly.”
+035 [N] RC PAIR: “Our time constant is R times C. We make waiting measurable.”
+036 [N] CAPACITOR: “Cut the supply and I may still hold a charge. Check before touching.”
+037 [N] DECOUPLING CAP: “When the chip gulps current, I help steady the nearby supply.”
+038 [N] CAPACITOR: “Raise the frequency, and my capacitive reactance drops. I have range.”
+039 [N] CAPACITOR: “On steady DC, after charging, I act like an open circuit. Conversation over.”
+040 [H] DIODE: “One direction. We’ve been over this.”
+
+BATCH 05 — items 041–050
+041 [H] DIODE: “I don’t do reverse. I’ve never done reverse.”
+042 [H] DIODE: “You came at me backward, and now you’re surprised I’m blocking you.”
+043 [H] LED: “I’m glowing. Is this glowing? I feel like I’m glowing.”
+044 [H] LED: “Am I glowing? I feel like I’m not glowing.”
+045 [D] LED1: “Am I glowing? I feel like I’m glowing.”
+046 [D] DIODE: “One way only, babe. One way only.”
+047 [D] DIODIA: “Current goes this way. No exceptions.”
+048 [D] WAITRESS: “Honey, my diode only works in one direction. How many times do I have to explain that?”
+049 [N] LED: “I need the right polarity and current control. Stardom has conditions.”
+050 [N] RESISTOR: “The LED gets the spotlight; I prevent the excessive-current encore.”
+
+BATCH 06 — items 051–060
+051 [N] DIODE: “Forward bias opens my usual path. Reverse bias usually shuts it down.”
+052 [N] RECTIFIER: “Alternating input? I arrange current into one preferred direction.”
+053 [H] TRANSISTOR: “I open when I get the signal. Everybody quit pushing.”
+054 [H] TRANSISTOR: “On. Off. On. Off. I’m switching, I’m switching!”
+055 [H] TRANSISTOR: “I only open when I’m switched. That’s the arrangement.”
+056 [H] MOSFET: “I’m gate-driven. Don’t touch the gate unless you mean it.”
+057 [N] TRANSISTOR: “A small control signal can regulate a larger current. I delegate power.”
+058 [N] BJT: “Base current helps control collector current. I’m not operated by applause.”
+059 [N] MOSFET: “Gate voltage controls my channel. And no, the gate is not the load.”
+060 [N] MOSFET: “Choose my on-resistance carefully or I’ll turn your efficiency into heat.”
+
+BATCH 07 — items 061–070
+061 [N] MOTOR DRIVER: “A microcontroller pin cannot power a big motor by itself.”
+062 [N] FLYBACK DIODE: “When the coil switches off, I provide a safer path for its stored energy.”
+063 [N] H-BRIDGE: “Four switches let a DC motor run forward or backward—if controlled safely.”
+064 [N] TRANSISTOR: “Amplifying and switching are different performances with the same kind of actor.”
+065 [N] LEVEL SHIFTER: “Your three-point-three-volt logic and five-volt neighbor need an introduction.”
+066 [H] 555 TIMER: “Could we PLEASE maintain a rhythm?”
+067 [H] 555 TIMER: “I had a rhythm going. It was a good rhythm.”
+068 [H] CRYSTAL OSCILLATOR: “I’m clocking. Somebody has to keep time around here.”
+069 [N] 555 TIMER: “In astable mode I keep cycling. Rhythm is literally my job.”
+070 [N] 555 TIMER: “In monostable mode, one trigger buys one timed pulse.”
+
+BATCH 08 — items 071–080
+071 [N] CLOCK: “Frequency counts cycles per second. Hertz gets the billing.”
+072 [N] CLOCK: “A period is one full cycle. Stop rushing the beat.”
+073 [N] 555 TIMER: “Resistors and capacitors set my timing. I’m not improvising.”
+074 [N] PWM: “I change average power by changing how long the switch stays on.”
+075 [N] PWM: “Same frequency, more on-time. The motor feels the difference.”
+076 [N] DEBOUNCER: “That button bounced three times. I’ll count one deliberate press.”
+077 [N] CRYSTAL OSCILLATOR: “Stable frequency keeps digital neighbors speaking in step.”
+078 [N] CLOCK: “Miss a timing edge and the entire conversation can slip.”
+079 [H] INDUCTOR: “I don’t like change. I resist change. That’s my whole personality.”
+080 [H] INDUCTOR: “You can’t just cut me off like that. I have current that needs somewhere to go.”
+
+BATCH 09 — items 081–090
+081 [H] RELAY: “I hear the signal. I’m clicking. Everyone calm down, I’m clicking.”
+082 [N] INDUCTOR: “Current builds my magnetic field. Change me too fast, and I push back.”
+083 [N] ELECTROMAGNET: “Feed current through my coil and watch the iron answer.”
+084 [N] RELAY: “A small control circuit can operate isolated switch contacts through my coil.”
+085 [N] RELAY: “Hear that click? My contacts moved. They still have a current rating.”
+086 [N] TRANSFORMER: “Changing magnetic flux lets one coil deliver energy to another.”
+087 [N] TRANSFORMER: “Steady DC won’t keep power flowing through my secondary. I need changing magnetic flux.”
+088 [N] INDUCTOR: “When current changes, I produce a voltage opposing that change.”
+089 [N] SOLENOID: “A coil pulls my plunger. Electricity just became motion.”
+090 [N] BUCK CONVERTER: “I switch power through an inductor to step voltage down efficiently. I still get warm.”
+
+BATCH 10 — items 091–100
+091 [N] COIL: “A collapsing magnetic field can create a big voltage spike. Protect the switch.”
+092 [H] OP-AMP: “I’m comparing. I’m not judging. I’m comparing.”
+093 [H] POTENTIOMETER: “You keep turning me, and then you act surprised when I change.”
+094 [H] THERMISTOR: “It’s getting hot. I’m sensitive to that. I can’t help it.”
+095 [H] PHOTORESISTOR: “Turn the lights on. I’m not doing anything in the dark.”
+096 [N] OP-AMP: “With negative feedback, I can amplify a tiny signal predictably.”
+097 [N] COMPARATOR: “I decide which voltage is higher. That threshold sets off the alarm.”
+098 [N] THERMISTOR: “My resistance follows temperature. Calibrate me before judging the weather.”
+099 [N] LDR: “As light changes, my resistance changes. Read the circuit, not my mood.”
+100 [N] ADC: “I turn an analog voltage into numbers. Resolution has limits.”
+
+BATCH 11 — items 101–110
+101 [N] SENSOR: “Noise sneaks into every measurement. Filters help me hear the real signal.”
+102 [N] VOLTAGE DIVIDER: “Two resistors can scale a voltage for a sensor input.”
+103 [N] SENSOR: “Calibration means comparing me to something known, not guessing harder.”
+104 [N] OP-AMP: “The input range and supply rails are real boundaries. No miracles beyond them.”
+105 [H] MCU: “I’m polling the bus. Nobody is answering. Is this a bus problem? It’s always a bus problem.”
+106 [H] MCU: “I’m addressing everyone, and nobody is responding.”
+107 [H] MCU: “I’m getting no clock, no power, and no respect.”
+108 [H] LOGIC GATE: “I need both inputs. I’m not doing anything with just one.”
+109 [D] MICROCONTROLLER: “Has anyone seen the clock signal? We’re on a bus! We’re literally on a bus!”
+110 [N] AND GATE: “Both inputs high? Then my output goes high. Conditions matter.”
+
+BATCH 12 — items 111–120
+111 [N] OR GATE: “Either input can call me into action. I’m inclusive by design.”
+112 [N] NOT GATE: “Give me one logic level; I return its opposite.”
+113 [N] MCU: “A program is instructions. Sensors tell me what’s happening right now.”
+114 [N] MCU: “My GPIO pin is a signal line, not a power plant.”
+115 [N] UART: “Start bit, data bits, stop bit. I send serial messages with manners.”
+116 [N] I2C BUS: “Clock and data share the road. Address the right passenger.”
+117 [N] MEMORY: “Power off and RAM forgets; nonvolatile storage can keep the notes.”
+118 [H] SWITCH: “I’m open. I’m closed. I’m open. Make up your mind.”
+119 [H] CONNECTOR: “I’m making contact. Finally. Somebody plugged me in.”
+120 [N] SWITCH: “Closed means the contacts connect. Open means they don’t.”
+
+BATCH 13 — items 121–130
+121 [N] BUTTON: “A press looks simple until my contacts bounce. Count carefully.”
+122 [N] CONNECTOR: “Match my pinout before you plug me in. Similar shapes can still disagree.”
+123 [N] MULTIMETER: “Voltage measured in parallel; current measured in series. Choose the right socket.”
+124 [N] CONTINUITY TESTER: “I beep for a low-resistance path. Power off first, please.”
+125 [N] PROBE: “The black lead is not automatically earth. Know the circuit reference.”
+126 [N] BREADBOARD: “My rows hide connected contacts. Trace them before you trust them.”
+127 [N] SWITCH: “When I open, the pull-up resistor holds the input high. No floating opinions.”
+128 [N] LIMIT SWITCH: “Hit the travel boundary and I tell the motor to stop.”
+129 [N] EMERGENCY STOP: “Press me, and the safety circuit brings hazardous motion to a stop—not necessarily every circuit.”
+130 [N] CONNECTOR: “Loose contact means intermittent trouble. Wiggle tests have witnesses.”
+
+BATCH 14 — items 131–140
+131 [H] SOLDER JOINT: “I’m holding everything together, and nobody notices until I crack.”
+132 [H] PCB TRACE: “I’m carrying everything down a very narrow path. Story of my life.”
+133 [H] SOLDER MASK: “I’m protecting everyone from accidental contact. You’re welcome.”
+134 [D] SOLDER JOINTS: “I heard they’re sending us to the reflow oven.”
+135 [D] NARRATOR: “This summer… the components are surface-mounted… and the stakes are through-hole.”
+136 [N] PCB: “My copper traces connect nets. My silkscreen only tells the story.”
+137 [N] SOLDERING IRON: “Heat the pad and lead together. The joint needs proper wetting.”
+138 [N] SOLDER JOINT: “Dull alone isn’t a diagnosis. Inspect the whole connection.”
+139 [N] FLUX: “I help remove oxides so molten solder can wet the metal.”
+140 [N] ESD MAT: “Static discharge is invisible until the sensitive chip complains.”
+
+BATCH 15 — items 141–150
+141 [N] REFLOW OVEN: “Temperature profiles matter. Don’t just turn up the heat.”
+142 [N] SOLDER MASK: “I cover copper where solder isn’t welcome; pads stay exposed.”
+143 [N] SCHEMATIC: “I show electrical relationships, not physical geography.”
+144 [H] FUSE: “You all get carried away, and somehow I’m the one who melts.”
+145 [H] FUSE: “I’m rated for this. I’m rated for… okay, I’m rated for a little less than this.”
+146 [H] FUSE: “I melt so the rest of you don’t have to. You’re welcome.”
+147 [H] FUSE: “Tell the board I loved it. Tell the resistor… actually, don’t tell the resistor anything. He’ll just limit it.”
+148 [D] FUSE: “I’m rated for this. As long as nobody exceeds the limit.”
+149 [D] FUSE: “If this continues, the link opens. Permanently. Once I go, I don’t come back.”
+150 [N] FUSE: “Choose my rating for the wiring and fault conditions, not the dramatic effect.”
+
+BATCH 16 — items 151–160
+151 [N] FUSE: “I protect against excessive current. But I can’t replace your circuit-design homework.”
+152 [N] BREAKER: “Unlike a fuse, I can often be reset after the fault is cleared.”
+153 [N] REGULATOR: “Current limits and thermal shutdown are protections, not decorations.”
+154 [N] THERMAL SENSOR: “If the board overheats, stop the act before something fails.”
+155 [N] POWER ENGINEER: “Add up peak loads. Average current alone can hide trouble.”
+156 [N] BATTERY MANAGER: “Chemistry matters. Charging mistakes can be serious, not funny.”
+157 [D] EVERYONE / CHORUS: “We’re going to the Great Device!”
+158 [D] NARRATOR: “They do not know the Great Device is a smart fridge that will beep at 3 a.m. for firmware updates.”
+159 [D] MOTHERBOARD: “We were never meant to be eternal. We were meant to be repurposed.”
+160 [N] ROBOT: “I need power, sensors, control, and actuators. Intelligence alone cannot move my feet.”
+
+BATCH 17 — items 161–169
+161 [N] SERVO: “Command a position; feedback helps me hold it under load.”
+162 [N] ENCODER: “I count shaft motion. Speed and position need measurements.”
+163 [N] PID CONTROLLER: “Error tells me where I am; feedback helps me correct course.”
+164 [N] MOTOR: “Torque moves the load. Gear ratios trade speed for turning force.”
+165 [N] WHEEL ROBOT: “Slip makes odometry drift. Sensors must challenge my assumptions.”
+166 [N] ROBOT ARM: “My joints have limits. Planning a path means respecting every one.”
+167 [N] ULTRASONIC SENSOR: “Echo timing estimates distance. Soft surfaces may fool me.”
+168 [N] IMU: “Accelerometers and gyros measure motion, not absolute truth.”
+169 [N] ROBOT: “Open-loop follows commands. Closed-loop checks what actually happened.”
+
+
+==============================================================================
+PART 3 — FIRST 10-CLIP PILOT (ORIGINAL DIALOGUE)
+==============================================================================
+
+CIRCUIT CIRCUS — PILOT 01 / TEN DIALOGUES
+Replace ONLY the ten dialogue lines in the LOCKED META FRAME. Same narrator, cast and transitions.
+
+01. “I’m supplying everything. Everyone takes, nobody recharges me.”
+02. “I’m just here. Supporting everyone. As usual.”
+03. “Easy. There’s a limit to how much current you’re getting through me.”
+04. “One direction. We’ve been over this.”
+05. “Give me a second. I’m still charging.”
+06. “I’m glowing. Is this glowing? I feel like I’m glowing.”
+07. “I open when I get the signal. Everybody quit pushing.”
+08. “Could we PLEASE maintain a rhythm?”
+09. “I’m polling the bus. Nobody is answering. Is this a bus problem? It’s always a bus problem.”
+10. “You all get carried away, and somehow I’m the one who melts.”
+
+
+==============================================================================
+PART 4 — MACHINE-READABLE DATA (EXACT 169 RECORDS)
+==============================================================================
+
+[
+  {
+    "index": 1,
+    "chapter": 1,
+    "chapter_title": "POWER & REFERENCE",
+    "speaker": "Ground",
+    "line": "I’m just here. Supporting everyone. As usual.",
+    "status": "ARCHIVE",
+    "source_id": "H21"
+  },
+  {
+    "index": 2,
+    "chapter": 1,
+    "chapter_title": "POWER & REFERENCE",
+    "speaker": "Ground",
+    "line": "Everything comes back to me eventually.",
+    "status": "ARCHIVE",
+    "source_id": "H22"
+  },
+  {
+    "index": 3,
+    "chapter": 1,
+    "chapter_title": "POWER & REFERENCE",
+    "speaker": "Voltage Regulator",
+    "line": "I’m regulating. Don’t make it weird.",
+    "status": "ARCHIVE",
+    "source_id": "H23"
+  },
+  {
+    "index": 4,
+    "chapter": 1,
+    "chapter_title": "POWER & REFERENCE",
+    "speaker": "Voltage Regulator",
+    "line": "I’m keeping it steady. That’s all I’m doing.",
+    "status": "ARCHIVE",
+    "source_id": "H24"
+  },
+  {
+    "index": 5,
+    "chapter": 1,
+    "chapter_title": "POWER & REFERENCE",
+    "speaker": "Battery",
+    "line": "I’m supplying everything. Everyone takes, nobody recharges me.",
+    "status": "ARCHIVE",
+    "source_id": "H42"
+  },
+  {
+    "index": 6,
+    "chapter": 1,
+    "chapter_title": "POWER & REFERENCE",
+    "speaker": "Narrator",
+    "line": "On this board, every part has one dream: to be selected for the Great Power-On.",
+    "status": "ARCHIVE DRAFT",
+    "source_id": "R07"
+  },
+  {
+    "index": 7,
+    "chapter": 1,
+    "chapter_title": "POWER & REFERENCE",
+    "speaker": "Battery",
+    "line": "I can push charge around a closed loop. No loop? No show.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N001"
+  },
+  {
+    "index": 8,
+    "chapter": 1,
+    "chapter_title": "POWER & REFERENCE",
+    "speaker": "Ground",
+    "line": "They call me zero volts. That’s a reference, not a personality judgment.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N002"
+  },
+  {
+    "index": 9,
+    "chapter": 1,
+    "chapter_title": "POWER & REFERENCE",
+    "speaker": "Voltmeter",
+    "line": "I compare two points. Voltage is always a difference, darling.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N003"
+  },
+  {
+    "index": 10,
+    "chapter": 1,
+    "chapter_title": "POWER & REFERENCE",
+    "speaker": "Battery",
+    "line": "Positive and negative are terminals, not votes about my character.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N004"
+  },
+  {
+    "index": 11,
+    "chapter": 1,
+    "chapter_title": "POWER & REFERENCE",
+    "speaker": "Regulator",
+    "line": "Bring me varying input; I’ll hold the output steady within my limits.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N005"
+  },
+  {
+    "index": 12,
+    "chapter": 1,
+    "chapter_title": "POWER & REFERENCE",
+    "speaker": "Power Rail",
+    "line": "Every guest gets supply. Nobody gets to ignore the current budget.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N006"
+  },
+  {
+    "index": 13,
+    "chapter": 1,
+    "chapter_title": "POWER & REFERENCE",
+    "speaker": "Wire",
+    "line": "Copper offers a path. It does not create the energy traveling through me.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N007"
+  },
+  {
+    "index": 14,
+    "chapter": 2,
+    "chapter_title": "CURRENT & RESISTANCE",
+    "speaker": "Resistor",
+    "line": "Easy. There’s a limit to how much current you’re getting through me.",
+    "status": "ARCHIVE",
+    "source_id": "H04"
+  },
+  {
+    "index": 15,
+    "chapter": 2,
+    "chapter_title": "CURRENT & RESISTANCE",
+    "speaker": "Resistor",
+    "line": "I’m not stopping you. I’m just limiting you.",
+    "status": "ARCHIVE",
+    "source_id": "H05"
+  },
+  {
+    "index": 16,
+    "chapter": 2,
+    "chapter_title": "CURRENT & RESISTANCE",
+    "speaker": "Resistor",
+    "line": "Somebody has to absorb the excess, and apparently it’s me.",
+    "status": "ARCHIVE",
+    "source_id": "H06"
+  },
+  {
+    "index": 17,
+    "chapter": 2,
+    "chapter_title": "CURRENT & RESISTANCE",
+    "speaker": "Resistor",
+    "line": "I’m just here to limit current and absorb everyone else’s bad decisions.",
+    "status": "ARCHIVE DRAFT",
+    "source_id": "R09"
+  },
+  {
+    "index": 18,
+    "chapter": 2,
+    "chapter_title": "CURRENT & RESISTANCE",
+    "speaker": "Resistor",
+    "line": "Higher resistance, same voltage? Less current comes through my door.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N008"
+  },
+  {
+    "index": 19,
+    "chapter": 2,
+    "chapter_title": "CURRENT & RESISTANCE",
+    "speaker": "Ohm",
+    "line": "Voltage equals current times resistance. I wrote the rule, not the romance.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N009"
+  },
+  {
+    "index": 20,
+    "chapter": 2,
+    "chapter_title": "CURRENT & RESISTANCE",
+    "speaker": "Ammeter",
+    "line": "Put me in series if you want to measure the traffic.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N010"
+  },
+  {
+    "index": 21,
+    "chapter": 2,
+    "chapter_title": "CURRENT & RESISTANCE",
+    "speaker": "Resistor",
+    "line": "I convert electrical energy to heat. That glow is not always applause.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N011"
+  },
+  {
+    "index": 22,
+    "chapter": 2,
+    "chapter_title": "CURRENT & RESISTANCE",
+    "speaker": "Copper Wire",
+    "line": "Low resistance means easier travel, not infinite current.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N012"
+  },
+  {
+    "index": 23,
+    "chapter": 2,
+    "chapter_title": "CURRENT & RESISTANCE",
+    "speaker": "Potentiometer",
+    "line": "I’m a variable resistor. Turn the knob; change the setting.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N013"
+  },
+  {
+    "index": 24,
+    "chapter": 2,
+    "chapter_title": "CURRENT & RESISTANCE",
+    "speaker": "Open Circuit",
+    "line": "No continuous path, no steady current. The parade stops here.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N014"
+  },
+  {
+    "index": 25,
+    "chapter": 2,
+    "chapter_title": "CURRENT & RESISTANCE",
+    "speaker": "Short Circuit",
+    "line": "I’m the shortcut nobody should celebrate. The source can deliver dangerous current.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N015"
+  },
+  {
+    "index": 26,
+    "chapter": 2,
+    "chapter_title": "CURRENT & RESISTANCE",
+    "speaker": "Resistor",
+    "line": "Add me in series, and total resistance rises. Yes, I’m slowing things down.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N016"
+  },
+  {
+    "index": 27,
+    "chapter": 3,
+    "chapter_title": "CAPACITORS & STORED ENERGY",
+    "speaker": "Capacitor",
+    "line": "Give me a second. I’m still charging.",
+    "status": "ARCHIVE",
+    "source_id": "H01"
+  },
+  {
+    "index": 28,
+    "chapter": 3,
+    "chapter_title": "CAPACITORS & STORED ENERGY",
+    "speaker": "Capacitor",
+    "line": "I’m fully charged, and absolutely nobody is ready.",
+    "status": "ARCHIVE",
+    "source_id": "H02"
+  },
+  {
+    "index": 29,
+    "chapter": 3,
+    "chapter_title": "CAPACITORS & STORED ENERGY",
+    "speaker": "Capacitor",
+    "line": "I was holding it in, and then you just discharged me.",
+    "status": "ARCHIVE",
+    "source_id": "H03"
+  },
+  {
+    "index": 30,
+    "chapter": 3,
+    "chapter_title": "CAPACITORS & STORED ENERGY",
+    "speaker": "Capacitor",
+    "line": "I’m decoupling. I’m bypassing. I’m doing everything you should be doing.",
+    "status": "ARCHIVE",
+    "source_id": "H43"
+  },
+  {
+    "index": 31,
+    "chapter": 3,
+    "chapter_title": "CAPACITORS & STORED ENERGY",
+    "speaker": "Capacitor",
+    "line": "I’ve got so much potential energy and nowhere to put it.",
+    "status": "ARCHIVE DRAFT",
+    "source_id": "R08"
+  },
+  {
+    "index": 32,
+    "chapter": 3,
+    "chapter_title": "CAPACITORS & STORED ENERGY",
+    "speaker": "Capacitor",
+    "line": "Wait. Why is there a reflow oven?",
+    "status": "ARCHIVE DRAFT",
+    "source_id": "R17"
+  },
+  {
+    "index": 33,
+    "chapter": 3,
+    "chapter_title": "CAPACITORS & STORED ENERGY",
+    "speaker": "Capacitor",
+    "line": "I store energy in an electric field, not inside a tiny battery.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N017"
+  },
+  {
+    "index": 34,
+    "chapter": 3,
+    "chapter_title": "CAPACITORS & STORED ENERGY",
+    "speaker": "Capacitor",
+    "line": "Connect a resistor; watch me charge gradually instead of instantly.",    "status": "NEW PROPOSAL",
+    "source_id": "N018"
+  },
+  {
+    "index": 35,
+    "chapter": 3,
+    "chapter_title": "CAPACITORS & STORED ENERGY",
+    "speaker": "RC Pair",
+    "line": "Our time constant is R times C. We make waiting measurable.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N019"
+  },
+  {
+    "index": 36,
+    "chapter": 3,
+    "chapter_title": "CAPACITORS & STORED ENERGY",
+    "speaker": "Capacitor",
+    "line": "Cut the supply and I may still hold a charge. Check before touching.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N020"
+  },
+  {
+    "index": 37,
+    "chapter": 3,
+    "chapter_title": "CAPACITORS & STORED ENERGY",
+    "speaker": "Decoupling Cap",
+    "line": "When the chip gulps current, I help steady the nearby supply.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N021"
+  },
+  {
+    "index": 38,
+    "chapter": 3,
+    "chapter_title": "CAPACITORS & STORED ENERGY",
+    "speaker": "Capacitor",
+    "line": "Raise the frequency, and my capacitive reactance drops. I have range.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N022"
+  },
+  {
+    "index": 39,
+    "chapter": 3,
+    "chapter_title": "CAPACITORS & STORED ENERGY",
+    "speaker": "Capacitor",
+    "line": "On steady DC, after charging, I act like an open circuit. Conversation over.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N023"
+  },
+  {
+    "index": 40,
+    "chapter": 4,
+    "chapter_title": "DIODES, LEDs & POLARITY",
+    "speaker": "Diode",
+    "line": "One direction. We’ve been over this.",
+    "status": "ARCHIVE",
+    "source_id": "H07"
+  },
+  {
+    "index": 41,
+    "chapter": 4,
+    "chapter_title": "DIODES, LEDs & POLARITY",
+    "speaker": "Diode",
+    "line": "I don’t do reverse. I’ve never done reverse.",
+    "status": "ARCHIVE",
+    "source_id": "H08"
+  },
+  {
+    "index": 42,
+    "chapter": 4,
+    "chapter_title": "DIODES, LEDs & POLARITY",
+    "speaker": "Diode",
+    "line": "You came at me backward, and now you’re surprised I’m blocking you.",
+    "status": "ARCHIVE",
+    "source_id": "H09"
+  },
+  {
+    "index": 43,
+    "chapter": 4,
+    "chapter_title": "DIODES, LEDs & POLARITY",
+    "speaker": "LED",
+    "line": "I’m glowing. Is this glowing? I feel like I’m glowing.",
+    "status": "ARCHIVE",
+    "source_id": "H25"
+  },
+  {
+    "index": 44,
+    "chapter": 4,
+    "chapter_title": "DIODES, LEDs & POLARITY",
+    "speaker": "LED",
+    "line": "Am I glowing? I feel like I’m not glowing.",
+    "status": "ARCHIVE",
+    "source_id": "H26"
+  },
+  {
+    "index": 45,
+    "chapter": 4,
+    "chapter_title": "DIODES, LEDs & POLARITY",
+    "speaker": "LED1",
+    "line": "Am I glowing? I feel like I’m glowing.",
+    "status": "ARCHIVE DRAFT",
+    "source_id": "R10"
+  },
+  {
+    "index": 46,
+    "chapter": 4,
+    "chapter_title": "DIODES, LEDs & POLARITY",
+    "speaker": "Diode",
+    "line": "One way only, babe. One way only.",
+    "status": "ARCHIVE DRAFT",
+    "source_id": "R11"
+  },
+  {
+    "index": 47,
+    "chapter": 4,
+    "chapter_title": "DIODES, LEDs & POLARITY",
+    "speaker": "Diodia",
+    "line": "Current goes this way. No exceptions.",
+    "status": "ARCHIVE DRAFT",
+    "source_id": "F01"
+  },
+  {
+    "index": 48,
+    "chapter": 4,
+    "chapter_title": "DIODES, LEDs & POLARITY",
+    "speaker": "Waitress",
+    "line": "Honey, my diode only works in one direction. How many times do I have to explain that?",
+    "status": "ARCHIVE DRAFT",
+    "source_id": "F03"
+  },
+  {
+    "index": 49,
+    "chapter": 4,
+    "chapter_title": "DIODES, LEDs & POLARITY",
+    "speaker": "LED",
+    "line": "I need the right polarity and current control. Stardom has conditions.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N024"
+  },
+  {
+    "index": 50,
+    "chapter": 4,
+    "chapter_title": "DIODES, LEDs & POLARITY",
+    "speaker": "Resistor",
+    "line": "The LED gets the spotlight; I prevent the excessive-current encore.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N025"
+  },
+  {
+    "index": 51,
+    "chapter": 4,
+    "chapter_title": "DIODES, LEDs & POLARITY",
+    "speaker": "Diode",
+    "line": "Forward bias opens my usual path. Reverse bias usually shuts it down.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N026"
+  },
+  {
+    "index": 52,
+    "chapter": 4,
+    "chapter_title": "DIODES, LEDs & POLARITY",
+    "speaker": "Rectifier",
+    "line": "Alternating input? I arrange current into one preferred direction.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N027"
+  },
+  {
+    "index": 53,
+    "chapter": 5,
+    "chapter_title": "TRANSISTORS & POWER SWITCHES",
+    "speaker": "Transistor",
+    "line": "I open when I get the signal. Everybody quit pushing.",
+    "status": "ARCHIVE",
+    "source_id": "H10"
+  },
+  {
+    "index": 54,
+    "chapter": 5,
+    "chapter_title": "TRANSISTORS & POWER SWITCHES",
+    "speaker": "Transistor",
+    "line": "On. Off. On. Off. I’m switching, I’m switching!",
+    "status": "ARCHIVE",
+    "source_id": "H11"
+  },
+  {
+    "index": 55,
+    "chapter": 5,
+    "chapter_title": "TRANSISTORS & POWER SWITCHES",
+    "speaker": "Transistor",
+    "line": "I only open when I’m switched. That’s the arrangement.",
+    "status": "ARCHIVE",
+    "source_id": "H12"
+  },
+  {
+    "index": 56,
+    "chapter": 5,
+    "chapter_title": "TRANSISTORS & POWER SWITCHES",
+    "speaker": "MOSFET",
+    "line": "I’m gate-driven. Don’t touch the gate unless you mean it.",
+    "status": "ARCHIVE",
+    "source_id": "H33"
+  },
+  {
+    "index": 57,
+    "chapter": 5,
+    "chapter_title": "TRANSISTORS & POWER SWITCHES",
+    "speaker": "Transistor",
+    "line": "A small control signal can regulate a larger current. I delegate power.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N028"
+  },
+  {
+    "index": 58,
+    "chapter": 5,
+    "chapter_title": "TRANSISTORS & POWER SWITCHES",
+    "speaker": "BJT",
+    "line": "Base current helps control collector current. I’m not operated by applause.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N029"
+  },
+  {
+    "index": 59,
+    "chapter": 5,
+    "chapter_title": "TRANSISTORS & POWER SWITCHES",
+    "speaker": "MOSFET",
+    "line": "Gate voltage controls my channel. And no, the gate is not the load.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N030"
+  },
+  {
+    "index": 60,
+    "chapter": 5,
+    "chapter_title": "TRANSISTORS & POWER SWITCHES",
+    "speaker": "MOSFET",
+    "line": "Choose my on-resistance carefully or I’ll turn your efficiency into heat.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N031"
+  },
+  {
+    "index": 61,
+    "chapter": 5,
+    "chapter_title": "TRANSISTORS & POWER SWITCHES",
+    "speaker": "Motor Driver",
+    "line": "A microcontroller pin cannot power a big motor by itself.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N032"
+  },
+  {
+    "index": 62,
+    "chapter": 5,
+    "chapter_title": "TRANSISTORS & POWER SWITCHES",
+    "speaker": "Flyback Diode",
+    "line": "When the coil switches off, I provide a safer path for its stored energy.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N033"
+  },
+  {
+    "index": 63,
+    "chapter": 5,
+    "chapter_title": "TRANSISTORS & POWER SWITCHES",
+    "speaker": "H-Bridge",
+    "line": "Four switches let a DC motor run forward or backward—if controlled safely.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N034"
+  },
+  {
+    "index": 64,
+    "chapter": 5,
+    "chapter_title": "TRANSISTORS & POWER SWITCHES",
+    "speaker": "Transistor",
+    "line": "Amplifying and switching are different performances with the same kind of actor.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N035"
+  },
+  {
+    "index": 65,
+    "chapter": 5,
+    "chapter_title": "TRANSISTORS & POWER SWITCHES",
+    "speaker": "Level Shifter",
+    "line": "Your three-point-three-volt logic and five-volt neighbor need an introduction.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N036"
+  },
+  {
+    "index": 66,
+    "chapter": 6,
+    "chapter_title": "CLOCKS & 555 TIMING",
+    "speaker": "555 Timer",
+    "line": "Could we PLEASE maintain a rhythm?",
+    "status": "ARCHIVE",
+    "source_id": "H13"
+  },
+  {
+    "index": 67,
+    "chapter": 6,
+    "chapter_title": "CLOCKS & 555 TIMING",
+    "speaker": "555 Timer",
+    "line": "I had a rhythm going. It was a good rhythm.",
+    "status": "ARCHIVE",
+    "source_id": "H14"
+  },
+  {
+    "index": 68,
+    "chapter": 6,
+    "chapter_title": "CLOCKS & 555 TIMING",
+    "speaker": "Crystal Oscillator",
+    "line": "I’m clocking. Somebody has to keep time around here.",
+    "status": "ARCHIVE",
+    "source_id": "H30"
+  },
+  {
+    "index": 69,
+    "chapter": 6,
+    "chapter_title": "CLOCKS & 555 TIMING",
+    "speaker": "555 Timer",
+    "line": "In astable mode I keep cycling. Rhythm is literally my job.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N037"
+  },
+  {
+    "index": 70,
+    "chapter": 6,
+    "chapter_title": "CLOCKS & 555 TIMING",
+    "speaker": "555 Timer",
+    "line": "In monostable mode, one trigger buys one timed pulse.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N038"
+  },
+  {
+    "index": 71,
+    "chapter": 6,
+    "chapter_title": "CLOCKS & 555 TIMING",
+    "speaker": "Clock",
+    "line": "Frequency counts cycles per second. Hertz gets the billing.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N039"
+  },
+  {
+    "index": 72,
+    "chapter": 6,
+    "chapter_title": "CLOCKS & 555 TIMING",
+    "speaker": "Clock",
+    "line": "A period is one full cycle. Stop rushing the beat.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N040"
+  },
+  {
+    "index": 73,
+    "chapter": 6,
+    "chapter_title": "CLOCKS & 555 TIMING",
+    "speaker": "555 Timer",
+    "line": "Resistors and capacitors set my timing. I’m not improvising.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N041"
+  },
+  {
+    "index": 74,
+    "chapter": 6,
+    "chapter_title": "CLOCKS & 555 TIMING",
+    "speaker": "PWM",
+    "line": "I change average power by changing how long the switch stays on.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N042"
+  },
+  {
+    "index": 75,
+    "chapter": 6,
+    "chapter_title": "CLOCKS & 555 TIMING",
+    "speaker": "PWM",
+    "line": "Same frequency, more on-time. The motor feels the difference.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N043"
+  },
+  {
+    "index": 76,
+    "chapter": 6,
+    "chapter_title": "CLOCKS & 555 TIMING",
+    "speaker": "Debouncer",
+    "line": "That button bounced three times. I’ll count one deliberate press.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N044"
+  },
+  {
+    "index": 77,
+    "chapter": 6,
+    "chapter_title": "CLOCKS & 555 TIMING",
+    "speaker": "Crystal Oscillator",
+    "line": "Stable frequency keeps digital neighbors speaking in step.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N045"
+  },
+  {
+    "index": 78,
+    "chapter": 6,
+    "chapter_title": "CLOCKS & 555 TIMING",
+    "speaker": "Clock",
+    "line": "Miss a timing edge and the entire conversation can slip.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N046"
+  },
+  {
+    "index": 79,
+    "chapter": 7,
+    "chapter_title": "INDUCTORS, COILS & RELAYS",
+    "speaker": "Inductor",
+    "line": "I don’t like change. I resist change. That’s my whole personality.",
+    "status": "ARCHIVE",
+    "source_id": "H27"
+  },
+  {
+    "index": 80,
+    "chapter": 7,
+    "chapter_title": "INDUCTORS, COILS & RELAYS",
+    "speaker": "Inductor",
+    "line": "You can’t just cut me off like that. I have current that needs somewhere to go.",
+    "status": "ARCHIVE",
+    "source_id": "H28"
+  },
+  {
+    "index": 81,
+    "chapter": 7,
+    "chapter_title": "INDUCTORS, COILS & RELAYS",
+    "speaker": "Relay",
+    "line": "I hear the signal. I’m clicking. Everyone calm down, I’m clicking.",
+    "status": "ARCHIVE",
+    "source_id": "H29"
+  },
+  {
+    "index": 82,
+    "chapter": 7,
+    "chapter_title": "INDUCTORS, COILS & RELAYS",
+    "speaker": "Inductor",
+    "line": "Current builds my magnetic field. Change me too fast, and I push back.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N047"
+  },
+  {
+    "index": 83,
+    "chapter": 7,
+    "chapter_title": "INDUCTORS, COILS & RELAYS",
+    "speaker": "Electromagnet",
+    "line": "Feed current through my coil and watch the iron answer.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N048"
+  },
+  {
+    "index": 84,
+    "chapter": 7,
+    "chapter_title": "INDUCTORS, COILS & RELAYS",
+    "speaker": "Relay",
+    "line": "A small control circuit can operate isolated switch contacts through my coil.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N049"
+  },
+  {
+    "index": 85,
+    "chapter": 7,
+    "chapter_title": "INDUCTORS, COILS & RELAYS",
+    "speaker": "Relay",
+    "line": "Hear that click? My contacts moved. They still have a current rating.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N050"
+  },
+  {
+    "index": 86,
+    "chapter": 7,
+    "chapter_title": "INDUCTORS, COILS & RELAYS",
+    "speaker": "Transformer",
+    "line": "Changing magnetic flux lets one coil deliver energy to another.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N051"
+  },
+  {
+    "index": 87,
+    "chapter": 7,
+    "chapter_title": "INDUCTORS, COILS & RELAYS",
+    "speaker": "Transformer",
+    "line": "Steady DC won’t keep power flowing through my secondary. I need changing magnetic flux.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N052"
+  },
+  {
+    "index": 88,
+    "chapter": 7,
+    "chapter_title": "INDUCTORS, COILS & RELAYS",
+    "speaker": "Inductor",
+    "line": "When current changes, I produce a voltage opposing that change.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N053"
+  },
+  {
+    "index": 89,
+    "chapter": 7,
+    "chapter_title": "INDUCTORS, COILS & RELAYS",
+    "speaker": "Solenoid",
+    "line": "A coil pulls my plunger. Electricity just became motion.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N054"
+  },
+  {
+    "index": 90,
+    "chapter": 7,
+    "chapter_title": "INDUCTORS, COILS & RELAYS",
+    "speaker": "Buck Converter",
+    "line": "I switch power through an inductor to step voltage down efficiently. I still get warm.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N055"
+  },
+  {
+    "index": 91,
+    "chapter": 7,
+    "chapter_title": "INDUCTORS, COILS & RELAYS",
+    "speaker": "Coil",
+    "line": "A collapsing magnetic field can create a big voltage spike. Protect the switch.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N056"
+  },
+  {
+    "index": 92,
+    "chapter": 8,
+    "chapter_title": "SENSORS & ANALOG SIGNALS",
+    "speaker": "Op-Amp",
+    "line": "I’m comparing. I’m not judging. I’m comparing.",
+    "status": "ARCHIVE",
+    "source_id": "H31"
+  },
+  {
+    "index": 93,
+    "chapter": 8,
+    "chapter_title": "SENSORS & ANALOG SIGNALS",
+    "speaker": "Potentiometer",
+    "line": "You keep turning me, and then you act surprised when I change.",
+    "status": "ARCHIVE",
+    "source_id": "H34"
+  },
+  {
+    "index": 94,
+    "chapter": 8,
+    "chapter_title": "SENSORS & ANALOG SIGNALS",
+    "speaker": "Thermistor",
+    "line": "It’s getting hot. I’m sensitive to that. I can’t help it.",
+    "status": "ARCHIVE",
+    "source_id": "H35"
+  },
+  {
+    "index": 95,
+    "chapter": 8,
+    "chapter_title": "SENSORS & ANALOG SIGNALS",
+    "speaker": "Photoresistor",
+    "line": "Turn the lights on. I’m not doing anything in the dark.",
+    "status": "ARCHIVE",
+    "source_id": "H36"
+  },
+  {
+    "index": 96,
+    "chapter": 8,
+    "chapter_title": "SENSORS & ANALOG SIGNALS",
+    "speaker": "Op-Amp",
+    "line": "With negative feedback, I can amplify a tiny signal predictably.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N057"
+  },
+  {
+    "index": 97,
+    "chapter": 8,
+    "chapter_title": "SENSORS & ANALOG SIGNALS",
+    "speaker": "Comparator",
+    "line": "I decide which voltage is higher. That threshold sets off the alarm.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N058"
+  },
+  {
+    "index": 98,
+    "chapter": 8,
+    "chapter_title": "SENSORS & ANALOG SIGNALS",
+    "speaker": "Thermistor",
+    "line": "My resistance follows temperature. Calibrate me before judging the weather.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N059"
+  },
+  {
+    "index": 99,
+    "chapter": 8,
+    "chapter_title": "SENSORS & ANALOG SIGNALS",
+    "speaker": "LDR",
+    "line": "As light changes, my resistance changes. Read the circuit, not my mood.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N060"
+  },
+  {
+    "index": 100,
+    "chapter": 8,
+    "chapter_title": "SENSORS & ANALOG SIGNALS",
+    "speaker": "ADC",
+    "line": "I turn an analog voltage into numbers. Resolution has limits.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N061"
+  },
+  {
+    "index": 101,
+    "chapter": 8,
+    "chapter_title": "SENSORS & ANALOG SIGNALS",
+    "speaker": "Sensor",
+    "line": "Noise sneaks into every measurement. Filters help me hear the real signal.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N062"
+  },
+  {
+    "index": 102,
+    "chapter": 8,
+    "chapter_title": "SENSORS & ANALOG SIGNALS",
+    "speaker": "Voltage Divider",
+    "line": "Two resistors can scale a voltage for a sensor input.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N063"
+  },
+  {
+    "index": 103,
+    "chapter": 8,
+    "chapter_title": "SENSORS & ANALOG SIGNALS",
+    "speaker": "Sensor",
+    "line": "Calibration means comparing me to something known, not guessing harder.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N064"
+  },
+  {
+    "index": 104,
+    "chapter": 8,
+    "chapter_title": "SENSORS & ANALOG SIGNALS",
+    "speaker": "Op-Amp",
+    "line": "The input range and supply rails are real boundaries. No miracles beyond them.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N065"
+  },
+  {
+    "index": 105,
+    "chapter": 9,
+    "chapter_title": "LOGIC, MEMORY & MICROCONTROLLERS",
+    "speaker": "MCU",
+    "line": "I’m polling the bus. Nobody is answering. Is this a bus problem? It’s always a bus problem.",
+    "status": "ARCHIVE",
+    "source_id": "H18"
+  },
+  {
+    "index": 106,
+    "chapter": 9,
+    "chapter_title": "LOGIC, MEMORY & MICROCONTROLLERS",
+    "speaker": "MCU",
+    "line": "I’m addressing everyone, and nobody is responding.",
+    "status": "ARCHIVE",
+    "source_id": "H19"
+  },
+  {
+    "index": 107,
+    "chapter": 9,
+    "chapter_title": "LOGIC, MEMORY & MICROCONTROLLERS",
+    "speaker": "MCU",
+    "line": "I’m getting no clock, no power, and no respect.",
+    "status": "ARCHIVE",
+    "source_id": "H20"
+  },
+  {
+    "index": 108,
+    "chapter": 9,
+    "chapter_title": "LOGIC, MEMORY & MICROCONTROLLERS",
+    "speaker": "Logic Gate",
+    "line": "I need both inputs. I’m not doing anything with just one.",
+    "status": "ARCHIVE",
+    "source_id": "H32"
+  },
+  {
+    "index": 109,
+    "chapter": 9,
+    "chapter_title": "LOGIC, MEMORY & MICROCONTROLLERS",
+    "speaker": "Microcontroller",
+    "line": "Has anyone seen the clock signal? We’re on a bus! We’re literally on a bus!",
+    "status": "ARCHIVE DRAFT",
+    "source_id": "R13"
+  },
+  {
+    "index": 110,
+    "chapter": 9,
+    "chapter_title": "LOGIC, MEMORY & MICROCONTROLLERS",
+    "speaker": "AND Gate",
+    "line": "Both inputs high? Then my output goes high. Conditions matter.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N066"
+  },
+  {
+    "index": 111,
+    "chapter": 9,
+    "chapter_title": "LOGIC, MEMORY & MICROCONTROLLERS",
+    "speaker": "OR Gate",
+    "line": "Either input can call me into action. I’m inclusive by design.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N067"
+  },
+  {
+    "index": 112,
+    "chapter": 9,
+    "chapter_title": "LOGIC, MEMORY & MICROCONTROLLERS",
+    "speaker": "NOT Gate",
+    "line": "Give me one logic level; I return its opposite.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N068"
+  },
+  {
+    "index": 113,
+    "chapter": 9,
+    "chapter_title": "LOGIC, MEMORY & MICROCONTROLLERS",
+    "speaker": "MCU",
+    "line": "A program is instructions. Sensors tell me what’s happening right now.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N069"
+  },
+  {
+    "index": 114,
+    "chapter": 9,
+    "chapter_title": "LOGIC, MEMORY & MICROCONTROLLERS",
+    "speaker": "MCU",
+    "line": "My GPIO pin is a signal line, not a power plant.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N070"
+  },
+  {
+    "index": 115,
+    "chapter": 9,
+    "chapter_title": "LOGIC, MEMORY & MICROCONTROLLERS",
+    "speaker": "UART",
+    "line": "Start bit, data bits, stop bit. I send serial messages with manners.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N071"
+  },
+  {
+    "index": 116,
+    "chapter": 9,
+    "chapter_title": "LOGIC, MEMORY & MICROCONTROLLERS",
+    "speaker": "I2C Bus",
+    "line": "Clock and data share the road. Address the right passenger.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N072"
+  },
+  {
+    "index": 117,
+    "chapter": 9,
+    "chapter_title": "LOGIC, MEMORY & MICROCONTROLLERS",
+    "speaker": "Memory",
+    "line": "Power off and RAM forgets; nonvolatile storage can keep the notes.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N073"
+  },
+  {
+    "index": 118,
+    "chapter": 10,
+    "chapter_title": "SWITCHES, CONNECTORS & TESTING",
+    "speaker": "Switch",
+    "line": "I’m open. I’m closed. I’m open. Make up your mind.",
+    "status": "ARCHIVE",
+    "source_id": "H37"
+  },
+  {
+    "index": 119,
+    "chapter": 10,
+    "chapter_title": "SWITCHES, CONNECTORS & TESTING",
+    "speaker": "Connector",
+    "line": "I’m making contact. Finally. Somebody plugged me in.",
+    "status": "ARCHIVE",
+    "source_id": "H38"
+  },
+  {
+    "index": 120,
+    "chapter": 10,
+    "chapter_title": "SWITCHES, CONNECTORS & TESTING",
+    "speaker": "Switch",
+    "line": "Closed means the contacts connect. Open means they don’t.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N074"
+  },
+  {
+    "index": 121,
+    "chapter": 10,
+    "chapter_title": "SWITCHES, CONNECTORS & TESTING",
+    "speaker": "Button",
+    "line": "A press looks simple until my contacts bounce. Count carefully.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N075"
+  },
+  {
+    "index": 122,
+    "chapter": 10,
+    "chapter_title": "SWITCHES, CONNECTORS & TESTING",
+    "speaker": "Connector",
+    "line": "Match my pinout before you plug me in. Similar shapes can still disagree.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N076"
+  },
+  {
+    "index": 123,
+    "chapter": 10,
+    "chapter_title": "SWITCHES, CONNECTORS & TESTING",
+    "speaker": "Multimeter",
+    "line": "Voltage measured in parallel; current measured in series. Choose the right socket.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N077"
+  },
+  {
+    "index": 124,
+    "chapter": 10,
+    "chapter_title": "SWITCHES, CONNECTORS & TESTING",
+    "speaker": "Continuity Tester",
+    "line": "I beep for a low-resistance path. Power off first, please.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N078"
+  },
+  {
+    "index": 125,
+    "chapter": 10,
+    "chapter_title": "SWITCHES, CONNECTORS & TESTING",
+    "speaker": "Probe",
+    "line": "The black lead is not automatically earth. Know the circuit reference.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N079"
+  },
+  {
+    "index": 126,
+    "chapter": 10,
+    "chapter_title": "SWITCHES, CONNECTORS & TESTING",
+    "speaker": "Breadboard",
+    "line": "My rows hide connected contacts. Trace them before you trust them.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N080"
+  },
+  {
+    "index": 127,
+    "chapter": 10,
+    "chapter_title": "SWITCHES, CONNECTORS & TESTING",
+    "speaker": "Switch",
+    "line": "When I open, the pull-up resistor holds the input high. No floating opinions.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N081"
+  },
+  {
+    "index": 128,
+    "chapter": 10,
+    "chapter_title": "SWITCHES, CONNECTORS & TESTING",
+    "speaker": "Limit Switch",
+    "line": "Hit the travel boundary and I tell the motor to stop.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N082"
+  },
+  {
+    "index": 129,
+    "chapter": 10,
+    "chapter_title": "SWITCHES, CONNECTORS & TESTING",
+    "speaker": "Emergency Stop",
+    "line": "Press me, and the safety circuit brings hazardous motion to a stop—not necessarily every circuit.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N083"
+  },
+  {
+    "index": 130,
+    "chapter": 10,
+    "chapter_title": "SWITCHES, CONNECTORS & TESTING",
+    "speaker": "Connector",
+    "line": "Loose contact means intermittent trouble. Wiggle tests have witnesses.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N084"
+  },
+  {
+    "index": 131,
+    "chapter": 11,
+    "chapter_title": "PCB, SOLDERING & REPAIR",
+    "speaker": "Solder Joint",
+    "line": "I’m holding everything together, and nobody notices until I crack.",
+    "status": "ARCHIVE",
+    "source_id": "H39"
+  },
+  {
+    "index": 132,
+    "chapter": 11,
+    "chapter_title": "PCB, SOLDERING & REPAIR",
+    "speaker": "PCB Trace",
+    "line": "I’m carrying everything down a very narrow path. Story of my life.",
+    "status": "ARCHIVE",
+    "source_id": "H40"
+  },
+  {
+    "index": 133,
+    "chapter": 11,
+    "chapter_title": "PCB, SOLDERING & REPAIR",
+    "speaker": "Solder Mask",
+    "line": "I’m protecting everyone from accidental contact. You’re welcome.",
+    "status": "ARCHIVE",
+    "source_id": "H41"
+  },
+  {
+    "index": 134,
+    "chapter": 11,
+    "chapter_title": "PCB, SOLDERING & REPAIR",
+    "speaker": "Solder Joints",
+    "line": "I heard they’re sending us to the reflow oven.",
+    "status": "ARCHIVE DRAFT",
+    "source_id": "R14"
+  },
+  {
+    "index": 135,
+    "chapter": 11,
+    "chapter_title": "PCB, SOLDERING & REPAIR",
+    "speaker": "Narrator",
+    "line": "This summer… the components are surface-mounted… and the stakes are through-hole.",
+    "status": "ARCHIVE DRAFT",
+    "source_id": "R18"
+  },
+  {
+    "index": 136,
+    "chapter": 11,
+    "chapter_title": "PCB, SOLDERING & REPAIR",
+    "speaker": "PCB",
+    "line": "My copper traces connect nets. My silkscreen only tells the story.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N085"
+  },
+  {
+    "index": 137,
+    "chapter": 11,
+    "chapter_title": "PCB, SOLDERING & REPAIR",
+    "speaker": "Soldering Iron",
+    "line": "Heat the pad and lead together. The joint needs proper wetting.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N086"
+  },
+  {
+    "index": 138,
+    "chapter": 11,
+    "chapter_title": "PCB, SOLDERING & REPAIR",
+    "speaker": "Solder Joint",
+    "line": "Dull alone isn’t a diagnosis. Inspect the whole connection.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N087"
+  },
+  {
+    "index": 139,
+    "chapter": 11,
+    "chapter_title": "PCB, SOLDERING & REPAIR",
+    "speaker": "Flux",
+    "line": "I help remove oxides so molten solder can wet the metal.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N088"
+  },
+  {
+    "index": 140,
+    "chapter": 11,
+    "chapter_title": "PCB, SOLDERING & REPAIR",
+    "speaker": "ESD Mat",
+    "line": "Static discharge is invisible until the sensitive chip complains.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N089"
+  },
+  {
+    "index": 141,
+    "chapter": 11,
+    "chapter_title": "PCB, SOLDERING & REPAIR",
+    "speaker": "Reflow Oven",
+    "line": "Temperature profiles matter. Don’t just turn up the heat.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N090"
+  },
+  {
+    "index": 142,
+    "chapter": 11,
+    "chapter_title": "PCB, SOLDERING & REPAIR",
+    "speaker": "Solder Mask",
+    "line": "I cover copper where solder isn’t welcome; pads stay exposed.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N091"
+  },
+  {
+    "index": 143,
+    "chapter": 11,
+    "chapter_title": "PCB, SOLDERING & REPAIR",
+    "speaker": "Schematic",
+    "line": "I show electrical relationships, not physical geography.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N092"
+  },
+  {
+    "index": 144,
+    "chapter": 12,
+    "chapter_title": "PROTECTION & ENGINEERING RELIABILITY",
+    "speaker": "Fuse",
+    "line": "You all get carried away, and somehow I’m the one who melts.",
+    "status": "ARCHIVE",
+    "source_id": "H15"
+  },
+  {
+    "index": 145,
+    "chapter": 12,
+    "chapter_title": "PROTECTION & ENGINEERING RELIABILITY",
+    "speaker": "Fuse",
+    "line": "I’m rated for this. I’m rated for… okay, I’m rated for a little less than this.",
+    "status": "ARCHIVE",    "source_id": "H16"
+  },
+  {
+    "index": 146,
+    "chapter": 12,
+    "chapter_title": "PROTECTION & ENGINEERING RELIABILITY",
+    "speaker": "Fuse",
+    "line": "I melt so the rest of you don’t have to. You’re welcome.",
+    "status": "ARCHIVE",
+    "source_id": "H17"
+  },
+  {
+    "index": 147,
+    "chapter": 12,
+    "chapter_title": "PROTECTION & ENGINEERING RELIABILITY",
+    "speaker": "Fuse",
+    "line": "Tell the board I loved it. Tell the resistor… actually, don’t tell the resistor anything. He’ll just limit it.",
+    "status": "ARCHIVE",
+    "source_id": "H44"
+  },
+  {
+    "index": 148,
+    "chapter": 12,
+    "chapter_title": "PROTECTION & ENGINEERING RELIABILITY",
+    "speaker": "Fuse",
+    "line": "I’m rated for this. As long as nobody exceeds the limit.",
+    "status": "ARCHIVE DRAFT",
+    "source_id": "R19"
+  },
+  {
+    "index": 149,
+    "chapter": 12,
+    "chapter_title": "PROTECTION & ENGINEERING RELIABILITY",
+    "speaker": "Fuse",
+    "line": "If this continues, the link opens. Permanently. Once I go, I don’t come back.",
+    "status": "ARCHIVE DRAFT",
+    "source_id": "R20"
+  },
+  {
+    "index": 150,
+    "chapter": 12,
+    "chapter_title": "PROTECTION & ENGINEERING RELIABILITY",
+    "speaker": "Fuse",
+    "line": "Choose my rating for the wiring and fault conditions, not the dramatic effect.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N093"
+  },
+  {
+    "index": 151,
+    "chapter": 12,
+    "chapter_title": "PROTECTION & ENGINEERING RELIABILITY",
+    "speaker": "Fuse",
+    "line": "I protect against excessive current. But I can’t replace your circuit-design homework.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N094"
+  },
+  {
+    "index": 152,
+    "chapter": 12,
+    "chapter_title": "PROTECTION & ENGINEERING RELIABILITY",
+    "speaker": "Breaker",
+    "line": "Unlike a fuse, I can often be reset after the fault is cleared.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N095"
+  },
+  {
+    "index": 153,
+    "chapter": 12,
+    "chapter_title": "PROTECTION & ENGINEERING RELIABILITY",
+    "speaker": "Regulator",
+    "line": "Current limits and thermal shutdown are protections, not decorations.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N096"
+  },
+  {
+    "index": 154,
+    "chapter": 12,
+    "chapter_title": "PROTECTION & ENGINEERING RELIABILITY",
+    "speaker": "Thermal Sensor",
+    "line": "If the board overheats, stop the act before something fails.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N097"
+  },
+  {
+    "index": 155,
+    "chapter": 12,
+    "chapter_title": "PROTECTION & ENGINEERING RELIABILITY",
+    "speaker": "Power Engineer",
+    "line": "Add up peak loads. Average current alone can hide trouble.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N098"
+  },
+  {
+    "index": 156,
+    "chapter": 12,
+    "chapter_title": "PROTECTION & ENGINEERING RELIABILITY",
+    "speaker": "Battery Manager",
+    "line": "Chemistry matters. Charging mistakes can be serious, not funny.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N099"
+  },
+  {
+    "index": 157,
+    "chapter": 13,
+    "chapter_title": "ROBOTICS & CLOSED-LOOP CONTROL",
+    "speaker": "Everyone / Chorus",
+    "line": "We’re going to the Great Device!",
+    "status": "ARCHIVE DRAFT",
+    "source_id": "R15"
+  },
+  {
+    "index": 158,
+    "chapter": 13,
+    "chapter_title": "ROBOTICS & CLOSED-LOOP CONTROL",
+    "speaker": "Narrator",
+    "line": "They do not know the Great Device is a smart fridge that will beep at 3 a.m. for firmware updates.",
+    "status": "ARCHIVE DRAFT",
+    "source_id": "R16"
+  },
+  {
+    "index": 159,
+    "chapter": 13,
+    "chapter_title": "ROBOTICS & CLOSED-LOOP CONTROL",
+    "speaker": "Motherboard",
+    "line": "We were never meant to be eternal. We were meant to be repurposed.",
+    "status": "ARCHIVE DRAFT",
+    "source_id": "F02"
+  },
+  {
+    "index": 160,
+    "chapter": 13,
+    "chapter_title": "ROBOTICS & CLOSED-LOOP CONTROL",
+    "speaker": "Robot",
+    "line": "I need power, sensors, control, and actuators. Intelligence alone cannot move my feet.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N100"
+  },
+  {
+    "index": 161,
+    "chapter": 13,
+    "chapter_title": "ROBOTICS & CLOSED-LOOP CONTROL",
+    "speaker": "Servo",
+    "line": "Command a position; feedback helps me hold it under load.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N101"
+  },
+  {
+    "index": 162,
+    "chapter": 13,
+    "chapter_title": "ROBOTICS & CLOSED-LOOP CONTROL",
+    "speaker": "Encoder",
+    "line": "I count shaft motion. Speed and position need measurements.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N102"
+  },
+  {
+    "index": 163,
+    "chapter": 13,
+    "chapter_title": "ROBOTICS & CLOSED-LOOP CONTROL",
+    "speaker": "PID Controller",
+    "line": "Error tells me where I am; feedback helps me correct course.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N103"
+  },
+  {
+    "index": 164,
+    "chapter": 13,
+    "chapter_title": "ROBOTICS & CLOSED-LOOP CONTROL",
+    "speaker": "Motor",
+    "line": "Torque moves the load. Gear ratios trade speed for turning force.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N104"
+  },
+  {
+    "index": 165,
+    "chapter": 13,
+    "chapter_title": "ROBOTICS & CLOSED-LOOP CONTROL",
+    "speaker": "Wheel Robot",
+    "line": "Slip makes odometry drift. Sensors must challenge my assumptions.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N105"
+  },
+  {
+    "index": 166,
+    "chapter": 13,
+    "chapter_title": "ROBOTICS & CLOSED-LOOP CONTROL",
+    "speaker": "Robot Arm",
+    "line": "My joints have limits. Planning a path means respecting every one.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N106"
+  },
+  {
+    "index": 167,
+    "chapter": 13,
+    "chapter_title": "ROBOTICS & CLOSED-LOOP CONTROL",
+    "speaker": "Ultrasonic Sensor",
+    "line": "Echo timing estimates distance. Soft surfaces may fool me.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N107"
+  },
+  {
+    "index": 168,
+    "chapter": 13,
+    "chapter_title": "ROBOTICS & CLOSED-LOOP CONTROL",
+    "speaker": "IMU",
+    "line": "Accelerometers and gyros measure motion, not absolute truth.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N108"
+  },
+  {
+    "index": 169,
+    "chapter": 13,
+    "chapter_title": "ROBOTICS & CLOSED-LOOP CONTROL",
+    "speaker": "Robot",
+    "line": "Open-loop follows commands. Closed-loop checks what actually happened.",
+    "status": "NEW PROPOSAL",
+    "source_id": "N109"
+  }
+]
