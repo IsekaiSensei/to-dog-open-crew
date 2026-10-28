@@ -1,0 +1,37 @@
+CIRCUIT CIRCUS | META BATCH 07 OF 17 | ITEMS 061-070
+JPEG REFERENCE FOR THIS RUN: [ATTACH YOUR OWN JPG HERE]
+RUN VARIATION LABEL: [OPTIONAL — A / B / C / WORLD NAME]
+SOURCE: CIRCUIT_CIRCUS_169_ALL_IN_ONE_QC_REV02.txt
+ORDER: SINGLE META PROMPT. 10 CLIPS X APPROXIMATELY 10 SECONDS (FINAL BATCH 9 CLIPS). DO NOT REWRITE ARCHIVAL LINES.
+NOTE: Repeat the exact same dialogue with alternate JPGs to create different worlds/runs.
+
+META FRAME — LOCKED MASTER
+ONE PROMPT · TEN CLIPS · ONLY DIALOGUE CHANGES
+
+TALE: The spoken lines tell one continuous tale.
+FABLE: The meaning emerges through the visual action.
+JOURNEY: Every spoken idea triggers a corresponding image or action.
+TIME TO FRAME: Natural speech (~2.5 words/second). Do not rush. One line per clip.
+
+CAST & IDENTITY — FIXED FOR ALL TEN CLIPS AND ALL SUBAGENTS
+Use the attached ORIGINAL Isekai Sensei and Blue Fairy character sheets every time. Same adult faces, ages, hair, outfits, proportions, wings, mechanical details, and GERTECH workshop. The Blue Fairy speaks visibly, lip-synced; Sensei listens. Other fairies may demonstrate but must not replace her. Original sheets control identity. Previous scene's last frame controls camera/action continuity only. No face, age, costume, or character drift.
+
+PER-CLIP META FRAME — NEVER CHANGE
+INTRO: Only clip 01 begins FADE IN BLACK. Very brief DNA wormhole entrance. All later clips enter visibly from the preceding transition; never black.
+ACTION / JOURNEY: Keep the speaking Blue Fairy visible. As she speaks, project corresponding images, 3D diagrams, and demonstrations alongside her. For objects/animals named, show their blueprint and visible assembly before their completed action. EVERY WORD'S MEANING must be supported by the image. No irrelevant effects, scene resets, or disconnected pictures.
+STOP at the final action frame.
+EXIT WORMHOLE DNA — approximately 0.2 seconds. Morph into the next visible scene. No black frames, black blinks, or ending fade to black.
+
+DIALOGUE ONLY — CIRCUIT CIRCUS — BATCH 07
+01 / MASTER 061 / Motor Driver / NEW EDUCATIONAL PROPOSAL: “A microcontroller pin cannot power a big motor by itself.”
+02 / MASTER 062 / Flyback Diode / NEW EDUCATIONAL PROPOSAL: “When the coil switches off, I provide a safer path for its stored energy.”
+03 / MASTER 063 / H-Bridge / NEW EDUCATIONAL PROPOSAL: “Four switches let a DC motor run forward or backward—if controlled safely.”
+04 / MASTER 064 / Transistor / NEW EDUCATIONAL PROPOSAL: “Amplifying and switching are different performances with the same kind of actor.”
+05 / MASTER 065 / Level Shifter / NEW EDUCATIONAL PROPOSAL: “Your three-point-three-volt logic and five-volt neighbor need an introduction.”
+06 / MASTER 066 / 555 Timer / ORIGINAL: “Could we PLEASE maintain a rhythm?”
+07 / MASTER 067 / 555 Timer / ORIGINAL: “I had a rhythm going. It was a good rhythm.”
+08 / MASTER 068 / Crystal Oscillator / ORIGINAL: “I’m clocking. Somebody has to keep time around here.”
+09 / MASTER 069 / 555 Timer / NEW EDUCATIONAL PROPOSAL: “In astable mode I keep cycling. Rhythm is literally my job.”
+10 / MASTER 070 / 555 Timer / NEW EDUCATIONAL PROPOSAL: “In monostable mode, one trigger buys one timed pulse.”
+
+PERMANENT RULE: Only the quoted dialogue lines change between runs; META FRAME remains fixed. All scripts reference original character identity sheets.
