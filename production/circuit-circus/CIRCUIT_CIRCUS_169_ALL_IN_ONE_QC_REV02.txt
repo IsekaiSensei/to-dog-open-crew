@@ -997,7 +997,8 @@ PART 4 — MACHINE-READABLE DATA (EXACT 169 RECORDS)
     "chapter": 3,
     "chapter_title": "CAPACITORS & STORED ENERGY",
     "speaker": "Capacitor",
-    "line": "Connect a resistor; watch me charge gradually instead of instantly.",    "status": "NEW PROPOSAL",
+    "line": "Connect a resistor; watch me charge gradually instead of instantly.",
+    "status": "NEW PROPOSAL",
     "source_id": "N018"
   },
   {
@@ -1996,7 +1997,8 @@ PART 4 — MACHINE-READABLE DATA (EXACT 169 RECORDS)
     "chapter_title": "PROTECTION & ENGINEERING RELIABILITY",
     "speaker": "Fuse",
     "line": "I’m rated for this. I’m rated for… okay, I’m rated for a little less than this.",
-    "status": "ARCHIVE",    "source_id": "H16"
+    "status": "ARCHIVE",
+    "source_id": "H16"
   },
   {
     "index": 146,
