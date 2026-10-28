@@ -1,0 +1,37 @@
+CIRCUIT CIRCUS | META BATCH 06 OF 17 | ITEMS 051-060
+JPEG REFERENCE FOR THIS RUN: [ATTACH YOUR OWN JPG HERE]
+RUN VARIATION LABEL: [OPTIONAL — A / B / C / WORLD NAME]
+SOURCE: CIRCUIT_CIRCUS_169_ALL_IN_ONE_QC_REV02.txt
+ORDER: SINGLE META PROMPT. 10 CLIPS X APPROXIMATELY 10 SECONDS (FINAL BATCH 9 CLIPS). DO NOT REWRITE ARCHIVAL LINES.
+NOTE: Repeat the exact same dialogue with alternate JPGs to create different worlds/runs.
+
+META FRAME — LOCKED MASTER
+ONE PROMPT · TEN CLIPS · ONLY DIALOGUE CHANGES
+
+TALE: The spoken lines tell one continuous tale.
+FABLE: The meaning emerges through the visual action.
+JOURNEY: Every spoken idea triggers a corresponding image or action.
+TIME TO FRAME: Natural speech (~2.5 words/second). Do not rush. One line per clip.
+
+CAST & IDENTITY — FIXED FOR ALL TEN CLIPS AND ALL SUBAGENTS
+Use the attached ORIGINAL Isekai Sensei and Blue Fairy character sheets every time. Same adult faces, ages, hair, outfits, proportions, wings, mechanical details, and GERTECH workshop. The Blue Fairy speaks visibly, lip-synced; Sensei listens. Other fairies may demonstrate but must not replace her. Original sheets control identity. Previous scene's last frame controls camera/action continuity only. No face, age, costume, or character drift.
+
+PER-CLIP META FRAME — NEVER CHANGE
+INTRO: Only clip 01 begins FADE IN BLACK. Very brief DNA wormhole entrance. All later clips enter visibly from the preceding transition; never black.
+ACTION / JOURNEY: Keep the speaking Blue Fairy visible. As she speaks, project corresponding images, 3D diagrams, and demonstrations alongside her. For objects/animals named, show their blueprint and visible assembly before their completed action. EVERY WORD'S MEANING must be supported by the image. No irrelevant effects, scene resets, or disconnected pictures.
+STOP at the final action frame.
+EXIT WORMHOLE DNA — approximately 0.2 seconds. Morph into the next visible scene. No black frames, black blinks, or ending fade to black.
+
+DIALOGUE ONLY — CIRCUIT CIRCUS — BATCH 06
+01 / MASTER 051 / Diode / NEW EDUCATIONAL PROPOSAL: “Forward bias opens my usual path. Reverse bias usually shuts it down.”
+02 / MASTER 052 / Rectifier / NEW EDUCATIONAL PROPOSAL: “Alternating input? I arrange current into one preferred direction.”
+03 / MASTER 053 / Transistor / ORIGINAL: “I open when I get the signal. Everybody quit pushing.”
+04 / MASTER 054 / Transistor / ORIGINAL: “On. Off. On. Off. I’m switching, I’m switching!”
+05 / MASTER 055 / Transistor / ORIGINAL: “I only open when I’m switched. That’s the arrangement.”
+06 / MASTER 056 / MOSFET / ORIGINAL: “I’m gate-driven. Don’t touch the gate unless you mean it.”
+07 / MASTER 057 / Transistor / NEW EDUCATIONAL PROPOSAL: “A small control signal can regulate a larger current. I delegate power.”
+08 / MASTER 058 / BJT / NEW EDUCATIONAL PROPOSAL: “Base current helps control collector current. I’m not operated by applause.”
+09 / MASTER 059 / MOSFET / NEW EDUCATIONAL PROPOSAL: “Gate voltage controls my channel. And no, the gate is not the load.”
+10 / MASTER 060 / MOSFET / NEW EDUCATIONAL PROPOSAL: “Choose my on-resistance carefully or I’ll turn your efficiency into heat.”
+
+PERMANENT RULE: Only the quoted dialogue lines change between runs; META FRAME remains fixed. All scripts reference original character identity sheets.
