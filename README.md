@@ -7,6 +7,8 @@
 
 **RENDER-AGE CANON:** Fairies are adults aged 25+; Isekai Sensei appears 40 in-world. Preserve approved character source images. This is a reference rule, not permission to render. Full rule: [current ORDERS.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md).
 
+**CONTRACTOR BOUNDARY (October 28, 2026):** Grok and all Grok bots are independent external contractors, not TO WORLD crew, GitHub sorters, coordinators, dispatchers, recipients of orders, or approval authorities. Never route assignments or GitHub workflow steps through them. Historical character and source records do not grant any role. See [the controlling ORDERS.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md).
+
 **CURRENT ORDERS:** [Active script banks for reading, organizing, and QC](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md). No autonomous production, clip rerenders, old queues, or media publishing. Existing text and visual assets are source material, not assignments.
 
 **Isekai Sensei**
