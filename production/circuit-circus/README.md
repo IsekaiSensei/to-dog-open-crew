@@ -1,37 +1,15 @@
-# CIRCUIT CIRCUS — PUBLIC META PRODUCTION
+# CIRCUIT CIRCUS — DIALOGUE HOLD
 
-169 numbered electronics, engineering, and robotics teaching dialogues. 17 independently reusable single-prompt META FRAME batches. Public creator identity: Isekai Sensei.
+**STATUS: NO ACTIVE PRODUCTION OR RENDER ASSIGNMENTS.**
 
-**START HERE:** [All 17 scripts as one TXT](CIRCUIT_CIRCUS_ALL_17_META_BATCHES.txt) · [Complete 169-line QC Rev02 master](CIRCUIT_CIRCUS_169_ALL_IN_ONE_QC_REV02.txt).
+Current owner-authorized orders are in [the single dialogue-only ORDERS.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md).
 
-[DeepSeek review — technical accuracy, pacing, and suggested edits](DEEPSEEK_QC_REVIEW_169_2026-10-28.md).
+Preserve existing dialogue and its provenance. Every script, draft, quote bank, mixed compilation, and renderer packet in this directory is **source material only**, not an executable prompt, assignment, cast requirement, or accepted movie.
 
-## Individual Meta batches
+Do not infer a narrator, character, palette, scene, clip count, sequence, or new episode from a stored file. In particular, never treat a saved prompt's character/color restrictions as a universal rule.
 
-- [Batch 01 — 001–010](BATCH_01_DIALOGUES_001-010.txt)
-- [Batch 02 — 011–020](BATCH_02_DIALOGUES_011-020.txt)
-- [Batch 03 — 021–030](BATCH_03_DIALOGUES_021-030.txt)
-- [Batch 04 — 031–040](BATCH_04_DIALOGUES_031-040.txt)
-- [Batch 05 — 041–050](BATCH_05_DIALOGUES_041-050.txt)
-- [Batch 06 — 051–060](BATCH_06_DIALOGUES_051-060.txt)
-- [Batch 07 — 061–070](BATCH_07_DIALOGUES_061-070.txt)
-- [Batch 08 — 071–080](BATCH_08_DIALOGUES_071-080.txt)
-- [Batch 09 — 081–090](BATCH_09_DIALOGUES_081-090.txt)
-- [Batch 10 — 091–100](BATCH_10_DIALOGUES_091-100.txt)
-- [Batch 11 — 101–110](BATCH_11_DIALOGUES_101-110.txt)
-- [Batch 12 — 111–120](BATCH_12_DIALOGUES_111-120.txt)
-- [Batch 13 — 121–130](BATCH_13_DIALOGUES_121-130.txt)
-- [Batch 14 — 131–140](BATCH_14_DIALOGUES_131-140.txt)
-- [Batch 15 — 141–150](BATCH_15_DIALOGUES_141-150.txt)
-- [Batch 16 — 151–160](BATCH_16_DIALOGUES_151-160.txt)
-- [Batch 17 — 161–169](BATCH_17_DIALOGUES_161-169.txt) (9 clips)
+Nothing in this directory authorizes a renderer to start, rerun, or publish anything. Do not process the directory as a job queue, auto-check off clips, or invent completed work.
 
-## Production rules
+For later owner-directed film work: preserve exact spoken lines and their `she:`, `he:`, or `they:` speakers; review 6–9-second speech pacing; map matching finished footage; edit and splice existing takes; request only explicitly approved pickups. Suitable contact with tools/parts and bench-reveal jokes may support the chosen dialogue, without forcing touch or changing the chosen cast.
 
-Each batch is a single Meta prompt, not a separate per-clip prompt. Add your own reference JPEG where marked; reuse the identical dialogue with different reference art for alternate worlds. Original character identity sheets stay authoritative for every subagent; the previous clip frame provides camera/action continuity only. The fixed META FRAME and transitions stay unchanged. The final batch contains nine clips, for 169 total.
-
-Original archival dialogue, historical drafts and new proposed educational lines are distinguished in the master. Proposed material requires technical/creative approval before canon. The public script files contain no private dialogue archive, personal contact details, or image/video assets. Artwork lives in Drive separately.
-
-## Separate gameplay intro
-
-[No Man's Sky — chair to dreadnought long introduction](../nms/NMS_FORSAKEN_CHAIR_TO_DREADNOUGHT_LONG_INTRO.txt).
+**Do not delete original dialogue or existing videos.** No new work without a fresh direct Sensei instruction.
