@@ -5,7 +5,7 @@
 
 **ARTWORK — START HERE:** [TO WORLD pictures](https://drive.google.com/drive/folders/1848layOO9qRV3Mt7w6kSuIV5zX3Lu_IV) · [AGENTS — CHARACTERS](https://drive.google.com/drive/folders/1QP-dtxQo-y0uo2PlL6CeFfcMwH9hmCpB). Open the actual owner-selected JPEG. Folder names and text indexes do not establish character identity or prove the image loaded.
 
-**RENDER-AGE CANON:** Fairies are adults aged 25+; Isekai Sensei appears 40 in-world. Preserve approved character source images. This is a reference rule, not permission to render. Full rule: [current ORDERS.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md).
+**RENDER-AGE CANON:** Fairies are adults aged 25+; Isekai Sensei appears 40 in-world. Preserve approved character source images. This is a reference rule, not permission to render. Full rule: [production notes](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/scripts/PRODUCTION_NOTES.md).
 
 **CONTRACTOR BOUNDARY (October 28, 2026):** Grok and all Grok bots are independent external contractors, not TO WORLD crew, GitHub sorters, coordinators, dispatchers, recipients of orders, or approval authorities. Never route assignments or GitHub workflow steps through them. Historical character and source records do not grant any role. See [the controlling ORDERS.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md).
 
