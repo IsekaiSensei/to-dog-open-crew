@@ -1,5 +1,7 @@
 # CIRCUIT CIRCUS — DIALOGUE HOLD
 
+**NO GROK CHAIN:** Grok and Grok bots are external contractors, not recipients of render orders, script approval requests, review queues, GitHub jobs, or internal handoffs. Retain historic dialogue/source records without treating any past Grok contribution as an order or a verified render.
+
 **STATUS: NO ACTIVE PRODUCTION OR RENDER ASSIGNMENTS.**
 
 Current owner-authorized orders are in [the single dialogue-only ORDERS.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md).
