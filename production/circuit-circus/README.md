@@ -1,19 +1,11 @@
-# CIRCUIT CIRCUS — DIALOGUE HOLD
+# Circuit Circus — script sources
 
-**NO GROK CHAIN:** Grok and Grok bots are external contractors, not recipients of render orders, script approval requests, review queues, GitHub jobs, or internal handoffs. Retain historic dialogue/source records without treating any past Grok contribution as an order or a verified render.
+[Shared orders](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md) · [Script selection](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/scripts/README.md)
 
-**NO MUSE ASSIGNMENTS:** Muse is off project; do not request, schedule, or route any renders, script reviews, or production handoffs to Muse. Five renders per week is only a historical capacity note, not an active allowance. Previous artwork and dialogue remain archived.
+Use the exact script and version Sensei selects. “Run the script” authorizes the requested clips and batches; continue without a second GO. “Check” or “fix” requests checking or repair, not a render claim.
 
-**STATUS: NO ACTIVE PRODUCTION OR RENDER ASSIGNMENTS.**
+This folder contains earlier source dialogue and packets. Their embedded cast, colors, frame and instructions are local to those versions. Do not promote an older packet to the current production because it is easy to find. Do not replace the separate October 29 assembly rewrite with the ONE WORLD anthology.
 
-Current owner-authorized orders are in [the single dialogue-only ORDERS.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md).
+Keep existing source dialogue and media. Current original references control identity; the preceding frame controls action continuity. Keep production progress per script, and report actual rendered output separately from planned clips or owner-reported output.
 
-Preserve existing dialogue and its provenance. Every script, draft, quote bank, mixed compilation, and renderer packet in this directory is **source material only**, not an executable prompt, assignment, cast requirement, or accepted movie.
-
-Do not infer a narrator, character, palette, scene, clip count, sequence, or new episode from a stored file. In particular, never treat a saved prompt's character/color restrictions as a universal rule.
-
-Nothing in this directory authorizes a renderer to start, rerun, or publish anything. Do not process the directory as a job queue, auto-check off clips, or invent completed work.
-
-For later owner-directed film work: preserve exact spoken lines and their `she:`, `he:`, or `they:` speakers; review 6–9-second speech pacing; map matching finished footage; edit and splice existing takes; request only explicitly approved pickups. Suitable contact with tools/parts and bench-reveal jokes may support the chosen dialogue, without forcing touch or changing the chosen cast.
-
-**Do not delete original dialogue or existing videos.** No new work without a fresh direct Sensei instruction.
+Grok is an external contractor outside the GitHub work chain; Muse is off project. Their historical character/dialogue appearances are not operational assignments.
