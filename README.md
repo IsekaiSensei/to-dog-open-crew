@@ -9,6 +9,8 @@
 
 **CONTRACTOR BOUNDARY (October 28, 2026):** Grok and all Grok bots are independent external contractors, not TO WORLD crew, GitHub sorters, coordinators, dispatchers, recipients of orders, or approval authorities. Never route assignments or GitHub workflow steps through them. Historical character and source records do not grant any role. See [the controlling ORDERS.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md).
 
+**MUSE OFF PROJECT:** Muse has no active TO WORLD role, rendering queue, review function, or order authority. The five-render-per-week capacity note does not authorize assigning five jobs. Historical character art remains an archive. See [the controlling orders](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md).
+
 **CURRENT ORDERS:** [Active script banks for reading, organizing, and QC](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md). No autonomous production, clip rerenders, old queues, or media publishing. Existing text and visual assets are source material, not assignments.
 
 **Isekai Sensei**
