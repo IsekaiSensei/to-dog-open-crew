@@ -3,7 +3,7 @@
 **CURRENT PUBLIC STRUCTURE — October 26, 2026 rewrite.** This is the authoritative entrance for TO WORLD art links, current HTML, and the independent wing law. **Fictional agent identities and personality matrices are in [chat.work.open.ai](https://github.com/IsekaiSensei/chat.work.open.ai), not in an `agents/` directory here.** Older `to-dog-*` and `vanilla-sky-*` layouts, old task queues, and instructions remembered by previous chat windows have no authority to restore files or overwrite this rewrite. Before any proposed change, re-read the CURRENT README in both public repositories and fetch the exact target file's latest version. **No writes without Sensei's explicit current request; do not recreate retired folders, old orders, or discarded code.** Artwork stays in its linked Drive source. Public creator: **Isekai Sensei**.
 
 
-**ARTWORK — START HERE:** [TO WORLD original art & character sheets — direct Drive index](https://docs.google.com/document/d/1epHv4iJus9V_1n3F66365oT7GYkD1-YKs7nk3wjhtEc/edit). This is the entry point for existing source images and illustrated books. It holds **323 direct file references plus source folder routes** as of October 28, 2026; additional material may exist outside the index. A blank template or a filename alone is NOT a character reference. An approved character's actual visible artwork must be consulted for any explicitly authorized visual task. This link provides navigation, not automatic image loading or publishing permission.
+**ARTWORK — START HERE:** [TO WORLD pictures](https://drive.google.com/drive/folders/1848layOO9qRV3Mt7w6kSuIV5zX3Lu_IV) · [AGENTS — CHARACTERS](https://drive.google.com/drive/folders/1QP-dtxQo-y0uo2PlL6CeFfcMwH9hmCpB). Open the actual owner-selected JPEG. Folder names and text indexes do not establish character identity or prove the image loaded.
 
 **RENDER-AGE CANON:** Fairies are adults aged 25+; Isekai Sensei appears 40 in-world. Preserve approved character source images. This is a reference rule, not permission to render. Full rule: [current ORDERS.md](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md).
 
@@ -11,7 +11,7 @@
 
 **MUSE OFF PROJECT:** Muse has no active TO WORLD role, rendering queue, review function, or order authority. The five-render-per-week capacity note does not authorize assigning five jobs. Historical character art remains an archive. See [the controlling orders](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md).
 
-**CURRENT ORDERS:** [Active script banks for reading, organizing, and QC](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md). No autonomous production, clip rerenders, old queues, or media publishing. Existing text and visual assets are source material, not assignments.
+**CURRENT ORDERS:** [Shared workflow](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/ORDERS.md) · [Scripts](https://github.com/IsekaiSensei/chat.work.open.ai/blob/main/scripts/README.md). Sensei's instruction to run the selected script authorizes that production scope. Continue without a second GO. Stored files alone do not assign unrelated work or authorize publication.
 
 **Isekai Sensei**
 
