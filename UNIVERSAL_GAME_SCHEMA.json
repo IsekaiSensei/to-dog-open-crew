@@ -1,0 +1,636 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/IsekaiSensei/to-world-open-crew/blob/main/UNIVERSAL_GAME_SCHEMA.json",
+  "title": "TO WORLD universal inventory, spawn and transition format (v1)",
+  "description": "Single shared portable data model. Includes reusable definitions and world-local spawn configuration. Per-game runtime progress persists across exits.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "catalog",
+    "backpack",
+    "spawner_templates",
+    "worlds",
+    "game_states"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "save_id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "revision": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "active_game": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "catalog": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "items",
+        "entities"
+      ],
+      "properties": {
+        "items": {
+          "type": "object",
+          "additionalProperties": {
+            "$ref": "#/$defs/item_definition"
+          }
+        },
+        "entities": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "name",
+              "category"
+            ],
+            "properties": {
+              "name": {
+                "type": "string",
+                "minLength": 1
+              },
+              "category": {
+                "type": "string",
+                "minLength": 1
+              },
+              "properties": {
+                "type": "object",
+                "additionalProperties": true
+              }
+            }
+          }
+        }
+      }
+    },
+    "backpack": {
+      "$ref": "#/$defs/backpack"
+    },
+    "spawner_templates": {
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/$defs/spawner_template"
+      }
+    },
+    "worlds": {
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/$defs/world"
+      }
+    },
+    "game_states": {
+      "type": "object",
+      "additionalProperties": {
+        "$ref": "#/$defs/game_state"
+      }
+    }
+  },
+  "$defs": {
+    "position": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "x",
+        "y"
+      ],
+      "properties": {
+        "x": {
+          "type": "number"
+        },
+        "y": {
+          "type": "number"
+        },
+        "z": {
+          "type": "number"
+        }
+      }
+    },
+    "item_definition": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "category"
+      ],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "category": {
+          "type": "string",
+          "enum": [
+            "ammo",
+            "potion",
+            "equipment",
+            "material",
+            "quest",
+            "other"
+          ]
+        },
+        "subtype": {
+          "type": "string"
+        },
+        "stackable": {
+          "type": "boolean"
+        },
+        "effects": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "type"
+            ],
+            "properties": {
+              "type": {
+                "type": "string",
+                "minLength": 1
+              },
+              "magnitude": {
+                "type": "number"
+              },
+              "duration_ms": {
+                "type": "integer",
+                "minimum": 0
+              },
+              "cooldown_ms": {
+                "type": "integer",
+                "minimum": 0
+              }
+            }
+          }
+        },
+        "properties": {
+          "type": "object",
+          "additionalProperties": true
+        }
+      }
+    },
+    "item_entry": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "entry_id",
+        "definition_id",
+        "quantity"
+      ],
+      "properties": {
+        "entry_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "definition_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "quantity": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "instance_data": {
+          "type": "object",
+          "additionalProperties": true
+        }
+      }
+    },
+    "backpack": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "items",
+        "equipped"
+      ],
+      "properties": {
+        "items": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/item_entry"
+          }
+        },
+        "equipped": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "string",
+            "minLength": 1
+          }
+        }
+      }
+    },
+    "spawn_target": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "kind",
+        "definition_id"
+      ],
+      "properties": {
+        "kind": {
+          "enum": [
+            "item",
+            "entity"
+          ]
+        },
+        "definition_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "weight": {
+          "type": "number",
+          "exclusiveMinimum": 0
+        },
+        "quantity": {
+          "type": "integer",
+          "minimum": 1
+        }
+      }
+    },
+    "trigger": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "mode"
+      ],
+      "properties": {
+        "mode": {
+          "enum": [
+            "interval",
+            "event",
+            "wave",
+            "on_enter",
+            "manual"
+          ]
+        },
+        "interval_ms": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "event_name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "wave_size": {
+          "type": "integer",
+          "minimum": 1
+        }
+      }
+    },
+    "limits": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [],
+      "properties": {
+        "max_alive": {
+          "type": "integer",
+          "minimum": 1
+        },
+        "total_budget": {
+          "oneOf": [
+            {
+              "type": "integer",
+              "minimum": 0
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "cooldown_ms": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "spawner_template": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "name",
+        "spawn_pool",
+        "trigger",
+        "limits"
+      ],
+      "properties": {
+        "name": {
+          "type": "string",
+          "minLength": 1
+        },
+        "spawn_pool": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "$ref": "#/$defs/spawn_target"
+          }
+        },
+        "trigger": {
+          "$ref": "#/$defs/trigger"
+        },
+        "limits": {
+          "$ref": "#/$defs/limits"
+        },
+        "conditions": {
+          "type": "object",
+          "additionalProperties": true
+        }
+      }
+    },
+    "spawn_point": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "position",
+        "role"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "position": {
+          "$ref": "#/$defs/position"
+        },
+        "orientation": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [],
+          "properties": {
+            "yaw": {
+              "type": "number"
+            },
+            "pitch": {
+              "type": "number"
+            },
+            "roll": {
+              "type": "number"
+            }
+          }
+        },
+        "role": {
+          "enum": [
+            "player_start",
+            "enemy_spawn",
+            "item_drop",
+            "boss",
+            "checkpoint",
+            "other"
+          ]
+        },
+        "tags": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          }
+        },
+        "enabled": {
+          "type": "boolean"
+        },
+        "linked_spawner_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "metadata": {
+          "type": "object",
+          "additionalProperties": true
+        }
+      }
+    },
+    "spawner_instance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "id",
+        "template_id",
+        "spawn_point_ids"
+      ],
+      "properties": {
+        "id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "template_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "spawn_point_ids": {
+          "type": "array",
+          "minItems": 1,
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "overrides": {
+          "type": "object",
+          "additionalProperties": true
+        }
+      }
+    },
+    "world": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "coordinate_system",
+        "spawn_points",
+        "spawner_instances"
+      ],
+      "properties": {
+        "coordinate_system": {
+          "enum": [
+            "local_2d",
+            "local_3d",
+            "world_2d",
+            "world_3d"
+          ]
+        },
+        "spawn_points": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/spawn_point"
+          }
+        },
+        "spawner_instances": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/spawner_instance"
+          }
+        },
+        "world_spawn_budget": {
+          "oneOf": [
+            {
+              "type": "integer",
+              "minimum": 0
+            },
+            {
+              "type": "null"
+            }
+          ]
+        },
+        "transition_destinations": {
+          "type": "object",
+          "additionalProperties": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "game_id",
+              "spawn_point_id"
+            ],
+            "properties": {
+              "game_id": {
+                "type": "string",
+                "minLength": 1
+              },
+              "spawn_point_id": {
+                "type": "string",
+                "minLength": 1
+              }
+            }
+          }
+        }
+      }
+    },
+    "spawn_point_state": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [],
+      "properties": {
+        "enabled": {
+          "type": "boolean"
+        },
+        "activated": {
+          "type": "boolean"
+        },
+        "times_used": {
+          "type": "integer",
+          "minimum": 0
+        }
+      }
+    },
+    "spawner_state": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [],
+      "properties": {
+        "enabled": {
+          "type": "boolean"
+        },
+        "cooldown_remaining_ms": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "wave_index": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "spawned_total": {
+          "type": "integer",
+          "minimum": 0
+        },
+        "alive_instance_ids": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "minLength": 1
+          },
+          "uniqueItems": true
+        },
+        "in_progress_wave": {
+          "type": "object",
+          "additionalProperties": false,
+          "required": [],
+          "properties": {
+            "started": {
+              "type": "boolean"
+            },
+            "spawned": {
+              "type": "integer",
+              "minimum": 0
+            },
+            "resolved": {
+              "type": "integer",
+              "minimum": 0
+            }
+          }
+        }
+      }
+    },
+    "live_entity": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "instance_id",
+        "definition_id",
+        "position"
+      ],
+      "properties": {
+        "instance_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "definition_id": {
+          "type": "string",
+          "minLength": 1
+        },
+        "position": {
+          "$ref": "#/$defs/position"
+        },
+        "properties": {
+          "type": "object",
+          "additionalProperties": true
+        }
+      }
+    },
+    "game_state": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "spawn_point_states",
+        "spawner_states",
+        "live_entities"
+      ],
+      "properties": {
+        "spawn_point_states": {
+          "type": "object",
+          "additionalProperties": {
+            "$ref": "#/$defs/spawn_point_state"
+          }
+        },
+        "spawner_states": {
+          "type": "object",
+          "additionalProperties": {
+            "$ref": "#/$defs/spawner_state"
+          }
+        },
+        "live_entities": {
+          "type": "array",
+          "items": {
+            "$ref": "#/$defs/live_entity"
+          }
+        },
+        "last_checkpoint_id": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "extensions": {
+          "type": "object",
+          "additionalProperties": true
+        }
+      }
+    }
+  }
+}

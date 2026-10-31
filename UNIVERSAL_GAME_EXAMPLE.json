@@ -1,0 +1,227 @@
+{
+  "schema_version": 1,
+  "save_id": "demo-universal-save",
+  "revision": 1,
+  "active_game": "world:arena",
+  "catalog": {
+    "items": {
+      "core:ammo/light": {
+        "name": "Light Bullets",
+        "category": "ammo",
+        "subtype": "light",
+        "stackable": true,
+        "properties": {
+          "caliber": "light"
+        }
+      },
+      "core:potion/health": {
+        "name": "Health Potion",
+        "category": "potion",
+        "stackable": true,
+        "effects": [
+          {
+            "type": "restore_health",
+            "magnitude": 50
+          }
+        ],
+        "properties": {}
+      }
+    },
+    "entities": {
+      "core:enemy/drone": {
+        "name": "Drone",
+        "category": "enemy",
+        "properties": {}
+      }
+    }
+  },
+  "backpack": {
+    "items": [
+      {
+        "entry_id": "stack-ammo-01",
+        "definition_id": "core:ammo/light",
+        "quantity": 80
+      },
+      {
+        "entry_id": "stack-potion-01",
+        "definition_id": "core:potion/health",
+        "quantity": 12
+      }
+    ],
+    "equipped": {}
+  },
+  "spawner_templates": {
+    "core:spawner/ammo_pickup": {
+      "name": "Ammo Drops",
+      "spawn_pool": [
+        {
+          "kind": "item",
+          "definition_id": "core:ammo/light",
+          "quantity": 10
+        }
+      ],
+      "trigger": {
+        "mode": "event",
+        "event_name": "loot_drop"
+      },
+      "limits": {
+        "max_alive": 5,
+        "total_budget": null,
+        "cooldown_ms": 1000
+      }
+    },
+    "core:spawner/drone_wave": {
+      "name": "Drone Waves",
+      "spawn_pool": [
+        {
+          "kind": "entity",
+          "definition_id": "core:enemy/drone",
+          "quantity": 1
+        }
+      ],
+      "trigger": {
+        "mode": "wave",
+        "wave_size": 3
+      },
+      "limits": {
+        "max_alive": 3,
+        "total_budget": 30,
+        "cooldown_ms": 2000
+      }
+    }
+  },
+  "worlds": {
+    "world:arena": {
+      "coordinate_system": "local_3d",
+      "spawn_points": [
+        {
+          "id": "entrance",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "role": "player_start",
+          "tags": [
+            "arrival"
+          ]
+        },
+        {
+          "id": "drone-pad",
+          "position": {
+            "x": 5,
+            "y": 0,
+            "z": 0
+          },
+          "role": "enemy_spawn",
+          "linked_spawner_id": "arena-drone"
+        },
+        {
+          "id": "ammo-drop",
+          "position": {
+            "x": 2,
+            "y": 0,
+            "z": 1
+          },
+          "role": "item_drop",
+          "linked_spawner_id": "arena-ammo"
+        },
+        {
+          "id": "checkpoint-a",
+          "position": {
+            "x": 10,
+            "y": 0,
+            "z": 2
+          },
+          "role": "checkpoint"
+        }
+      ],
+      "spawner_instances": [
+        {
+          "id": "arena-drone",
+          "template_id": "core:spawner/drone_wave",
+          "spawn_point_ids": [
+            "drone-pad"
+          ]
+        },
+        {
+          "id": "arena-ammo",
+          "template_id": "core:spawner/ammo_pickup",
+          "spawn_point_ids": [
+            "ammo-drop"
+          ]
+        }
+      ],
+      "world_spawn_budget": 40,
+      "transition_destinations": {
+        "exit-to-hub": {
+          "game_id": "world:hub",
+          "spawn_point_id": "hub-arrival"
+        }
+      }
+    },
+    "world:hub": {
+      "coordinate_system": "local_3d",
+      "spawn_points": [
+        {
+          "id": "hub-arrival",
+          "position": {
+            "x": 0,
+            "y": 0,
+            "z": 0
+          },
+          "role": "player_start"
+        }
+      ],
+      "spawner_instances": []
+    }
+  },
+  "game_states": {
+    "world:arena": {
+      "spawn_point_states": {
+        "checkpoint-a": {
+          "activated": true,
+          "enabled": true
+        }
+      },
+      "spawner_states": {
+        "arena-drone": {
+          "enabled": true,
+          "cooldown_remaining_ms": 800,
+          "wave_index": 2,
+          "spawned_total": 4,
+          "alive_instance_ids": [
+            "drone-04"
+          ],
+          "in_progress_wave": {
+            "started": true,
+            "spawned": 1,
+            "resolved": 0
+          }
+        },
+        "arena-ammo": {
+          "enabled": true,
+          "cooldown_remaining_ms": 0,
+          "spawned_total": 1
+        }
+      },
+      "live_entities": [
+        {
+          "instance_id": "drone-04",
+          "definition_id": "core:enemy/drone",
+          "position": {
+            "x": 5,
+            "y": 0,
+            "z": 0
+          }
+        }
+      ],
+      "last_checkpoint_id": "checkpoint-a"
+    },
+    "world:hub": {
+      "spawn_point_states": {},
+      "spawner_states": {},
+      "live_entities": []
+    }
+  }
+}
